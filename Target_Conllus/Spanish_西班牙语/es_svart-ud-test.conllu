@@ -1,0 +1,645 @@
+# sent_id = ALEC-ALEC_C3_A30_4-148
+# time = 00:19:56,920--> 00:20:45,300
+# location = Colombia-Antioquia-Ituango
+# turn_text = I16: El conejo le dijo: "Quedáte aquí y cuando yo te pegue el grito te abrís de patas y manos, abrís la boca y cerrás los ojos".
+# text = El conejo le dijo: "Quedáte aquí y cuando yo te pegue el grito te abrís de patas y manos, abrís la boca y cerrás los ojos".
+# text_orth = El conejo le dijo: "Quedáte aquí y cuando yo te pegue el grito te abrís de patas y manos, abrís la boca y cerrás los ojos".
+# text_en = The rabbit told him: "Stay here and when I hit you the scream (I scream at you), open your legs and hands, open your mouth and close your eyes."
+# lang = es
+1	El	_	_	_	_	_	_	_	Gloss=The
+2	conejo	_	_	_	_	_	_	_	Gloss=rabbit
+3	le	_	_	_	_	_	_	_	Gloss=him/her
+4	dijo	_	_	_	_	_	_	_	Gloss=told|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	_
+6	"	_	_	_	_	_	_	_	SpaceAfter=No
+7-8	Quedáte	_	_	_	_	_	_	_	_
+7	Quedá	_	_	_	_	_	_	_	Gloss=stay
+8	te	_	_	_	_	_	_	_	Gloss=you
+9	aquí	_	_	_	_	_	_	_	Gloss=here
+10	y	_	_	_	_	_	_	_	Gloss=and
+11	cuando	_	_	_	_	_	_	_	Gloss=when
+12	yo	_	_	_	_	_	_	_	Gloss=I
+13	te	_	_	_	_	_	_	_	Gloss=you
+14	pegue	_	_	_	_	_	_	_	Gloss=hit
+15	el	_	_	_	_	_	_	_	Gloss=the
+16	grito	_	_	_	_	_	_	_	Gloss=scream
+17	te	_	_	_	_	_	_	_	Gloss=you
+18	abrís	_	_	_	_	_	_	_	Gloss=open
+19	de	_	_	_	_	_	_	_	Gloss=from
+20	patas	_	_	_	_	_	_	_	Gloss=legs
+21	y	_	_	_	_	_	_	_	Gloss=and
+22	manos	_	_	_	_	_	_	_	Gloss=hands|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	_
+24	abrís	_	_	_	_	_	_	_	Gloss=you_open
+25	la	_	_	_	_	_	_	_	Gloss=the
+26	boca	_	_	_	_	_	_	_	Gloss=mouth
+27	y	_	_	_	_	_	_	_	Gloss=and
+28	cerrás	_	_	_	_	_	_	_	Gloss=you_close
+29	los	_	_	_	_	_	_	_	Gloss=the
+30	ojos	_	_	_	_	_	_	_	Gloss=eyes|SpaceAfter=No
+31	"	_	_	_	_	_	_	_	SpaceAfter=No
+32	.	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = AMERESCO-BUE_001_03_19-537
+# time = 00:24:23.11-00:24:26.50
+# location = Argentina-Buenos Aires-Buenos Aires
+# turn_text = C: ¿vos seguís a la<alargamiento/>/ la Bonaerense?/ creo que ya [hablamos]
+# text = ¿vos seguís a la la Bonaerense?, creo que ya hablamos
+# text_orth = ¿vos seguís a la la Bonaerense?, creo que ya hablamos
+# text_en = Do you follow the the Bonaerense?, I think we already talked
+# lang = es
+1	¿	_	_	_	_	_	_	_	SpaceAfter=No
+2	vos	_	_	_	_	_	_	_	Gloss=you
+3	seguís	_	_	_	_	_	_	_	Gloss=follow
+4	a	_	_	_	_	_	_	_	Gloss=to
+5	la	_	_	_	_	_	_	_	Gloss=the
+6	la	_	_	_	_	_	_	_	Gloss=the
+7	Bonaerense	_	_	_	_	_	_	_	Gloss=Bonaerense|SpaceAfter=No
+8	?	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	creo	I think	_	_	_	_	_	_	_
+11	que	_	_	_	_	_	_	_	Gloss=that
+12	ya	_	_	_	_	_	_	_	Gloss=already
+13	hablamos	_	_	_	_	_	_	_	Gloss=we_talked|SpaceAfter=No
+
+# sent_id = AMERESCO-IQQ_002_06_12-2
+# time = 00:00:00.00-00:00:05.66
+# location = Chile-Iquique-Iquique
+# turn_text = Hija: [<ininteligible/>]/ [en] noviembre tení que llenar el <siglas t="fuas">FUAS</siglas>/ y el <siglas t="fuas">FUAS</siglas> ahí te dan tu- postulái a becas
+# text = en noviembre tení que llenar el FUAS y el FUAS ahí te dan tu postulái a becas
+# text_orth = en noviembre tení que llenar el FUAS y el FUAS ahí te dan tu postulái a becas
+# text_en = in November you have to fill out the FUAS and the FUAS there they give you you apply for scholarships
+# lang = es
+1	en	_	_	_	_	_	_	_	Gloss=in
+2	noviembre	_	_	_	_	_	_	_	Gloss=November
+3	tení	_	_	_	_	_	_	_	Gloss=you_had
+4	que	_	_	_	_	_	_	_	Gloss=to
+5	llenar	_	_	_	_	_	_	_	Gloss=fill_out
+6	el	_	_	_	_	_	_	_	Gloss=the
+7	FUAS	_	_	_	_	_	_	_	Gloss=FUAS
+8	y	_	_	_	_	_	_	_	Gloss=and
+9	el	_	_	_	_	_	_	_	Gloss=the
+10	FUAS	_	_	_	_	_	_	_	Gloss=FUAS
+11	ahí	_	_	_	_	_	_	_	Gloss=there
+12	te	_	_	_	_	_	_	_	Gloss=you
+13	dan	_	_	_	_	_	_	_	Gloss=give
+14	tu	_	_	_	_	_	_	_	Gloss=your
+15	postulái	_	_	_	_	_	_	_	Gloss=apply
+16	a	_	_	_	_	_	_	_	Gloss=to
+17	becas	_	_	_	_	_	_	_	Gloss=scholarships|SpaceAfter=No
+
+# sent_id = AMERESCO-MEX_004_04_15-443
+# time = 00:16:25.21-00:16:34.53
+# location = México-Ciudad de México-Ciudad de México
+# turn_text = V4: no <ininteligible/> como<alargamiento/>// ¿cómo decís acá? <ininteligible/> a alguien para evitar que te metieran al tango/// (1.3) pinche güey [<ininteligible/>]
+# text = no como ¿cómo decís acá? a alguien para evitar que te metieran al tango, pinche güey
+# text_orth = no como, ¿cómo decís acá? a alguien para evitar que te metieran al tango, pinche güey
+# text_en = not as, how do you say here? to someone to prevent them from getting you into tango, damn dude
+# lang = es
+1	no	_	_	_	_	_	_	_	Gloss=no
+2	como	_	_	_	_	_	_	_	Gloss=as/like
+3	¿	_	_	_	_	_	_	_	SpaceAfter=No
+4	cómo	_	_	_	_	_	_	_	Gloss=how
+5	decís	_	_	_	_	_	_	_	Gloss=you_say
+6	acá	_	_	_	_	_	_	_	Gloss=here|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	Gloss=to
+9	alguien	_	_	_	_	_	_	_	Gloss=someone
+10	para	_	_	_	_	_	_	_	Gloss=to
+11	evitar	_	_	_	_	_	_	_	Gloss=avoid
+12	que	_	_	_	_	_	_	_	Gloss=that
+13	te	_	_	_	_	_	_	_	Gloss=you
+14	metieran	_	_	_	_	_	_	_	Gloss=get_into
+15-16	al	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	Gloss=to
+16	el	_	_	_	_	_	_	_	Gloss=the
+17	tango	_	_	_	_	_	_	_	Gloss=tango|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	_
+19	pinche	_	_	_	_	_	_	_	Gloss=damn
+20	güey	_	_	_	_	_	_	_	Gloss=dude|SpaceAfter=No
+
+# sent_id = AMERESCO-TGU_003_03_19-231
+# time = 00:09:59.88-00:10:13.60
+# location = Honduras-Francisco Morazán-Tegucigalpa
+# turn_text = A: y a mí/ a mí por ratos me dan ganas de estudiar medicina/ vos sabés que terminarme una<alargamiento/>/ la la de <ininteligible/> o sea terminar esta y<alargamiento/>/ seguir con la licenciatura aquella unos tres años más// por cua- cua- unos cuan- a los veintiocho ven[dría terminando]
+# text = y a mí, a mí por ratos me dan ganas de estudiar medicina, vos sabés que terminarme una la la de o sea terminar esta y seguir con la licenciatura aquella unos tres años más, por cua cua unos cuan a los veintiocho vendría terminando
+# text_orth = y a mí, a mí por ratos me dan ganas de estudiar medicina, vos sabés que terminarme una la la de o sea terminar esta y seguir con la licenciatura aquella unos tres años más, por cua cua unos cuan a los veintiocho vendría terminando
+# text_en = and to me, at times it makes me want to study medicine, you know that I should finish one the the one from, I mean, finish this one and continue with that bachelor for about three more years, by cua cua about cua at twenty-eight I would finishing
+# lang = es
+1	y	_	_	_	_	_	_	_	Gloss=and
+2	a	_	_	_	_	_	_	_	Gloss=to
+3	mí	_	_	_	_	_	_	_	Gloss=me|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	Gloss=to
+6	mí	_	_	_	_	_	_	_	Gloss=me
+7	por	_	_	_	_	_	_	_	Gloss=at
+8	ratos	_	_	_	_	_	_	_	Gloss=times
+9	me	_	_	_	_	_	_	_	Gloss=me
+10	dan	_	_	_	_	_	_	_	Gloss=give
+11	ganas	_	_	_	_	_	_	_	Gloss=desire
+12	de	_	_	_	_	_	_	_	Gloss=of
+13	estudiar	_	_	_	_	_	_	_	Gloss=study
+14	medicina	_	_	_	_	_	_	_	Gloss=medicine|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	vos	_	_	_	_	_	_	_	Gloss=you
+17	sabés	_	_	_	_	_	_	_	Gloss=know
+18	que	_	_	_	_	_	_	_	Gloss=that
+19-20	terminarme	_	_	_	_	_	_	_	_
+19	terminar	_	_	_	_	_	_	_	Gloss=finish
+20	me	_	_	_	_	_	_	_	Gloss=me
+21	una	_	_	_	_	_	_	_	Gloss=a
+22	la	_	_	_	_	_	_	_	Gloss=the
+23	la	_	_	_	_	_	_	_	Gloss=the
+24	de	_	_	_	_	_	_	_	Gloss=of
+25	o	_	_	_	_	_	_	_	Gloss=or
+26	sea	_	_	_	_	_	_	_	Gloss=be
+27	terminar	_	_	_	_	_	_	_	Gloss=finish
+28	esta	_	_	_	_	_	_	_	Gloss=this
+29	y	_	_	_	_	_	_	_	Gloss=and
+30	seguir	_	_	_	_	_	_	_	Gloss=continue
+31	con	_	_	_	_	_	_	_	Gloss=with
+32	la	_	_	_	_	_	_	_	Gloss=the
+33	licenciatura	_	_	_	_	_	_	_	Gloss=bachelor
+34	aquella	_	_	_	_	_	_	_	Gloss=that
+35	unos	_	_	_	_	_	_	_	Gloss=some
+36	tres	_	_	_	_	_	_	_	Gloss=three
+37	años	_	_	_	_	_	_	_	Gloss=years
+38	más	_	_	_	_	_	_	_	Gloss=more|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	_
+40	por	_	_	_	_	_	_	_	Gloss=by
+41	cua	_	_	_	_	_	_	_	Gloss=_
+42	cua	_	_	_	_	_	_	_	Gloss=_
+43	unos	_	_	_	_	_	_	_	Gloss=some
+44	cuan	_	_	_	_	_	_	_	Gloss=_
+45	a	_	_	_	_	_	_	_	Gloss=at
+46	los	_	_	_	_	_	_	_	Gloss=the
+47	veintiocho	twenty-eight	_	_	_	_	_	_	_
+48	vendría	would be/come	_	_	_	_	_	_	_
+49	terminando	_	_	_	_	_	_	_	Gloss=finishing|SpaceAfter=No
+
+# sent_id = AMERESCO-VVU_001_02_17-12
+# time = 00:00:47.02-00:00:48.77
+# location = Bolivia-Santa Cruz-Santa Cruz
+# turn_text = B: iba a salir más tarde/ [vos siempre] salís tarde
+# text = iba a salir más tarde, vos siempre salís tarde
+# text_orth = iba a salir más tarde, vos siempre salís tard
+# text_en = I was going to leave later, you always leave late
+# lang = es
+1	iba	was going	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	Gloss=to
+3	salir	_	_	_	_	_	_	_	Gloss=go_out
+4	más	_	_	_	_	_	_	_	Gloss=later
+5	tarde	_	_	_	_	_	_	_	Gloss=late|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	vos	_	_	_	_	_	_	_	Gloss=you
+8	siempre	_	_	_	_	_	_	_	Gloss=always
+9	salís	_	_	_	_	_	_	_	Gloss=go_out
+10	tarde	_	_	_	_	_	_	_	Gloss=late|SpaceAfter=No
+
+# sent_id = PRESEEA-GUAT_H12_044-7
+# time = 08:21
+# location = Guatemala-Guatemala-Ciudad de Guatemala
+# turn_text = E:¿y de donde nace la inquietud / de querer vender / porque tengo entendido que<alargamiento/> <vacilación/> que vos sos bachiller en ciencias y letras?
+# text = ¿y de donde nace la inquietud, de querer vender, porque tengo entendido que que vos sos bachiller en ciencias y letras?
+# text_orth = ¿y de donde nace la inquietud, de querer vender, porque tengo entendido que que vos sos bachiller en ciencias y letras?
+# text_en = and where does the concern come from, of wanting to sell, because I understand that that you are graduate in science and literature?
+# lang = es
+1	¿	_	_	_	_	_	_	_	SpaceAfter=No
+2	y	_	_	_	_	_	_	_	Gloss=and
+3	de	_	_	_	_	_	_	_	Gloss=of
+4	donde	_	_	_	_	_	_	_	Gloss=where
+5	nace	is born/come from	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	Gloss=the
+7	inquietud	_	_	_	_	_	_	_	Gloss=concern|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	Gloss=of
+10	querer	_	_	_	_	_	_	_	Gloss=want
+11	vender	_	_	_	_	_	_	_	Gloss=sell|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	porque	_	_	_	_	_	_	_	Gloss=because
+14	tengo	_	_	_	_	_	_	_	Gloss=I_have
+15	entendido	_	_	_	_	_	_	_	Gloss=understood
+16	que	_	_	_	_	_	_	_	Gloss=that
+17	que	_	_	_	_	_	_	_	Gloss=that
+18	vos	_	_	_	_	_	_	_	Gloss=you
+19	sos	_	_	_	_	_	_	_	Gloss=are
+20	bachiller	_	_	_	_	_	_	_	Gloss=graduate
+21	en	_	_	_	_	_	_	_	Gloss=in
+22	ciencias	_	_	_	_	_	_	_	Gloss=sciences
+23	y	_	_	_	_	_	_	_	Gloss=and
+24	letras	_	_	_	_	_	_	_	Gloss=letters|SpaceAfter=No
+25	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = PRESEEA-MONV_H23_019-5
+# time = 00:00
+# location = Uruguay-Montevideo-Montevideo
+# turn_text = E:bueno / contame / eeh ¿cómo generalmente te referís la gente? / ¿la tratás de vo<alargamiento/>s / la tratás de uste<alargamiento/>d / la tuteás?
+# text = bueno, contame, eeh ¿cómo generalmente te referís la gente?, ¿la tratás de vos, la tratás de usted, la tuteás?
+# text_orth = bueno, contame, eeh ¿cómo generalmente te referís la gente?, ¿la tratás de vos, la tratás de usted, la tuteás?
+# text_en = well, tell me, eh, how do you generally refer to people? do you address them as 'vos', do you address them as 'usted', do you use 'tu'?
+# lang = es
+1	bueno	_	_	_	_	_	_	_	Gloss=well|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3-4	contame	_	_	_	_	_	_	_	_
+3	conta	_	_	_	_	_	_	_	Gloss=tell
+4	me	_	_	_	_	_	_	_	Gloss=me|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	eeh	_	_	_	_	_	_	_	Gloss=uh
+7	¿	_	_	_	_	_	_	_	SpaceAfter=No
+8	cómo	_	_	_	_	_	_	_	Gloss=how
+9	generalmente	_	_	_	_	_	_	_	Gloss=generally
+10	te	_	_	_	_	_	_	_	Gloss=you
+11	referís	_	_	_	_	_	_	_	Gloss=refer
+12	la	_	_	_	_	_	_	_	Gloss=the
+13	gente	_	_	_	_	_	_	_	Gloss=people|SpaceAfter=No
+14	?	_	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	¿	_	_	_	_	_	_	_	SpaceAfter=No
+17	la	_	_	_	_	_	_	_	Gloss=them
+18	tratás	you treat/address	_	_	_	_	_	_	_
+19	de	_	_	_	_	_	_	_	Gloss=as
+20	vos	_	_	_	_	_	_	_	Gloss=vos|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	Gloss=them
+23	tratás	_	_	_	_	_	_	_	Gloss=treat/address
+24	de	_	_	_	_	_	_	_	Gloss=as
+25	usted	_	_	_	_	_	_	_	Gloss=usted|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	_
+27	la	_	_	_	_	_	_	_	Gloss=them
+28	tuteás	you use tú	_	_	_	_	_	_	SpaceAfter=No
+29	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+
+# sent_id = AMERESCO-BUE_002_03_20-53
+# time = 00:03:20.12-00:03:20.65
+# location = Argentina-Buenos Aires-Buenos Aires
+# turn_text = B: ¿el dos mil veinte es [nuestro año] decís vos?
+# text = ¿el dos mil veinte es nuestro año decís vos?
+# text_orth = ¿el dos mil veinte es nuestro año decís vos?
+# text_en = Two thousand twenty is our year, you say?
+# lang = es
+1	¿	_	_	_	_	_	_	_	SpaceAfter=No
+2	el	_	_	_	_	_	_	_	Gloss=the
+3	dos	_	_	_	_	_	_	_	Gloss=two
+4	mil	_	_	_	_	_	_	_	Gloss=thousand
+5	veinte	_	_	_	_	_	_	_	Gloss=twenty
+6	es	_	_	_	_	_	_	_	Gloss=is
+7	nuestro	_	_	_	_	_	_	_	Gloss=our
+8	año	_	_	_	_	_	_	_	Gloss=year
+9	decís	_	_	_	_	_	_	_	Gloss=you_say
+10	vos	_	_	_	_	_	_	_	Gloss=you|SpaceAfter=No
+11	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = AMERESCO-TGU_007_03_19-276
+# time = 00:09:57.86-00:10:03.23
+# location = Honduras-Francisco Morazán-Tegucigalpa
+# turn_text = C: <fsr t="perate">esperate</fsr> que- fijate que con dos días que vas te miro que venís un poco lacia la panza fijate que ((te conviene estar un mes allá))
+# text = perate que fijate que con dos días que vas te miro que venís un poco lacia la panza fijate que te conviene estar un mes allá
+# text_orth = esperate que fijate que con dos días que vas te miro que venís un poco lacia la panza fijate que te conviene estar un mes allá
+# text_en = wait that notice that with two days that you are going I look at you that your belly is a little limp, notice that it is good for you to be there for a month
+# lang = es
+1-2	perate	_	_	_	_	_	_	_	Ortho=esperate
+1	pera	_	_	_	_	_	_	_	Gloss=wait
+2	te	_	_	_	_	_	_	_	Gloss=you
+3	que	_	_	_	_	_	_	_	Gloss=that
+4-5	fijate	_	_	_	_	_	_	_	_
+4	fija	_	_	_	_	_	_	_	Gloss=look
+5	te	_	_	_	_	_	_	_	Gloss=you
+6	que	_	_	_	_	_	_	_	Gloss=that
+7	con	_	_	_	_	_	_	_	Gloss=with
+8	dos	_	_	_	_	_	_	_	Gloss=two
+9	días	_	_	_	_	_	_	_	Gloss=days
+10	que	_	_	_	_	_	_	_	Gloss=that
+11	vas	you go	_	_	_	_	_	_	_
+12	te	_	_	_	_	_	_	_	Gloss=you
+13	miro	_	_	_	_	_	_	_	Gloss=I_see
+14	que	_	_	_	_	_	_	_	Gloss=that
+15	venís	_	_	_	_	_	_	_	Gloss=you_come
+16	un	_	_	_	_	_	_	_	Gloss=a
+17	poco	_	_	_	_	_	_	_	Gloss=little
+18	lacia	_	_	_	_	_	_	_	Gloss=lean
+19	la	_	_	_	_	_	_	_	Gloss=the
+20	panza	_	_	_	_	_	_	_	Gloss=belly
+21-22	fijate	_	_	_	_	_	_	_	_
+21	fia	_	_	_	_	_	_	_	Gloss=look
+22	te	_	_	_	_	_	_	_	Gloss=you
+23	que	_	_	_	_	_	_	_	Gloss=that
+24	te	_	_	_	_	_	_	_	Gloss=you
+25	conviene	_	_	_	_	_	_	_	Gloss=suits
+26	estar	_	_	_	_	_	_	_	Gloss=to_be
+27	un	_	_	_	_	_	_	_	Gloss=a
+28	mes	_	_	_	_	_	_	_	Gloss=month
+29	allá	_	_	_	_	_	_	_	Gloss=there|SpaceAfter=No
+
+# sent_id = PRESEEA-ALCA_H22_025-106
+# time = 04:00
+# location = España-Madrid-Alcalá de Henares
+# turn_text = E:<simultáneo> por veintisiete </simultáneo> ¿no? seguís por el veintisiete ¿no?
+# text = por veintisiete ¿no? seguís por el veintisiete ¿no?
+# text_orth = por veintisiete ¿no? seguís por el veintisiete ¿no?
+# text_en = for twenty-seven right? you're still on twenty-seven, right?
+# lang = es
+1	por	_	_	_	_	_	_	_	Gloss=for
+2	veintisiete	twenty-seven	_	_	_	_	_	_	_
+3	¿	_	_	_	_	_	_	_	SpaceAfter=No
+4	no	_	_	_	_	_	_	_	Gloss=right|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	_
+6	seguís	_	_	_	_	_	_	_	Gloss=you_are_still
+7	por	_	_	_	_	_	_	_	Gloss=on
+8	el	_	_	_	_	_	_	_	Gloss=the
+9	veintisiete	_	_	_	_	_	_	_	Gloss=twenty-seven
+10	¿	_	_	_	_	_	_	_	SpaceAfter=No
+11	no	_	_	_	_	_	_	_	Gloss=right|SpaceAfter=No
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = PRESEEA-GUAT_H12_044-21
+# time = 15:38
+# location = Guatemala-Guatemala-Ciudad de Guatemala
+# turn_text = E:¿y vos sos machista / o cómo te considerás?
+# text = ¿y vos sos machista o cómo te considerás?
+# text_orth = ¿y vos sos machista o cómo te considerás?
+# text_en = And you are sexist or how do you consider yourself?
+# lang = es
+1	¿	_	_	_	_	_	_	_	SpaceAfter=No
+2	y	_	_	_	_	_	_	_	Gloss=and
+3	vos	_	_	_	_	_	_	_	Gloss=you
+4	sos	_	_	_	_	_	_	_	Gloss=are
+5	machista	_	_	_	_	_	_	_	Gloss=sexist
+6	o	_	_	_	_	_	_	_	Gloss=or
+7	cómo	_	_	_	_	_	_	_	Gloss=how
+8	te	_	_	_	_	_	_	_	Gloss=you
+9	considerás	_	_	_	_	_	_	_	Gloss=consider_yourself|SpaceAfter=No
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = ALEC-ALEC_C22_N40_5-2
+# time = 00:00:23,030--> 00:08:18,400
+# location = Colombia-Nariño-La Florida
+# turn_text = I7: No te doy una posada porque viene mi hija y te come, "te entumís", izque=dizque dijo, del hielo. 
+# text = No te doy una posada porque viene mi hija y te come, "te entumís", izque dijo, del hielo. 
+# text_orth = No te doy una posada porque viene mi hija y te come, "te entumís", dizque dijo, del hielo. 
+# text_en = I don't give you lodging because my daughter comes and eats you, "you get numb", supposedly she said, from the ice.
+# lang = es
+1	No	_	_	_	_	_	_	_	Gloss=no
+2	te	_	_	_	_	_	_	_	Gloss=you
+3	doy	_	_	_	_	_	_	_	Gloss=give
+4	una	_	_	_	_	_	_	_	Gloss=a
+5	posada	_	_	_	_	_	_	_	Gloss=lodging
+6	porque	_	_	_	_	_	_	_	Gloss=because
+7	viene	_	_	_	_	_	_	_	Gloss=is_coming
+8	mi	_	_	_	_	_	_	_	Gloss=my
+9	hija	_	_	_	_	_	_	_	Gloss=daughter
+10	y	_	_	_	_	_	_	_	Gloss=and
+11	te	_	_	_	_	_	_	_	Gloss=you
+12	come	_	_	_	_	_	_	_	Gloss=eat|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	SpaceAfter=No
+15	te	_	_	_	_	_	_	_	Gloss=you
+16	entumís	_	_	_	_	_	_	_	Gloss=get_numb|SpaceAfter=No
+17	"	_	_	_	_	_	_	_	SpaceAfter=No
+18	,	_	_	_	_	_	_	_	_
+19	izque	_	_	_	_	_	_	_	Gloss=supposedly
+20	dijo	_	_	_	_	_	_	_	Gloss=said|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	_
+22-23	del	_	_	_	_	_	_	_	_
+22	de	_	_	_	_	_	_	_	Gloss=from
+23	el	_	_	_	_	_	_	_	Gloss=the
+24	hielo	_	_	_	_	_	_	_	Gloss=cold|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = PRESEEA-GUAT_H12_044-39
+# time = 19:21
+# location = Guatemala-Guatemala-Ciudad de Guatemala
+# turn_text = E:cambiando un poquito la conversación // en relación a lo espiritual <silencio/> ¿de qué religión sos? contame un poquito si vas a la iglesía // ¿o qué pensás de Dios? //
+# text = cambiando un poquito la conversación en relación a lo espiritual ¿de qué religión sos? contame un poquito si vas a la iglesía ¿o qué pensás de Dios?
+# text_orth = cambiando un poquito la conversación en relación a lo espiritual ¿de qué religión sos? contame un poquito si vas a la iglesía ¿o qué pensás de Dios?
+# text_en = changing the conversation a little in relation to the spiritual what religion are you? Tell me a little bit if you go to church or what do you think about God? //
+# lang = es
+1	cambiando	_	_	_	_	_	_	_	Gloss=changing
+2	un	_	_	_	_	_	_	_	Gloss=a
+3	poquito	_	_	_	_	_	_	_	Gloss=little_bit
+4	la	_	_	_	_	_	_	_	Gloss=the
+5	conversación	_	_	_	_	_	_	_	Gloss=conversation
+6	en	_	_	_	_	_	_	_	Gloss=in
+7	relación	_	_	_	_	_	_	_	Gloss=relation
+8	a	_	_	_	_	_	_	_	Gloss=to
+9	lo	_	_	_	_	_	_	_	Gloss=the
+10	espiritual	_	_	_	_	_	_	_	Gloss=spiritual
+11	¿	_	_	_	_	_	_	_	SpaceAfter=No
+12	de	_	_	_	_	_	_	_	Gloss=of
+13	qué	_	_	_	_	_	_	_	Gloss=what
+14	religión	_	_	_	_	_	_	_	Gloss=religion
+15	sos	_	_	_	_	_	_	_	Gloss=are_you|SpaceAfter=No
+16	?	_	_	_	_	_	_	_	_
+17-18	contame	_	_	_	_	_	_	_	Gloss=tell_me
+17	conta	_	_	_	_	_	_	_	Gloss=tell
+18	me	_	_	_	_	_	_	_	Gloss=me
+19	un	_	_	_	_	_	_	_	Gloss=a
+20	poquito	_	_	_	_	_	_	_	Gloss=little_bit
+21	si	_	_	_	_	_	_	_	Gloss=if
+22	vas	_	_	_	_	_	_	_	Gloss=go
+23	a	_	_	_	_	_	_	_	Gloss=to
+24	la	_	_	_	_	_	_	_	Gloss=the
+25	iglesía	_	_	_	_	_	_	_	Gloss=church
+26	¿	_	_	_	_	_	_	_	SpaceAfter=No
+27	o	_	_	_	_	_	_	_	Gloss=or
+28	qué	_	_	_	_	_	_	_	Gloss=what
+29	pensás	_	_	_	_	_	_	_	Gloss=think
+30	de	_	_	_	_	_	_	_	Gloss=of
+31	Dios	_	_	_	_	_	_	_	Gloss=God|SpaceAfter=No
+32	?	_	_	_	_	_	_	_	_
+
+# sent_id = ALEC-ALEC_C23_NS61_2-35
+# time = 01:15:22,646--> 01:18:50,874
+# location = Colombia-Norte de Santander-Pamplona
+# turn_text = I1: Ala, pero sabes qué, que, que vos sí que sos delicado, ala, por todo me formás pelea.
+# text = Ala, pero sabes qué, que, que vos sí que sos delicado, ala, por todo me formás pelea.
+# text_orth = Ala, pero sabes qué, que, que vos sí que sos delicado, ala, por todo me formás pelea.
+# text_en = Ala, but you know what, you really are delicate, ala, you fight me for everything.
+# lang = es
+1	Ala	_	_	_	_	_	_	_	Gloss=ala|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	pero	_	_	_	_	_	_	_	Gloss=but
+4	sabes	_	_	_	_	_	_	_	Gloss=you_know
+5	qué	_	_	_	_	_	_	_	Gloss=what|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	Gloss=that|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	que	_	_	_	_	_	_	_	Gloss=that
+10	vos	_	_	_	_	_	_	_	Gloss=you
+11	sí	_	_	_	_	_	_	_	Gloss=really
+12	que	_	_	_	_	_	_	_	Gloss=that
+13	sos	_	_	_	_	_	_	_	Gloss=are
+14	delicado	_	_	_	_	_	_	_	Gloss=delicate|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	ala	_	_	_	_	_	_	_	Gloss=ala|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	_
+18	por	_	_	_	_	_	_	_	Gloss=for
+19	todo	_	_	_	_	_	_	_	Gloss=everything
+20	me	_	_	_	_	_	_	_	Gloss=me
+21	formás	_	_	_	_	_	_	_	Gloss=you_form
+22	pelea	_	_	_	_	_	_	_	Gloss=fight|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = AMERESCO-BUE_002_03_20-373
+# time = 00:16:24.98-00:16:28.77
+# location = Argentina-Buenos Aires-Buenos Aires
+# turn_text = B: está abajo e<alargamiento/>h/// (1.1) salís del bar a la derecha abajo de la escalera del bañe
+# text = está abajo eh, salís del bar a la derecha abajo de la escalera del bañe
+# text_orth = está abajo eh, salís del bar a la derecha abajo de la escalera del bañe
+# text_en = it is below eh, you leave the bar to the right below the bathroom stairs
+# lang = es
+1	está	_	_	_	_	_	_	_	Gloss=is
+2	abajo	_	_	_	_	_	_	_	Gloss=downstairs
+3	eh	_	_	_	_	_	_	_	Gloss=eh|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	salís	_	_	_	_	_	_	_	Gloss=you_go_out
+6-7	del	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	Gloss=of
+7	el	_	_	_	_	_	_	_	Gloss=the
+8	bar	_	_	_	_	_	_	_	Gloss=bar
+9	a	_	_	_	_	_	_	_	Gloss=to
+10	la	_	_	_	_	_	_	_	Gloss=the
+11	derecha	_	_	_	_	_	_	_	Gloss=right
+12	abajo	_	_	_	_	_	_	_	Gloss=down
+13	de	_	_	_	_	_	_	_	Gloss=of
+14	la	_	_	_	_	_	_	_	Gloss=the
+15	escalera	_	_	_	_	_	_	_	Gloss=stairs
+16-17	del	_	_	_	_	_	_	_	_
+16	de	_	_	_	_	_	_	_	Gloss=of
+17	el	_	_	_	_	_	_	_	Gloss=the
+18	bañe	_	_	_	_	_	_	_	Gloss=bathroom
+
+# sent_id = AMERESCO-VVU_001_02_17-55
+# time = 00:02:35.37-00:02:38.56
+# location = Bolivia-Santa Cruz-Santa Cruz
+# turn_text = A: ah ese es el que decís si-/ ¿deja <fsr t="usá">usar</fsr> el <fsr t="celulá">celular</fsr>?
+# text = ah ese es el que decís si ¿deja usá el celulá?
+# text_orth = ah ese es el que decís si ¿deja usar el celular?
+# text_en = ah, that's the one you're saying si does it allow using the cell phone?
+# lang = es
+1	ah	_	_	_	_	_	_	_	Gloss=ah
+2	ese	_	_	_	_	_	_	_	Gloss=that
+3	es	_	_	_	_	_	_	_	Gloss=is
+4	el	_	_	_	_	_	_	_	Gloss=the
+5	que	_	_	_	_	_	_	_	Gloss=that
+6	decís	_	_	_	_	_	_	_	Gloss=you_are_saying
+7	si	_	_	_	_	_	_	_	Gloss=yes
+8	¿	_	_	_	_	_	_	_	SpaceAfter=No
+9	deja	_	_	_	_	_	_	_	Gloss=allow
+10	usá	_	_	_	_	_	_	_	Gloss=using
+11	el	_	_	_	_	_	_	_	Gloss=the
+12	celulá	_	_	_	_	_	_	_	Gloss=cell_phone|SpaceAfter=No
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = ALEC-ALEC_C26_P_1-10
+# time = 00:01:18,300--> 00:01:33,830
+# location = Colombia-Putumayo-Mocoa
+# turn_text = I3 En después le dijo: "Te pego un cabezazo, si no me sueltas" y llegó y le pegó el cabezazo y no lo soltó y entonces cuando llego la viejita y ezque=dizque le dijo: "¡Ajá! Vos sos el que te vienes a robar las uvillas.
+# text =  En después le dijo: "Te pego un cabezazo, si no me sueltas" y llegó y le pegó el cabezazo y no lo soltó y entonces cuando llego la viejita y ezque le dijo: "¡ajá! vos sos el que te vienes a robar las uvillas.
+# text_orth = En después le dijo: "Te pego un cabezazo, si no me sueltas" y llegó y le pegó el cabezazo y no lo soltó y entonces cuando llego la viejita y dizque le dijo: "¡ajá! vos sos el que te vienes a robar las uvillas.
+# text_en = Afterwards he told her: "I'll headbutt you if you don't let go of me" and he arrived and hit him with his head and he didn't let go and then when the old lady arrived and supposedly said to her/him: "Aha! You're the one who's coming to steal the physalis.
+# lang = es
+1	En	_	_	_	_	_	_	_	Gloss=Afterwards
+2	después	_	_	_	_	_	_	_	Gloss=afterwards
+3	le	_	_	_	_	_	_	_	Gloss=to_him\her
+4	dijo	_	_	_	_	_	_	_	Gloss=said|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	_
+6	"	_	_	_	_	_	_	_	SpaceAfter=No
+7	Te	_	_	_	_	_	_	_	Gloss=I'll
+8	pego	_	_	_	_	_	_	_	Gloss=hit_you
+9	un	_	_	_	_	_	_	_	Gloss=a
+10	cabezazo	_	_	_	_	_	_	_	Gloss=headbutt|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	si	_	_	_	_	_	_	_	Gloss=if
+13	no	_	_	_	_	_	_	_	Gloss=don't
+14	me	_	_	_	_	_	_	_	Gloss=let_go_of_me
+15	sueltas	_	_	_	_	_	_	_	Gloss=let_go|SpaceAfter=No
+16	"	_	_	_	_	_	_	_	_
+17	y	_	_	_	_	_	_	_	Gloss=and
+18	llegó	_	_	_	_	_	_	_	Gloss=he_arrived
+19	y	_	_	_	_	_	_	_	Gloss=and
+20	le	_	_	_	_	_	_	_	Gloss=him
+21	pegó	_	_	_	_	_	_	_	Gloss=hit
+22	el	_	_	_	_	_	_	_	Gloss=the
+23	cabezazo	_	_	_	_	_	_	_	Gloss=headbutt
+24	y	_	_	_	_	_	_	_	Gloss=and
+25	no	_	_	_	_	_	_	_	Gloss=didn't
+26	lo	_	_	_	_	_	_	_	Gloss=let_go
+27	soltó	_	_	_	_	_	_	_	Gloss=let_go
+28	y	_	_	_	_	_	_	_	Gloss=and
+29	entonces	_	_	_	_	_	_	_	Gloss=then
+30	cuando	_	_	_	_	_	_	_	Gloss=when
+31	llego	_	_	_	_	_	_	_	Gloss=arrived
+32	la	_	_	_	_	_	_	_	Gloss=the
+33	viejita	_	_	_	_	_	_	_	Gloss=old_lady
+34	y	_	_	_	_	_	_	_	Gloss=and
+35	ezque	_	_	_	_	_	_	_	Gloss=supposedly
+36	le	_	_	_	_	_	_	_	Gloss=to_him\her
+37	dijo	_	_	_	_	_	_	_	Gloss=said|SpaceAfter=No
+38	:	_	_	_	_	_	_	_	_
+39	"	_	_	_	_	_	_	_	SpaceAfter=No
+40	¡	_	_	_	_	_	_	_	SpaceAfter=No
+41	ajá	_	_	_	_	_	_	_	Gloss=aha|SpaceAfter=No
+42	!	_	_	_	_	_	_	_	_
+43	vos	_	_	_	_	_	_	_	Gloss=you
+44	sos	_	_	_	_	_	_	_	Gloss=are
+45	el	_	_	_	_	_	_	_	Gloss=the
+46	que	_	_	_	_	_	_	_	Gloss=who
+47	te	_	_	_	_	_	_	_	Gloss=you
+48	vienes	_	_	_	_	_	_	_	Gloss=are_coming
+49	a	_	_	_	_	_	_	_	Gloss=to
+50	robar	_	_	_	_	_	_	_	Gloss=steal
+51	las	_	_	_	_	_	_	_	Gloss=the
+52	uvillas	_	_	_	_	_	_	_	Gloss=physalis|SpaceAfter=No
+53	.	_	_	_	_	_	_	_	_
+
+# sent_id = AMERESCO-IQQ_003_05_12-9
+# time = 00:00:11.70-00:00:14.30
+# location = Chile-Iquique-Iquique
+# turn_text = Persona_central: [te dije que] teníai que ponerlo tú pero lo mandái a él
+# text = te dije que teníai que ponerlo tú pero lo mandái a él
+# text_orth = te dije que teníai que ponerlo tú pero lo mandái a él
+# text_en = I told you that you had to put it in but you send/ask him 
+# lang = es
+1	te	_	_	_	_	_	_	_	Gloss=you
+2	dije	_	_	_	_	_	_	_	Gloss=told
+3	que	_	_	_	_	_	_	_	Gloss=that
+4	teníai	_	_	_	_	_	_	_	Gloss=had
+5	que	_	_	_	_	_	_	_	Gloss=to
+6-7	ponerlo	put_it_in	_	_	_	_	_	_	_
+6	poner	_	_	_	_	_	_	_	Gloss=put
+7	lo	_	_	_	_	_	_	_	Gloss=it
+8	tú	_	_	_	_	_	_	_	Gloss=you
+9	pero	_	_	_	_	_	_	_	Gloss=but
+10	lo	_	_	_	_	_	_	_	Gloss=it
+11	mandái	_	_	_	_	_	_	_	Gloss=send
+12	a	_	_	_	_	_	_	_	Gloss=to
+13	él	_	_	_	_	_	_	_	Gloss=him
+
+# sent_id = AMERESCO-TGU_007_03_19-355
+# time = 00:13:05.39-00:13:08.35
+# location = Honduras-Francisco Morazán-Tegucigalpa
+# turn_text = C: [pero si] vos lo<alargamiento/>- vos lo contratás solo para vos vos tenés que pagar  los sesen[ta]
+# text = pero si vos lo vos lo contratás solo para vos vos tenés que pagar los sesenta
+# text_orth = pero si vos lo vos lo contratás solo para vos vos tenés que pagar los sesenta
+# text_en = but if you him hire him just for you, you have to pay the seventy
+# lang = es
+1	pero	_	_	_	_	_	_	_	Gloss=but
+2	si	_	_	_	_	_	_	_	Gloss=if
+3	vos	_	_	_	_	_	_	_	Gloss=you
+4	lo	_	_	_	_	_	_	_	Gloss=him
+5	vos	_	_	_	_	_	_	_	Gloss=you
+6	lo	_	_	_	_	_	_	_	Gloss=him
+7	contratás	_	_	_	_	_	_	_	Gloss=hire
+8	solo	_	_	_	_	_	_	_	Gloss=just
+9	para	_	_	_	_	_	_	_	Gloss=for
+10	vos	_	_	_	_	_	_	_	Gloss=you
+11	vos	_	_	_	_	_	_	_	Gloss=you
+12	tenés	_	_	_	_	_	_	_	Gloss=have
+13	que	_	_	_	_	_	_	_	Gloss=to
+14	pagar	_	_	_	_	_	_	_	Gloss=pay
+15	los	_	_	_	_	_	_	_	Gloss=the
+16	sesenta	_	_	_	_	_	_	_	Gloss=sixty|SpaceAfter=No
+
+
+

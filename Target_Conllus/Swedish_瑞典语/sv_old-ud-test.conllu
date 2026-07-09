@@ -1,0 +1,669 @@
+# doc_id = Skämtan om abbotar (short: abbot)
+# doc_source = Skämtan om abbotar, enligt Holm D 4a, Här sigx af abotum allum skemptan mykla.
+# text = Hær sigx aff abotum allum skemptan mykla
+# sent_id = swedish-old-abbot-1
+# old_sent_id = 25389
+1	Hær	här	ADV	Df	_	2	advmod	_	_
+2	sigx	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	aff	af	ADP	R-	_	4	case	_	_
+4	abotum	abbote	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	_
+5	allum	alder	PRON	Py	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	4	det	_	_
+6	skemptan	skämtan	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+7	mykla	mykil	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+
+# text = Tha herra abota ganger i kloster in tha ser han munka sina wæl klædda
+# sent_id = swedish-old-abbot-2
+# old_sent_id = 25390
+1	Tha	þa	SCONJ	G-	_	4	mark	_	_
+2	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+3	abota	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ganger	ganga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+5	i	i	ADP	R-	_	6	case	_	_
+6	kloster	kloster	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+7	in	in	ADV	Df	_	4	advmod	_	_
+8	tha	þa	ADV	Df	_	9	advmod	_	_
+9	ser	sea	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	han	han	PRON	Pp	Case=Nom|PronType=Prs	9	nsubj	_	_
+11	munka	munker	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+12	sina	sin	PRON	Ps	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+13	wæl	väl	ADV	A-	_	14	advmod	_	_
+14	klædda	klædda	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	9	advcl	_	_
+
+# text = tha stryker han hættæ aff høffdhe sina at ænne hans ma skina om kloster alt
+# sent_id = swedish-old-abbot-3
+# old_sent_id = 25391
+1	tha	þa	ADV	Df	_	2	advmod	_	_
+2	stryker	stryka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+4	hættæ	hätta	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	aff	af	ADP	R-	_	6	case	_	_
+6	høffdhe	hovuþ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	_
+7	sina	sin	PRON	Ps	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
+8	at	at	SCONJ	G-	_	12	mark	_	_
+9	ænne	änne	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+10	hans	han	PRON	Pp	Case=Gen|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+11	ma	magha	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
+12	skina	skina	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	_
+13	om	um	ADP	R-	_	14	case	_	_
+14	kloster	kloster	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+15	alt	alder	PRON	Py	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	14	det	_	_
+
+# text = Sidhen ganger herra abotæ ater och fram ther til han komber til koua sins wæl skoager badhæ medh bozskom och adhrom skom
+# sent_id = swedish-old-abbot-4
+# old_sent_id = 25392
+1	Sidhen	siþan	ADV	Df	_	2	advmod	_	_
+2	ganger	ganga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abotæ	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	ater	ater	ADV	Df	Degree=Pos	2	advmod	_	_
+6	och	ok	CCONJ	C-	_	7	cc	_	_
+7	fram	fram	ADV	Df	Degree=Pos	5	conj	_	_
+8	ther	þär	ADV	G-	_	2	advmod	_	_
+9	til	til	ADP	G-	_	8	case	_	_
+10	han	han	PRON	Pp	Case=Nom|PronType=Prs	11	nsubj	_	_
+11	komber	koma	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+12	til	til	ADP	R-	_	13	case	_	_
+13	koua	kovi	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
+14	sins	sin	PRON	Ps	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+15	wæl	väl	ADV	Df	Degree=Pos	16	advmod	_	_
+16	skoager	skoa	ADJ	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	advmod	_	_
+17	badhæ	baþe	CCONJ	C-	_	19	cc	_	_
+18	medh	mäþ	ADP	R-	_	19	case	_	_
+19	bozskom	botskor	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	16	obl	_	_
+20	och	ok	CCONJ	C-	_	22	cc	_	_
+21	adhrom	annar	PRON	Py	Case=Dat|Gender=Masc|Number=Plur|PronType=Ind	22	det	_	_
+22	skom	skor	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	19	conj	_	_
+
+# text = Herra Abote ær klædder wæl
+# sent_id = swedish-old-abbot-5
+# old_sent_id = 25393
+1	Herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+2	Abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	klædder	kläþa	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	wæl	väl	ADV	Df	Degree=Pos	4	advmod	_	_
+
+# text = han haffuer twa skinkiortla annan aff lambskinnum och annan aff graskinnum
+# sent_id = swedish-old-abbot-6
+# old_sent_id = 25428
+1	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+2	haffuer	hava	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	twa	tver	NUM	Py	Case=Acc|Gender=Masc	4	nummod	_	_
+4	skinkiortla	skinkiurtil	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+5	annan	annar	PRON	Py	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	4	appos	_	_
+6	aff	af	ADP	R-	_	7	case	_	_
+7	lambskinnum	lambskin	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	_
+8	och	ok	CCONJ	C-	_	9	cc	_	_
+9	annan	annar	PRON	Py	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	5	conj	_	_
+10	aff	af	ADP	R-	_	11	case	_	_
+11	graskinnum	graskin	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	9	nmod	_	_
+
+# text = han haffuer fyræ scapplara och fyra kuffla
+# sent_id = swedish-old-abbot-7
+# old_sent_id = 25394
+1	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+2	haffuer	hava	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	fyræ	fiurir	NUM	Py	Case=Acc|Gender=Masc	4	nummod	_	_
+4	scapplara	skaplare	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+5	och	ok	CCONJ	C-	_	7	cc	_	_
+6	fyra	fiurir	NUM	Py	Case=Acc|Gender=Masc	7	nummod	_	_
+7	kuffla	kuvul	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	_
+
+# text = Æn ther til komber om sidher at bordh lætz fram
+# sent_id = swedish-old-abbot-8
+# old_sent_id = 25395
+1	Æn	än	CCONJ	C-	_	4	cc	_	_
+2	ther	þär	ADV	Df	_	4	advmod	_	_
+3	til	til	ADP	V-	_	4	compound:prt	_	_
+4	komber	komma	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	om	um	ADV	Df	ExtPos=ADV	4	advmod	_	_
+6	sidher	sidh	ADV	Df	_	5	fixed	_	_
+7	at	at	SCONJ	G-	_	9	mark	_	_
+8	bordh	borþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj:pass	_	_
+9	lætz	lata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	ccomp	_	_
+10	fram	fram	ADV	Df	Degree=Pos	9	advmod	_	_
+
+# text = æn enghin tunga giter talt rætte tha som in komma firi herra abota
+# sent_id = swedish-old-abbot-9
+# old_sent_id = 25396
+1	æn	än	CCONJ	C-	_	4	cc	_	_
+2	enghin	ängin	PRON	Py	Case=Nom|Gender=Fem|Number=Sing|PronType=Neg	3	det	_	_
+3	tunga	tunga	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	giter	gita	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	talt	tälia	ADJ	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	xcomp	_	_
+6	rætte	rätter	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+7	tha	þän	DET	Pd	Case=Acc|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+8	som	sum	PRON	G-	PronType=Rel	10	nsubj	_	_
+9	in	in	ADP	V-	_	10	compound:prt	_	_
+10	komma	komma	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl:relcl	_	_
+11	firi	for	ADP	R-	_	13	case	_	_
+12	herra	härra	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	_
+13	abota	abbote	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+
+# text = Æn herra abote æter ekke thet som fyreføt ær
+# sent_id = swedish-old-abbot-10
+# old_sent_id = 25397
+1	Æn	än	CCONJ	C-	_	4	cc	_	_
+2	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+3	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	æter	äta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ekke	äkke	ADV	Df	_	4	advmod	_	_
+6	thet	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	4	obj	_	_
+7	som	sum	PRON	G-	PronType=Rel	8	nsubj	_	_
+8	fyreføt	fyrafötter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	acl:relcl	_	_
+9	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+
+# text = han æter gaas och høns och ænder och alskona fugla
+# sent_id = swedish-old-abbot-11
+# old_sent_id = 25398
+1	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+2	æter	äta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	gaas	gas	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	och	ok	CCONJ	C-	_	5	cc	_	_
+5	høns	höns	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	_
+6	och	ok	CCONJ	C-	_	7	cc	_	_
+7	ænder	and	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	conj	_	_
+8	och	ok	CCONJ	C-	_	10	cc	_	_
+9	alskona	alzkona	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
+10	fugla	fughl	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	conj	_	_
+
+# text = han æter och fiska geddo och lax och braxn och attæ fiska sudna och sextæn stektæ och nio giordæ j piper
+# sent_id = swedish-old-abbot-12
+# old_sent_id = 25399
+1	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+2	æter	äta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	och	ok	ADV	Df	_	2	advmod	_	_
+4	fiska	fiska	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+5	geddo	gädda	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	appos	_	_
+6	och	ok	CCONJ	C-	_	7	cc	_	_
+7	lax	lax	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	_
+8	och	ok	CCONJ	C-	_	9	cc	_	_
+9	braxn	braxn	NOUN	Nb	Case=Acc	5	conj	_	_
+10	och	ok	CCONJ	C-	_	12	cc	_	_
+11	attæ	atta	NUM	Py	Case=Acc|Gender=Masc	12	nummod	_	_
+12	fiska	fisker	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	_
+13	sudna	siuþa	ADJ	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	12	amod	_	_
+14	och	ok	CCONJ	C-	_	15	cc	_	_
+15	sextæn	siäxtan	NUM	Py	Case=Acc|Gender=Masc	16	nummod	_	_
+16	stektæ	stekia	ADJ	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	_
+17	och	ok	CCONJ	C-	_	18	cc	_	_
+18	nio	nio	NUM	Py	Case=Acc|Gender=Masc	19	nummod	_	_
+19	giordæ	göra	ADJ	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	_
+20	j	i	ADP	R-	_	21	case	_	_
+21	piper	pipar	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	19	obl	_	_
+
+# text = Siden æter han tio fiska och æn tio sinnum tio fiska
+# sent_id = swedish-old-abbot-13
+# old_sent_id = 25400
+1	Siden	siþan	ADV	Df	_	2	advmod	_	_
+2	æter	äta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+4	tio	tio	NUM	Py	Case=Acc|Gender=Masc	5	nummod	_	_
+5	fiska	fisker	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+6	och	ok	CCONJ	C-	_	11	cc	_	_
+7	æn	än	ADV	Df	_	10	advmod	_	_
+8	tio	tio	NUM	Py	Case=Dat|Gender=Masc,Neut	9	nummod	_	_
+9	sinnum	sin	NOUN	Nb	Case=Dat|Gender=Masc,Neut|Number=Plur	10	nmod	_	_
+10	tio	tio	NUM	Py	Case=Acc|Gender=Masc	11	nummod	_	_
+11	fiska	fisker	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	_
+
+# text = Flæsk ma han ey ætæ thy at thet ær fyræføt
+# sent_id = swedish-old-abbot-14
+# old_sent_id = 25401
+1	Flæsk	fläsk	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+2	ma	magha	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	5	nsubj	_	_
+4	ey	eigh	PART	Df	Polarity=Neg	5	advmod	_	_
+5	ætæ	äta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+6	thy	þy	SCONJ	G-	_	10	mark	_	_
+7	at	at	SCONJ	G-	_	10	mark	_	_
+8	thet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	10	nsubj	_	_
+9	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	fyræføt	fyrafötter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	advcl	_	_
+
+# text = Siden læter han sla thet j en disk och tæfkar ther aff
+# sent_id = swedish-old-abbot-15
+# old_sent_id = 25403
+1	Siden	siþan	ADV	Df	_	2	advmod	_	_
+2	læter	lata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+4	sla	sla	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	ccomp	_	_
+5	thet	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	4	obj	_	_
+6	j	i	ADP	R-	_	8	case	_	_
+7	en	en	PRON	Py	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	disk	disker	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+9	och	ok	CCONJ	C-	_	10	cc	_	_
+10	tæfkar	þäfka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+11	ther	þär	ADV	Df	_	10	advmod	_	_
+12	aff	af	ADP	R-	_	11	case	_	_
+
+# text = och siden sæter han thet a mun sin och super aff hwan supa fyræ thy thet war goth feth spadh
+# sent_id = swedish-old-abbot-16
+# old_sent_id = 25404
+1	och	ok	CCONJ	C-	_	3	cc	_	_
+2	siden	siþan	ADV	Df	_	3	advmod	_	_
+3	sæter	sätia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	han	han	PRON	Pp	Case=Nom|PronType=Prs	3	nsubj	_	_
+5	thet	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	3	obj	_	_
+6	a	a	ADP	R-	_	7	case	_	_
+7	mun	munder	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+8	sin	sin	PRON	Ps	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+9	och	ok	CCONJ	C-	_	10	cc	_	_
+10	super	supa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+11	aff	af	ADP	R-	_	10	compound:prt	_	_
+12	hwan	hvar	PRON	Py	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	13	det	_	_
+13	supa	supi	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+14	fyræ	for	ADP	G-	_	15	case	_	_
+15	thy	þy*	PRON	G-	PronType=Prs	10	obl	_	_
+16	thet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	20	nsubj	_	_
+17	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	cop	_	_
+18	goth	goþer	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+19	feth	feter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	spadh	spadh	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	15	acl	_	_
+
+# text = Aldrik ma herra abote kaku ætæ fore thy at hon är tæffløs
+# sent_id = swedish-old-abbot-17
+# old_sent_id = 25405
+1	Aldrik	aldrigh	ADV	Df	_	6	advmod	_	_
+2	ma	magha	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	kaku	kaka	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+6	ætæ	äta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+7	fore	for	ADP	G-	_	8	case	_	_
+8	thy	þy	PRON	G-	PronType=Prs	6	obl	_	_
+9	at	at*	SCONJ	G-	_	12	mark	_	_
+10	hon	hon	PRON	Pp	Case=Nom|PronType=Prs	12	nsubj	_	_
+11	är	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
+12	tæffløs	thäflös	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	acl	_	_
+
+# text = Tha rætes in egh fore abotan
+# sent_id = swedish-old-abbot-18
+# old_sent_id = 25406
+1	Tha	þa	ADV	Df	_	2	advmod	_	_
+2	rætes	rätta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	in	in	ADV	Df	_	2	advmod	_	_
+4	egh	äg	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+5	fore	for	ADP	R-	_	6	case	_	_
+6	abotan	abbote	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
+
+# text = tha æter herra abote fæm egh stekt och fæm sudhin och fæm giord j gryto och fæm j panno och fæm sudin j kale och fæm kolhuppad
+# sent_id = swedish-old-abbot-19
+# old_sent_id = 25407
+1	tha	þa	ADV	Df	_	2	advmod	_	_
+2	æter	äta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	fæm	fäm	NUM	Py	Case=Acc|Gender=Neut	6	nummod	_	_
+6	egh	äg	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+7	stekt	stekia	ADJ	V-	Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	_
+8	och	ok	CCONJ	C-	_	9	cc	_	_
+9	fæm	fäm	NUM	Py	Case=Acc|Gender=Neut	10	nummod	_	_
+10	sudhin	siuþa	ADJ	V-	Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	conj	_	_
+11	och	ok	CCONJ	C-	_	12	cc	_	_
+12	fæm	fäm	NUM	Py	Case=Acc|Gender=Neut	13	nummod	_	_
+13	giord	göra	ADJ	V-	Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	conj	_	_
+14	j	i	ADP	R-	_	15	case	_	_
+15	gryto	gryta	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
+16	och	ok	CCONJ	C-	_	17	cc	_	_
+17	fæm	fäm	NUM	Py	Case=Acc|Gender=Neut	6	conj	_	_
+18	j	i	ADP	R-	_	19	case	_	_
+19	panno	panna	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	17	nmod	_	_
+20	och	ok	CCONJ	C-	_	21	cc	_	_
+21	fæm	fäm	NUM	Py	Case=Acc|Gender=Neut	22	nummod	_	_
+22	sudin	siuþa	ADJ	V-	Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	conj	_	_
+23	j	i	ADP	R-	_	24	case	_	_
+24	kale	kal	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	22	obl	_	_
+25	och	ok	CCONJ	C-	_	26	cc	_	_
+26	fæm	fäm	NUM	Py	Case=Acc|Gender=Neut	27	nummod	_	_
+27	kolhuppad	kolhuppadher	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	6	conj	_	_
+
+# text = Siden æter herra abote wtan widh fæm egh och fæm sinnom fæm egh
+# sent_id = swedish-old-abbot-20
+# old_sent_id = 25408
+1	Siden	siþan	ADV	Df	_	2	advmod	_	_
+2	æter	äta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	wtan	utan	ADV	Df	ExtPos=ADV	2	advmod	_	_
+6	widh	viþer	ADV	Df	_	5	fixed	_	_
+7	fæm	fäm	NUM	Py	Case=Acc|Gender=Neut	8	nummod	_	_
+8	egh	äg	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+9	och	ok	CCONJ	C-	_	13	cc	_	_
+10	fæm	fäm	NUM	Py	Case=Dat|Gender=Masc,Neut	11	nummod	_	_
+11	sinnom	sin	NOUN	Nb	Case=Dat|Gender=Masc,Neut|Number=Plur	12	nmod	_	_
+12	fæm	fäm	NUM	Py	Case=Acc|Gender=Neut	13	nummod	_	_
+13	egh	äg	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	conj	_	_
+
+# text = for budhit ær honum mere at ætæ
+# sent_id = swedish-old-abbot-21
+# old_sent_id = 25429
+1	for	forbiuþa	ADJ	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	_
+2	budhit	_	X	V-	_	1	goeswith	_	_
+3	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	honum	han	PRON	Pp	Case=Dat|PronType=Prs	1	obl	_	_
+5	mere	mere	ADJ	A-	Case=Acc|Degree=Cmp|Number=Sing	7	obj	_	_
+6	at	at	SCONJ	G-	_	7	mark	_	_
+7	ætæ	äta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	_
+
+# text = Loffuat ær honum at drikka
+# sent_id = swedish-old-abbot-22
+# old_sent_id = 25409
+1	Loffuat	lova	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	honum	han	PRON	Pp	Case=Dat|PronType=Prs	1	obl	_	_
+4	at	at	SCONJ	G-	_	5	mark	_	_
+5	drikka	drikka	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	_
+
+# text = tha bærs in twa stora nistor fore herra abota
+# sent_id = swedish-old-abbot-23
+# old_sent_id = 25410
+1	tha	þa	ADV	Df	_	2	advmod	_	_
+2	bærs	bära	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	in	in	ADV	Df	_	2	advmod	_	_
+4	twa	tver	NUM	Py	Case=Acc|Gender=Fem	6	nummod	_	_
+5	stora	stor	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	_
+6	nistor	nista	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
+7	fore	for	ADP	R-	_	9	case	_	_
+8	herra	härra	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
+9	abota	abbote	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
+
+# text = tha taker herra abota och sæter adhra a vinstre hand sin och andra a høgre
+# sent_id = swedish-old-abbot-24
+# old_sent_id = 25411
+1	tha	þa	ADV	Df	_	2	advmod	_	_
+2	taker	taka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abota	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	och	ok	CCONJ	C-	_	6	cc	_	_
+6	sæter	sätia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	adhra	annar	PRON	Py	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	6	obj	_	_
+8	a	a	ADP	R-	_	10	case	_	_
+9	vinstre	vinstre	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	10	amod	_	_
+10	hand	hand	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+11	sin	sin	PRON	Ps	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+12	och	ok	CCONJ	C-	_	13	cc	_	_
+13	andra	annar	PRON	Py	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	6	conj	_	_
+14	a	a	ADP	R-	_	15	case	_	_
+15	høgre	höghre	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	13	orphan	_	_
+
+# text = tha taker han badha nistunar wt super lithit aff och ser huru honum gætz aat
+# sent_id = swedish-old-abbot-25
+# old_sent_id = 25412
+1	tha	þa	ADV	Df	_	2	advmod	_	_
+2	taker	taka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+4	badha	baþir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	5	det	_	_
+5	nistunar	nista	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
+6	wt	ut	ADP	V-	_	7	compound:prt	_	_
+7	super	super	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	lithit	litil	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	obj	_	_
+9	aff	af	ADP	R-	_	7	obl	_	_
+10	och	ok	CCONJ	C-	_	11	cc	_	_
+11	ser	sea	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	huru	huru	ADV	Du	PronType=Int	14	advmod	_	_
+13	honum	han	PRON	Pp	Case=Dat|PronType=Prs	14	obl	_	_
+14	gætz	gätas	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	ccomp	_	_
+15	aat	at	ADP	R-	_	14	compound:prt	_	_
+
+# text = Tha siger herra abote til thera nistu a vinstræ hand ær thy at ther ær onth øll j Hæffuin wt tha bansatta nistuna
+# sent_id = swedish-old-abbot-26
+# old_sent_id = 25413
+1	Tha	þa	ADV	Df	_	2	advmod	_	_
+2	siger	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	til	til	ADP	R-	_	7	case	_	_
+6	thera	þän	DET	Pd	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	nistu	nista	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	_
+8	a	a	ADP	R-	_	10	case	_	_
+9	vinstræ	vinstre	ADJ	A-	Case=Dat|Degree=Cmp|Gender=Fem|Number=Sing	10	amod	_	_
+10	hand	hand	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	acl:relcl	_	_
+11	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+12	thy	þy	PRON	G-	PronType=Prs	2	obl	_	_
+13	at	at	SCONJ	G-	_	14	mark	_	_
+14	ther	þär	ADV	Df	_	12	acl	_	_
+15	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+16	onth	onder	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	øll	öl	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+18	j	i	ADP	R-	_	14	case	_	_
+19	Hæffuin	häfia	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+20	wt	ut	ADV	Df	Degree=Pos	19	advmod	_	_
+21	tha	þän	DET	Pd	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+22	bansatta	bansätia	ADJ	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	23	amod	_	_
+23	nistuna	nista	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+
+# text = Siden drykker herra abote fore helghe kirkio at gud frælssi hona
+# sent_id = swedish-old-abbot-27
+# old_sent_id = 25415
+1	Siden	siþan	ADV	Df	_	2	advmod	_	_
+2	drykker	drikka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	fore	for	ADP	R-	_	7	case	_	_
+6	helghe	helagher	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	kirkio	kirkia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
+8	at	at	SCONJ	G-	_	10	mark	_	_
+9	gud	guþ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	frælssi	frälsa	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+11	hona	hon	PRON	Pp	Case=Acc|PronType=Prs	10	obj	_	_
+
+# text = Annat sinne drikker herra abote fore got ar at gudh giffui goth ar bondom
+# sent_id = swedish-old-abbot-28
+# old_sent_id = 25416
+1	Annat	annar	PRON	Py	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	det	_	_
+2	sinne	sinne	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+3	drikker	drikka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
+5	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	fore	for	ADP	R-	_	8	case	_	_
+7	got	goþer	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	ar	ar	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+9	at	at	SCONJ	G-	_	11	mark	_	_
+10	gudh	guþ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	giffui	giva	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+12	goth	goþer	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	ar	ar	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+14	bondom	bonde	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	_
+
+# text = Tridhiæ sin drikker herra abote fore synder och glømsko alla brødra
+# sent_id = swedish-old-abbot-29
+# old_sent_id = 25417
+1	Tridhiæ	þriþi	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	2	amod	_	_
+2	sin	sin	NOUN	Nb	Case=Acc|Gender=Masc,Neut|Number=Sing	3	obl	_	_
+3	drikker	drikka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
+5	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	fore	for	ADP	R-	_	7	case	_	_
+7	synder	synd	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	obl	_	_
+8	och	ok	CCONJ	C-	_	9	cc	_	_
+9	glømsko	glömska	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	_
+10	alla	alder	PRON	Py	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	11	det	_	_
+11	brødra	broþir	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod:poss	_	_
+
+# text = Fiærde sinne drikker herra abote fore staplin som stander j babilone at han falle eygh
+# sent_id = swedish-old-abbot-30
+# old_sent_id = 25418
+1	Fiærde	fiärþe	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	2	amod	_	_
+2	sinne	sinne	NOUN	Nb	Case=Acc|Gender=Masc,Neut|Number=Sing	3	obl	_	_
+3	drikker	drikka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
+5	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	fore	for	ADP	R-	_	7	case	_	_
+7	staplin	stapul	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+8	som	sum	PRON	G-	PronType=Rel	9	nsubj	_	_
+9	stander	standa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+10	j	i	ADP	R-	_	11	case	_	_
+11	babilone	Babylon	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+12	at	at	SCONJ	G-	_	14	mark	_	_
+13	han	han	PRON	Pp	Case=Nom|PronType=Prs	14	nsubj	_	_
+14	falle	falla	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+15	eygh	eigh	ADV	Df	Polarity=Neg	14	advmod	_	_
+
+# text = Fæmpte sinne drikker herra abote fore stora klokkona som stander j lund at hon brytes ey
+# sent_id = swedish-old-abbot-31
+# old_sent_id = 25419
+1	Fæmpte	fämte	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
+2	sinne	sinne	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+3	drikker	drikka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
+5	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	fore	for	ADP	R-	_	8	case	_	_
+7	stora	stor	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	klokkona	klokka	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+9	som	sum	PRON	G-	PronType=Rel	10	nsubj	_	_
+10	stander	standa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+11	j	i	ADP	R-	_	12	case	_	_
+12	lund	Lund	PROPN	Ne	Case=Dat|Number=Sing	10	obl	_	_
+13	at	at	SCONJ	G-	_	15	mark	_	_
+14	hon	hon	PRON	Pp	Case=Nom|PronType=Prs	15	nsubj:pass	_	_
+15	brytes	bryta	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	advcl	_	_
+16	ey	eigh	PART	Df	Polarity=Neg	15	advmod	_	_
+
+# text = Swa drikker herra abote siw sinnom och siwtigi
+# sent_id = swedish-old-abbot-32
+# old_sent_id = 25420
+1	Swa	sva	ADV	Df	_	2	advmod	_	_
+2	drikker	drikka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	siw	siu	NUM	Py	Case=Dat|Gender=Masc,Neut	6	nummod	_	_
+6	sinnom	sin	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	_
+7	och	ok	CCONJ	C-	_	8	cc	_	_
+8	siwtigi	siutighi	NUM	Py	Case=Dat|Gender=Masc,Neut	5	conj	_	_
+
+# text = Siden ganger herra abote fran borde och siger Miserere mei deus och thakker gudhi at han ær wæl mætter och wæl drukken
+# sent_id = swedish-old-abbot-33
+# old_sent_id = 25421
+1	Siden	siþan	ADV	Df	_	2	advmod	_	_
+2	ganger	ganga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	fran	fran	ADP	R-	_	6	case	_	_
+6	borde	borþ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	_
+7	och	ok	CCONJ	C-	_	8	cc	_	_
+8	siger	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+9	Miserere	Miserere	VERB	F-	Foreign=Yes|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	8	ccomp	_	Lang=la
+10	mei	mei	PRON	F-	Case=Gen|Foreign=Yes|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=la
+11	deus	deus	NOUN	F-	Case=Voc|Foreign=Yes|Gender=Masc|Number=Sing	9	vocative	_	Lang=la
+12	och	ok	CCONJ	C-	_	13	cc	_	_
+13	thakker	þakka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+14	gudhi	guþ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	_
+15	at	at	SCONJ	G-	_	19	mark	_	_
+16	han	han	PRON	Pp	Case=Nom|PronType=Prs	19	nsubj	_	_
+17	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	_
+18	wæl	väl	ADV	Df	Degree=Pos	19	advmod	_	_
+19	mætter	mätter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	ccomp	_	_
+20	och	ok	CCONJ	C-	_	22	cc	_	_
+21	wæl	väl	ADV	Df	Degree=Pos	22	advmod	_	_
+22	drukken	drikka	ADJ	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	19	conj	_	_
+
+# text = Siden han haffuer lesit tiider siner Tha later han gøræ sik alskona supan at han warder ey trangbrystader
+# sent_id = swedish-old-abbot-34
+# old_sent_id = 25422
+1	Siden	siþan	SCONJ	G-	_	4	mark	_	_
+2	han	han	PRON	Pp	Case=Nom|PronType=Prs	4	nsubj	_	_
+3	haffuer	hava	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	lesit	läsa	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	_
+5	tiider	tiþ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+6	siner	sin	PRON	Ps	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+7	Tha	þa	ADV	Df	_	8	advmod	_	_
+8	later	lata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	han	han	PRON	Pp	Case=Nom|PronType=Prs	8	nsubj	_	_
+10	gøræ	göra	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	ccomp	_	_
+11	sik	sik	PRON	Pk	Case=Dat|PronType=Prs	10	obl	_	Reflex=Yes
+12	alskona	alzkona	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	supan	supan	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+14	at	at	SCONJ	G-	_	16	mark	_	_
+15	han	han	PRON	Pp	Case=Nom|PronType=Prs	16	nsubj	_	_
+16	warder	varþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+17	ey	eigh	PART	Df	Polarity=Neg	16	advmod	_	_
+18	trangbrystader	thrangbrystadher	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	xcomp	_	_
+
+# text = han later ther j win och piper och ingefæræ
+# sent_id = swedish-old-abbot-35
+# old_sent_id = 25423
+1	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
+2	later	lata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ther	þär	ADV	Df	_	2	advmod	_	_
+4	j	i	ADP	Df	_	3	case	_	_
+5	win	vin	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+6	och	ok	CCONJ	C-	_	7	cc	_	_
+7	piper	pipar	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	_
+8	och	ok	CCONJ	C-	_	9	cc	_	_
+9	ingefæræ	ingefära	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	_
+
+# text = thesso thry gøræ han swa hæten at swetten rindher aff hwario hare
+# sent_id = swedish-old-abbot-36
+# old_sent_id = 25430
+1	thesso	þänne	DET	Pd	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	det	_	_
+2	thry	þrir	NUM	Py	Case=Nom|Gender=Neut	3	nsubj	_	_
+3	gøræ	göra	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	han	han	PRON	Pp	Case=Acc|PronType=Prs	3	obj	_	_
+5	swa	sva	ADV	Df	_	6	advmod	_	_
+6	hæten	heter	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	xcomp	_	_
+7	at	at	SCONJ	G-	_	9	mark	_	_
+8	swetten	svete	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	rindher	rinna	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+10	aff	af	ADP	R-	_	12	case	_	_
+11	hwario	hvar	PRON	Py	Case=Dat|Gender=Neut|Number=Sing|PronType=Tot	12	det	_	_
+12	hare	har	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	9	obl	_	_
+
+# text = Æn then samma ember som gar wr herra abota halsse swemar om ænne hans alt och hoffwdh
+# sent_id = swedish-old-abbot-37
+# old_sent_id = 25424
+1	Æn	än	CCONJ	C-	_	11	cc	_	_
+2	then	þän	DET	Pd	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	samma	samber	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	ember	ember	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+5	som	sum	PRON	G-	PronType=Rel	6	nsubj	_	_
+6	gar	ganga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+7	wr	ur	ADP	R-	_	10	case	_	_
+8	herra	härra	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+9	abota	abbote	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod:poss	_	_
+10	halsse	hals	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
+11	swemar	svema	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	om	um	ADP	R-	_	13	case	_	_
+13	ænne	änne	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+14	hans	han	PRON	Pp	Case=Gen|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+15	alt	alder	PRON	Py	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	13	det	_	_
+16	och	ok	CCONJ	C-	_	17	cc	_	_
+17	hoffwdh	hovuþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	conj	_	_
+
+# text = och within thet sannelika at thenne ember wræker alt har aff herra abota
+# sent_id = swedish-old-abbot-38
+# old_sent_id = 25425
+1	och	ok	CCONJ	C-	_	2	cc	_	_
+2	within	vita	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	thet	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	2	obj	_	_
+4	sannelika	sanlika	ADV	Df	Degree=Pos	2	advmod	_	_
+5	at	at	SCONJ	G-	_	8	mark	_	_
+6	thenne	þänne	DET	Pd	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	ember	ember	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	wræker	vräka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+9	alt	alder	PRON	Py	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	10	det	_	_
+10	har	har	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+11	aff	af	ADP	R-	_	13	case	_	_
+12	herra	härra	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	_
+13	abota	abbote	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+
+# text = och fore thæs saker æræ allæ abota flinskallutte
+# sent_id = swedish-old-abbot-39
+# old_sent_id = 25426
+1	och	ok	CCONJ	C-	_	8	cc	_	_
+2	fore	for	ADP	R-	_	4	case	_	_
+3	thæs	þän	DET	Pd	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	saker	sak	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	8	obl	_	_
+5	æræ	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+6	allæ	alder	PRON	Py	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	abota	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+8	flinskallutte	flintskalloter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
+
+# text = Swa lyktæs thenne fabula
+# sent_id = swedish-old-abbot-40
+# old_sent_id = 25427
+1	Swa	sva	ADV	Df	_	2	advmod	_	_
+2	lyktæs	lykta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	thenne	þänne	DET	Pd	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	fabula	fabula	NOUN	F-	Case=Nom|Foreign=Yes|Gender=Fem|Number=Sing	2	nsubj:pass	_	Lang=la
+

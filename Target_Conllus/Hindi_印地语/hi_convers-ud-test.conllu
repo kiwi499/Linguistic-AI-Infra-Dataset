@@ -1,0 +1,4702 @@
+1	Goa	_	PROPN	PROPN	_	3	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	lagta	_	VERB	VERB	_	7	advcl	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	sab	_	PRON	PRON	_	7	nsubj	_	_
+6	so	_	VERB	VERB	_	7	advcl	_	_
+7	rahein	_	VERB	VERB	_	0	root	_	_
+8	hain	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Bada	_	ADJ	ADJ	_	2	amod	_	_
+2	wo	_	PRON	PRON	_	0	root	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	jis	_	PRON	PRON	_	9	nsubj	_	_
+5	ne	_	ADP	ADP	_	4	case	_	_
+6	khud	_	PRON	PRON	_	9	dobj	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+8	chota	_	ADJ	ADJ	_	9	acl	_	_
+9	samajh	_	VERB	VERB	_	2	acl:relcl	_	_
+10	liya	_	AUX	AUX	_	9	aux	_	_
+11	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Ya	_	CONJ	CONJ	_	9	cc	_	_
+2	Allah	_	NOUN	NOUN	_	3	compound	_	_
+3	bas	_	NOUN	NOUN	_	9	nsubj	_	_
+4	ye	_	DET	DET	_	6	det	_	_
+5	3	_	NUM	NUM	_	6	nummod	_	_
+6	din	_	NOUN	NOUN	_	9	nmod	_	_
+7	guzar	_	PART	PART	_	8	dep	_	_
+8	jayain	_	PRON	PRON	_	9	nmod	_	_
+9	Salamti	_	NOUN	NOUN	_	0	root	_	_
+10	ke	_	ADP	ADP	_	9	case	_	_
+11	saat	_	ADP	ADP	_	9	case	_	_
+
+1	Bina	_	PART	PART	_	2	dep	_	_
+2	gaali	_	NOUN	NOUN	_	3	dobj	_	_
+3	diye	_	VERB	VERB	_	8	advcl	_	_
+4	tou	_	AUX	AUX	_	3	aux	_	_
+5	baat	_	NOUN	NOUN	_	8	compound	_	_
+6	hi	_	PART	PART	_	5	dep	_	_
+7	nahi	_	PART	PART	_	8	neg	_	_
+8	karta	_	VERB	VERB	_	0	root	_	_
+9	yahan	_	PRON	PRON	_	0	root	_	_
+10	koi	_	PRON	PRON	_	0	root	_	_
+
+1	sab	_	PRON	PRON	_	3	punct	_	_
+2	bohut	_	DET	DET	_	3	det	_	_
+3	maza	_	NOUN	NOUN	_	4	dobj	_	_
+4	le	_	VERB	VERB	_	0	root	_	_
+5	rahe	_	AUX	AUX	_	4	aux	_	_
+6	hain	_	AUX	AUX	_	5	auxpass	_	_
+7	mere	_	PRON	PRON	_	8	nmod	_	_
+8	dukh	_	NOUN	NOUN	_	4	nsubj	_	_
+9	ka	_	ADP	ADP	_	8	case	_	_
+
+1	har	_	DET	DET	_	2	det	_	_
+2	ilzam	_	NOUN	NOUN	_	7	nmod	_	_
+3	mujh	_	PRON	PRON	_	7	nsubj	_	_
+4	masoom	_	NOUN	NOUN	_	7	nmod	_	_
+5	pe	_	ADP	ADP	_	4	case	_	_
+6	kyun	_	PRON	PRON	_	7	advmod	_	_
+7	lagta	_	VERB	VERB	_	0	root	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+
+1	Dil	_	NOUN	NOUN	_	3	advmod	_	_
+2	Ye	_	PRON	PRON	_	3	nsubj	_	_
+3	Mera	_	PRON	PRON	_	0	root	_	_
+4	Hain	_	VERB	VERB	_	3	cop	_	_
+5	Bewaqoof	_	NOUN	NOUN	_	6	nsubj	_	_
+6	Bada	_	VERB	VERB	_	3	acl:relcl	_	_
+7	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Neend	_	NOUN	NOUN	_	6	nsubj	_	_
+2	raat	_	NOUN	NOUN	_	6	nmod	_	_
+3	bhar	_	PART	PART	_	2	dep	_	_
+4	kyun	_	PRON	PRON	_	6	advmod	_	_
+5	nahi	_	PART	PART	_	6	neg	_	_
+6	aati	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Kuch	_	DET	DET	_	2	det	_	_
+2	din	_	NOUN	NOUN	_	7	nmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	mujhe	_	PRON	PRON	_	7	nsubj	_	_
+5	teri	_	PRON	PRON	_	6	nmod	_	_
+6	aadat	_	NOUN	NOUN	_	7	compound	_	_
+7	ho	_	VERB	VERB	_	0	root	_	_
+8	gayi	_	AUX	AUX	_	7	aux	_	_
+9	hai	_	AUX	AUX	_	8	auxpass	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Ek	_	NUM	NUM	_	2	nummod	_	_
+2	baat	_	NOUN	NOUN	_	3	dobj	_	_
+3	kahoon	_	VERB	VERB	_	6	advcl	_	_
+4	Kya	_	PRON	PRON	_	5	advmod	_	_
+5	ijazat	_	ADJ	ADJ	_	6	dobj	_	_
+6	hai	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Kal	_	NOUN	NOUN	_	5	nmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	wohi	_	DET	DET	_	4	det	_	_
+4	shuru	_	NOUN	NOUN	_	5	compound	_	_
+5	sab	_	PRON	PRON	_	0	root	_	_
+
+1	bohut	_	DET	DET	_	2	det	_	_
+2	shor	_	NOUN	NOUN	_	3	compound	_	_
+3	karte	_	VERB	VERB	_	0	root	_	_
+4	ho	_	AUX	AUX	_	3	aux	_	_
+5	tum	_	DET	DET	_	6	det	_	_
+6	sab	_	PRON	PRON	_	3	nsubj	_	_
+
+1	Tum	_	PRON	PRON	_	8	nsubj	_	_
+2	mere	_	PRON	PRON	_	3	nmod	_	_
+3	jeene	_	VERB	VERB	_	5	nmod	_	_
+4	ki	_	ADP	ADP	_	3	mark	_	_
+5	aadat	_	NOUN	NOUN	_	8	nmod	_	_
+6	ka	_	ADP	ADP	_	5	case	_	_
+7	kyun	_	PRON	PRON	_	8	advmod	_	_
+8	ghont	_	VERB	VERB	_	0	root	_	_
+9	rahe	_	AUX	AUX	_	8	aux	_	_
+10	dum	_	NOUN	NOUN	_	8	nsubj	_	_
+11	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Zalalat	_	NOUN	NOUN	_	2	nsubjpass	_	_
+2	likh	_	VERB	VERB	_	0	root	_	_
+3	di	_	AUX	AUX	_	2	auxpass	_	_
+4	gayi	_	AUX	AUX	_	3	auxpass	_	_
+5	he	_	AUX	AUX	_	4	auxpass	_	_
+6	zindagi	_	NOUN	NOUN	_	8	nmod	_	_
+7	ki	_	ADP	ADP	_	6	case	_	_
+8	kitaab	_	NOUN	NOUN	_	2	nsubj	_	_
+9	mein	_	ADP	ADP	_	8	case	_	_
+10	!	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Jab	_	PRON	PRON	_	2	nmod	_	_
+2	chal	_	VERB	VERB	_	6	acl	_	_
+3	hi	_	PART	PART	_	2	dep	_	_
+4	diya	_	AUX	AUX	_	2	aux	_	_
+5	is	_	DET	DET	_	6	det	_	_
+6	rah	_	NOUN	NOUN	_	10	nmod	_	_
+7	par	_	ADP	ADP	_	6	case	_	_
+8	,	_	PUNCT	PUNCT	_	6	punct	_	_
+9	phir	_	ADV	ADV	_	10	advmod	_	_
+10	dar	_	NOUN	NOUN	_	11	nsubj	_	_
+11	kesa	_	PRON	PRON	_	0	root	_	_
+12	!	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	Mohabbat	_	NOUN	NOUN	_	3	nmod	_	_
+2	ka	_	ADP	ADP	_	1	case	_	_
+3	matlab	_	NOUN	NOUN	_	5	dobj	_	_
+4	hasil	_	ADJ	ADJ	_	5	compound	_	_
+5	karna	_	VERB	VERB	_	0	root	_	_
+6	hi	_	PART	PART	_	5	dep	_	_
+7	thodi	_	ADJ	ADJ	_	0	root	_	_
+8	hota	_	AUX	AUX	_	7	dep	_	_
+9	hai	_	AUX	AUX	_	8	auxpass	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Tere	_	PRON	PRON	_	2	nmod	_	_
+2	Bin	_	PROPN	PROPN	_	4	nsubj	_	_
+3	Jee	_	PART	PART	_	4	neg	_	_
+4	Lenge	_	VERB	VERB	_	0	root	_	_
+5	Hum	_	PRON	PRON	_	4	dobj	_	_
+
+1	Halaat	_	NOUN	NOUN	_	2	nsubj	_	_
+2	badalte	_	VERB	VERB	_	6	advcl	_	_
+3	hi	_	PART	PART	_	2	dep	_	_
+4	log	_	NOUN	NOUN	_	6	nsubj	_	_
+5	bhi	_	PART	PART	_	4	dep	_	_
+6	badal	_	VERB	VERB	_	0	root	_	_
+7	jate	_	AUX	AUX	_	6	aux	_	_
+8	hen	_	AUX	AUX	_	7	auxpass	_	_
+9	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Ghila	_	NOUN	NOUN	_	2	compound	_	_
+2	karein	_	VERB	VERB	_	0	root	_	_
+3	bhi	_	PART	PART	_	2	dep	_	_
+4	to	_	SCONJ	SCONJ	_	8	mark	_	_
+5	kis	_	DET	DET	_	6	det	_	_
+6	cheez	_	NOUN	NOUN	_	8	root	_	_
+7	ka	_	ADP	ADP	_	6	case	_	_
+8	!	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Bin	_	PROPN	PROPN	_	5	nsubj	_	_
+2	bole	_	VERB	VERB	_	3	acl	_	_
+3	baatein	_	NOUN	NOUN	_	5	dobj	_	_
+4	tumse	_	PRON	PRON	_	5	nmod	_	_
+5	karun	_	VERB	VERB	_	0	root	_	_
+
+1	Dehleez	_	NOUN	NOUN	_	7	nmod	_	_
+2	pe	_	ADP	ADP	_	1	case	_	_
+3	mere	_	PRON	PRON	_	4	nmod	_	_
+4	dil	_	NOUN	NOUN	_	6	nmod	_	_
+5	ki	_	ADP	ADP	_	4	case	_	_
+6	jo	_	PRON	PRON	_	7	dobj	_	_
+7	rakhe	_	VERB	VERB	_	0	root	_	_
+8	hain	_	AUX	AUX	_	7	aux	_	_
+9	tu	_	PROPN	PROPN	_	11	nsubj	_	_
+10	ne	_	ADP	ADP	_	9	case	_	_
+11	qadam	_	NOUN	NOUN	_	7	nsubj	_	_
+
+1	Khus	_	ADJ	ADJ	_	0	root	_	_
+2	aur	_	CONJ	CONJ	_	1	cc	_	_
+3	statisfy	_	PROPN	PROPN	_	1	conj	_	_
+4	toh	_	PART	PART	_	3	dep	_	_
+5	koi	_	PRON	PRON	_	0	root	_	_
+6	bhi	_	PART	PART	_	5	dep	_	_
+7	nahi	_	PART	PART	_	8	neg	_	_
+8	hai	_	VERB	VERB	_	5	cop	_	_
+9	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Koi	_	PRON	PRON	_	2	punct	_	_
+2	galti	_	NOUN	NOUN	_	5	advmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	hi	_	PART	PART	_	2	dep	_	_
+5	maar	_	VERB	VERB	_	0	root	_	_
+6	de	_	AUX	AUX	_	5	aux	_	_
+7	mujhe	_	PRON	PRON	_	5	nsubj	_	_
+8	!	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Sabko	_	PRON	PRON	_	6	iobj	_	_
+2	aaj	_	NOUN	NOUN	_	5	nmod	_	_
+3	ka	_	ADP	ADP	_	2	case	_	_
+4	hi	_	PART	PART	_	2	dep	_	_
+5	din	_	NOUN	NOUN	_	6	nsubj	_	_
+6	mila	_	VERB	VERB	_	9	advcl	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+8	paida	_	ADJ	ADJ	_	9	compound	_	_
+9	hone	_	VERB	VERB	_	0	root	_	_
+10	ke	_	ADP	ADP	_	9	mark	_	_
+11	liye	_	ADP	ADP	_	9	mark	_	_
+12	?	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	suni	_	VERB	VERB	_	3	acl	_	_
+2	nahiii	_	PART	PART	_	3	dep	_	_
+3	zamane	_	NOUN	NOUN	_	7	nsubj	_	_
+4	ne	_	ADP	ADP	_	3	case	_	_
+5	tere	_	PRON	PRON	_	6	nmod	_	_
+6	mere	_	PRON	PRON	_	7	nmod	_	_
+7	khaniaaan	_	NOUN	NOUN	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Kisi	_	PRON	PRON	_	2	punct	_	_
+2	roz	_	NOUN	NOUN	_	6	nmod	_	_
+3	tum	_	PRON	PRON	_	6	nmod	_	_
+4	se	_	ADP	ADP	_	3	case	_	_
+5	mulakat	_	NOUN	NOUN	_	6	compound	_	_
+6	hogi	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Main	_	ADP	ADP	_	0	root	_	_
+2	dhal	_	VERB	VERB	_	5	acl:relcl	_	_
+3	jaati	_	AUX	AUX	_	2	aux	_	_
+4	hoon	_	AUX	AUX	_	3	auxpass	_	_
+5	teri	_	PRON	PRON	_	6	nmod	_	_
+6	aadaton	_	NOUN	NOUN	_	0	root	_	_
+7	mein	_	ADP	ADP	_	6	case	_	_
+
+1	Tera	_	PRON	PRON	_	2	nmod	_	_
+2	intezaar	_	NOUN	NOUN	_	3	compound	_	_
+3	karte	_	VERB	VERB	_	6	advcl	_	_
+4	karte	_	AUX	AUX	_	3	aux	_	_
+5	neendh	_	NOUN	NOUN	_	6	nsubj	_	_
+6	aa	_	VERB	VERB	_	0	root	_	_
+7	rahi	_	AUX	AUX	_	6	aux	_	_
+8	hai	_	AUX	AUX	_	7	auxpass	_	_
+9	ab	_	PRON	PRON	_	6	nsubj	_	_
+
+1	Amma	_	NOUN	NOUN	_	2	compound	_	_
+2	jaan	_	NOUN	NOUN	_	9	iobj	_	_
+3	ko	_	ADP	ADP	_	2	case	_	_
+4	baat	_	NOUN	NOUN	_	9	nsubj	_	_
+5	abhi	_	PRON	PRON	_	9	nmod	_	_
+6	tak	_	ADP	ADP	_	5	case	_	_
+7	hazam	_	ADJ	ADJ	_	9	compound	_	_
+8	nahi	_	PART	PART	_	9	neg	_	_
+9	ho	_	VERB	VERB	_	0	root	_	_
+10	rahi	_	AUX	AUX	_	9	aux	_	_
+11	!	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Na	_	PART	PART	_	2	neg	_	_
+2	jaane	_	VERB	VERB	_	9	nsubj	_	_
+3	kabb	_	PRON	PRON	_	8	nmod	_	_
+4	se	_	ADP	ADP	_	3	case	_	_
+5	,	_	PUNCT	PUNCT	_	3	punct	_	_
+6	umeeden	_	NOUN	NOUN	_	8	nsubj	_	_
+7	kuch	_	DET	DET	_	8	det	_	_
+8	baaki	_	ADJ	ADJ	_	9	dobj	_	_
+9	hain	_	VERB	VERB	_	0	root	_	_
+
+1	Bohot	_	ADV	ADV	_	3	advmod	_	_
+2	bura	_	ADJ	ADJ	_	3	compound	_	_
+3	hoa	_	VERB	VERB	_	0	root	_	_
+4	hai	_	PART	PART	_	3	dep	_	_
+5	Quetta	_	PROPN	PROPN	_	0	root	_	_
+6	ke	_	ADP	ADP	_	5	case	_	_
+7	saath	_	ADP	ADP	_	5	case	_	_
+8	bechare	_	ADJ	ADJ	_	0	root	_	_
+
+1	Itna	_	DET	DET	_	2	det	_	_
+2	bura	_	ADJ	ADJ	_	0	root	_	_
+3	nahi	_	PART	PART	_	4	neg	_	_
+4	hoon	_	VERB	VERB	_	2	cop	_	_
+5	jitna	_	DET	DET	_	6	det	_	_
+6	log	_	NOUN	NOUN	_	7	nsubj	_	_
+7	samajhte	_	VERB	VERB	_	2	nsubj	_	_
+8	hein	_	AUX	AUX	_	7	aux	_	_
+9	!	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Kapde	_	NOUN	NOUN	_	0	root	_	_
+2	istri	_	NOUN	NOUN	_	0	root	_	_
+3	kardo	_	AUX	AUX	_	2	aux	_	_
+4	subha	_	NOUN	NOUN	_	0	root	_	_
+5	ke	_	ADP	ADP	_	4	case	_	_
+6	liye	_	ADP	ADP	_	4	case	_	_
+
+1	kuch	_	DET	DET	_	2	det	_	_
+2	samajh	_	NOUN	NOUN	_	4	nsubj	_	_
+3	nahi	_	PART	PART	_	4	neg	_	_
+4	aa	_	VERB	VERB	_	0	root	_	_
+5	raha	_	AUX	AUX	_	4	aux	_	_
+6	aaj	_	NOUN	NOUN	_	4	nsubj	_	_
+
+1	Boriyat	_	NOUN	NOUN	_	7	advmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	kahin	_	PRON	PRON	_	4	nmod	_	_
+4	mout	_	NOUN	NOUN	_	7	nsubj	_	_
+5	hi	_	PART	PART	_	4	dep	_	_
+6	na	_	PART	PART	_	7	neg	_	_
+7	aa	_	VERB	VERB	_	0	root	_	_
+8	jaye	_	AUX	AUX	_	7	aux	_	_
+9	mujhey	_	PRON	PRON	_	8	auxpass	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Apni	_	PRON	PRON	_	2	nmod	_	_
+2	beti	_	NOUN	NOUN	_	4	nmod	_	_
+3	ke	_	ADP	ADP	_	2	case	_	_
+4	joote	_	NOUN	NOUN	_	5	dobj	_	_
+5	pehen	_	VERB	VERB	_	0	root	_	_
+6	aaya	_	AUX	AUX	_	5	aux	_	_
+7	Smith	_	PROPN	PROPN	_	5	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Chalo	_	PROPN	PROPN	_	2	nsubj	_	_
+2	haar	_	VERB	VERB	_	4	acl:relcl	_	_
+3	gaye	_	AUX	AUX	_	2	aux	_	_
+4	phir	_	ADV	ADV	_	7	advmod	_	_
+5	se	_	PART	PART	_	4	dep	_	_
+6	hum	_	PRON	PRON	_	7	nsubj	_	_
+7	aaj	_	NOUN	NOUN	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Fikar	_	NOUN	NOUN	_	2	compound	_	_
+2	karne	_	VERB	VERB	_	0	root	_	_
+3	wale	_	ADP	ADP	_	2	mark	_	_
+4	,	_	PUNCT	PUNCT	_	2	punct	_	_
+5	Naseeb	_	NOUN	NOUN	_	9	iobj	_	_
+6	walo	_	ADP	ADP	_	5	case	_	_
+7	ko	_	ADP	ADP	_	5	case	_	_
+8	he	_	PART	PART	_	5	dep	_	_
+9	milte	_	VERB	VERB	_	2	advcl	_	_
+10	hai	_	AUX	AUX	_	9	aux	_	_
+11	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Mann	_	NOUN	NOUN	_	4	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	jo	_	PRON	PRON	_	4	nsubj	_	_
+4	hoga	_	VERB	VERB	_	0	root	_	_
+5	karte	_	AUX	AUX	_	4	aux	_	_
+6	phiren	_	AUX	AUX	_	5	auxpass	_	_
+7	ge	_	AUX	AUX	_	6	auxpass	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Kisi	_	PRON	PRON	_	3	dobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	aana	_	VERB	VERB	_	0	root	_	_
+4	hai	_	PART	PART	_	3	dep	_	_
+5	holi	_	PROPN	PROPN	_	7	root	_	_
+6	mein	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Haath	_	NOUN	NOUN	_	2	compound	_	_
+2	rakh	_	VERB	VERB	_	4	acl	_	_
+3	de	_	AUX	AUX	_	2	aux	_	_
+4	tu	_	NOUN	NOUN	_	6	nsubj	_	_
+5	dil	_	NOUN	NOUN	_	6	advmod	_	_
+6	pe	_	VERB	VERB	_	0	root	_	_
+7	zara	_	AUX	AUX	_	6	aux	_	_
+
+1	Kehti	_	VERB	VERB	_	0	root	_	_
+2	mujhe	_	PRON	PRON	_	5	nsubj	_	_
+3	ki	_	ADP	ADP	_	2	case	_	_
+4	aaj	_	NOUN	NOUN	_	5	nmod	_	_
+5	doob	_	VERB	VERB	_	1	dobj	_	_
+6	jane	_	AUX	AUX	_	5	aux	_	_
+7	de	_	AUX	AUX	_	6	auxpass	_	_
+
+1	Jaisi	_	ADP	ADP	_	2	case	_	_
+2	tu	_	NOUN	NOUN	_	0	root	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	waisi	_	ADJ	ADJ	_	5	xcomp	_	_
+5	rehna	_	VERB	VERB	_	2	acl	_	_
+
+1	Akhir	_	ADV	ADV	_	7	advmod	_	_
+2	kyun	_	PRON	PRON	_	7	advmod	_	_
+3	tum	_	PRON	PRON	_	7	nsubj	_	_
+4	loat	_	VERB	VERB	_	7	advcl	_	_
+5	kar	_	AUX	AUX	_	4	aux	_	_
+6	nahi	_	PART	PART	_	7	neg	_	_
+7	aate	_	VERB	VERB	_	0	root	_	_
+8	!	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Kitne	_	DET	DET	_	3	nsubj	_	_
+2	gande	_	ADJ	ADJ	_	3	compound	_	_
+3	ho	_	VERB	VERB	_	0	root	_	_
+4	tum	_	DET	DET	_	5	det	_	_
+5	loog	_	NOUN	NOUN	_	3	nsubj	_	_
+6	😂	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	sanjeev	_	PROPN	PROPN	_	2	compound	_	_
+2	tyagi	_	PROPN	PROPN	_	3	nsubj	_	_
+3	dekho	_	VERB	VERB	_	5	advcl	_	_
+4	kya	_	PRON	PRON	_	5	advmod	_	_
+5	hoga	_	VERB	VERB	_	0	root	_	_
+6	aage	_	ADV	ADV	_	5	nsubj	_	_
+
+1	Aansu	_	NOUN	NOUN	_	3	dobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	bahana	_	NOUN	NOUN	_	9	nsubj	_	_
+4	chahiye	_	AUX	AUX	_	3	aux	_	_
+5	hota	_	AUX	AUX	_	4	auxpass	_	_
+6	hai	_	AUX	AUX	_	5	auxpass	_	_
+7	bas	_	NOUN	NOUN	_	8	compound	_	_
+8	bahir	_	NOUN	NOUN	_	9	nsubj	_	_
+9	aane	_	VERB	VERB	_	0	root	_	_
+10	ka	_	ADP	ADP	_	9	mark	_	_
+
+1	Lag	_	VERB	VERB	_	6	advcl	_	_
+2	hi	_	PART	PART	_	1	dep	_	_
+3	nahin	_	PART	PART	_	4	neg	_	_
+4	raha	_	AUX	AUX	_	1	aux	_	_
+5	karachi	_	PROPN	PROPN	_	6	nmod	_	_
+6	khel	_	VERB	VERB	_	0	root	_	_
+7	raha	_	AUX	AUX	_	6	aux	_	_
+8	hai	_	AUX	AUX	_	7	auxpass	_	_
+9	?	_	PUNCT	PUNCT	_	6	punct	_	_
+10	😲	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Har	_	DET	DET	_	2	det	_	_
+2	jaga	_	NOUN	NOUN	_	5	nmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	biryani	_	NOUN	NOUN	_	5	nsubj	_	_
+5	aayi	_	VERB	VERB	_	0	root	_	_
+6	hai	_	AUX	AUX	_	5	aux	_	_
+7	aaj	_	NOUN	NOUN	_	5	nsubj	_	_
+8	to	_	PART	PART	_	7	dep	_	_
+
+1	Koi	_	PRON	PRON	_	2	nsubj	_	_
+2	aa	_	VERB	VERB	_	0	root	_	_
+3	nahi	_	PART	PART	_	4	neg	_	_
+4	raha	_	AUX	AUX	_	2	aux	_	_
+5	to	_	SCONJ	SCONJ	_	9	mark	_	_
+6	khaile	_	PROPN	PROPN	_	8	compound	_	_
+7	ga	_	PUNCT	PUNCT	_	8	punct	_	_
+8	kon	_	PROPN	PROPN	_	9	root	_	_
+9	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Ye	_	DET	DET	_	2	det	_	_
+2	dil	_	NOUN	NOUN	_	8	dobj	_	_
+3	bekarar	_	ADJ	ADJ	_	4	amod	_	_
+4	kitna	_	PRON	PRON	_	5	nmod	_	_
+5	ye	_	PRON	PRON	_	8	nsubj	_	_
+6	hum	_	PRON	PRON	_	8	nsubj	_	_
+7	nahi	_	PART	PART	_	8	neg	_	_
+8	jaante	_	VERB	VERB	_	0	root	_	_
+
+1	Hum	_	PRON	PRON	_	2	nsubj	_	_
+2	safar	_	NOUN	NOUN	_	0	root	_	_
+3	mein	_	ADP	ADP	_	2	case	_	_
+4	to	_	PART	PART	_	2	dep	_	_
+5	hein	_	VERB	VERB	_	2	cop	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	humsafar	_	NOUN	NOUN	_	2	nmod	_	_
+8	hai	_	PART	PART	_	7	dep	_	_
+9	nahi	_	PART	PART	_	7	neg	_	_
+10	!	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Bohat	_	DET	DET	_	2	det	_	_
+2	maza	_	NOUN	NOUN	_	3	nsubj	_	_
+3	aaya	_	VERB	VERB	_	0	root	_	_
+4	haar	_	NOUN	NOUN	_	3	nsubj	_	_
+5	ke	_	ADP	ADP	_	3	mark	_	_
+
+1	Pyaar	_	NOUN	NOUN	_	5	dobj	_	_
+2	bin	_	PROPN	PROPN	_	5	nsubj	_	_
+3	jeene	_	VERB	VERB	_	5	nmod	_	_
+4	mein	_	ADP	ADP	_	3	mark	_	_
+5	rakha	_	VERB	VERB	_	0	root	_	_
+6	kya	_	PRON	PRON	_	9	root	_	_
+7	hai	_	VERB	VERB	_	6	cop	_	_
+8	...	_	PUNCT	PUNCT	_	6	punct	_	_
+9	😥	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Waqt	_	NOUN	NOUN	_	3	nsubj	_	_
+2	Ne	_	ADP	ADP	_	1	case	_	_
+3	Kiya	_	VERB	VERB	_	0	root	_	_
+4	Kya	_	PRON	PRON	_	6	advmod	_	_
+5	Haseen	_	ADJ	ADJ	_	6	amod	_	_
+6	Sitam	_	NOUN	NOUN	_	3	dobj	_	_
+
+1	Baarish	_	NOUN	NOUN	_	4	nsubj	_	_
+2	phir	_	ADV	ADV	_	4	advmod	_	_
+3	se	_	PART	PART	_	2	dep	_	_
+4	aarahi	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	.	_	PUNCT	PUNCT	_	4	punct	_	_
+7	😁	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	aj	_	NOUN	NOUN	_	7	nmod	_	_
+2	mujhe	_	PRON	PRON	_	7	iobj	_	_
+3	purane	_	ADJ	ADJ	_	4	amod	_	_
+4	dino	_	NOUN	NOUN	_	6	nmod	_	_
+5	ki	_	ADP	ADP	_	4	case	_	_
+6	yaad	_	NOUN	NOUN	_	7	compound	_	_
+7	aa	_	VERB	VERB	_	0	root	_	_
+8	gayi	_	AUX	AUX	_	7	aux	_	_
+
+1	Gehri	_	ADJ	ADJ	_	2	amod	_	_
+2	nind	_	NOUN	NOUN	_	4	nmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	jaago	_	VERB	VERB	_	7	advcl	_	_
+5	toh	_	SCONJ	SCONJ	_	7	mark	_	_
+6	behtar	_	ADJ	ADJ	_	7	xcomp	_	_
+7	hoga	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Dil	_	NOUN	NOUN	_	3	nmod	_	_
+2	ke	_	ADP	ADP	_	1	case	_	_
+3	raaste	_	NOUN	NOUN	_	8	nmod	_	_
+4	mein	_	ADP	ADP	_	3	case	_	_
+5	kaisi	_	PRON	PRON	_	6	case	_	_
+6	thokar	_	NOUN	NOUN	_	8	dobj	_	_
+7	maine	_	PRON	PRON	_	8	nsubj	_	_
+8	khaayi	_	VERB	VERB	_	0	root	_	_
+
+1	Aese	_	DET	DET	_	2	det	_	_
+2	nainon	_	NOUN	NOUN	_	4	nmod	_	_
+3	ki	_	ADP	ADP	_	2	case	_	_
+4	baaton	_	NOUN	NOUN	_	9	nmod	_	_
+5	mein	_	ADP	ADP	_	4	case	_	_
+6	koi	_	PRON	PRON	_	7	case	_	_
+7	kyun	_	PRON	PRON	_	9	advmod	_	_
+8	naa	_	PART	PART	_	9	neg	_	_
+9	aaye	_	VERB	VERB	_	0	root	_	_
+
+1	Sahri	_	NOUN	NOUN	_	9	nmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	aik	_	NUM	NUM	_	4	nummod	_	_
+4	ghanta	_	NOUN	NOUN	_	9	nmod	_	_
+5	pehly	_	ADP	ADP	_	4	case	_	_
+6	neend	_	NOUN	NOUN	_	7	nsubj	_	_
+7	ana	_	VERB	VERB	_	9	nsubj	_	_
+8	shuru	_	NOUN	NOUN	_	9	compound	_	_
+9	hogi	_	VERB	VERB	_	0	root	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	aaj	_	NOUN	NOUN	_	3	nmod	_	_
+2	fir	_	ADV	ADV	_	3	advmod	_	_
+3	udaas	_	ADJ	ADJ	_	0	root	_	_
+4	hoon	_	VERB	VERB	_	3	cop	_	_
+5	main	_	PRON	PRON	_	3	advmod	_	_
+
+1	Kya	_	PRON	PRON	_	2	advmod	_	_
+2	sunaon	_	VERB	VERB	_	7	advcl	_	_
+3	tumhein	_	PRON	PRON	_	7	nsubj	_	_
+4	apne	_	PRON	PRON	_	5	nmod	_	_
+5	dil	_	NOUN	NOUN	_	7	nmod	_	_
+6	ka	_	ADP	ADP	_	5	case	_	_
+7	haal	_	NOUN	NOUN	_	0	root	_	_
+8	!	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Qismat	_	NOUN	NOUN	_	7	nmod	_	_
+2	main	_	ADP	ADP	_	1	case	_	_
+3	meri	_	PRON	PRON	_	7	nsubj	_	_
+4	jaldi	_	ADV	ADV	_	7	advmod	_	_
+5	se	_	PART	PART	_	4	dep	_	_
+6	Nikkah	_	NOUN	NOUN	_	7	dobj	_	_
+7	likh	_	VERB	VERB	_	0	root	_	_
+8	de	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Tumhare	_	PRON	PRON	_	3	nmod	_	_
+2	bina	_	PART	PART	_	3	dep	_	_
+3	jee	_	VERB	VERB	_	7	advcl	_	_
+4	kar	_	AUX	AUX	_	3	aux	_	_
+5	bhi	_	PART	PART	_	4	dep	_	_
+6	na	_	PART	PART	_	7	neg	_	_
+7	jee	_	VERB	VERB	_	0	root	_	_
+8	payein	_	AUX	AUX	_	7	aux	_	_
+9	ge	_	AUX	AUX	_	8	auxpass	_	_
+10	hum	_	PRON	PRON	_	7	nsubj	_	_
+11	!	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Ye	_	DET	DET	_	2	det	_	_
+2	Tehzeeb	_	NOUN	NOUN	_	3	dobj	_	_
+3	kidhar	_	VERB	VERB	_	4	advcl	_	_
+4	gayab	_	ADJ	ADJ	_	0	root	_	_
+5	he	_	VERB	VERB	_	4	cop	_	_
+6	aaj	_	NOUN	NOUN	_	4	nmod	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Navratri	_	PROPN	PROPN	_	3	nmod	_	_
+2	ki	_	ADP	ADP	_	1	case	_	_
+3	sab	_	PRON	PRON	_	5	dobj	_	_
+4	ko	_	ADP	ADP	_	3	case	_	_
+5	mubarak	_	PROPN	PROPN	_	0	root	_	_
+
+1	Itna	_	DET	DET	_	3	nsubj	_	_
+2	qareeb	_	PART	PART	_	3	dep	_	_
+3	ho	_	VERB	VERB	_	9	advcl	_	_
+4	kar	_	AUX	AUX	_	3	aux	_	_
+5	bhi	_	PART	PART	_	4	dep	_	_
+6	najane	_	VERB	VERB	_	9	nsubj	_	_
+7	kitna	_	DET	DET	_	8	det	_	_
+8	door	_	ADV	ADV	_	9	dobj	_	_
+9	the	_	VERB	VERB	_	0	root	_	_
+10	wo	_	PRON	PRON	_	9	nsubj	_	_
+11	!	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Is	_	DET	DET	_	2	det	_	_
+2	ghar	_	NOUN	NOUN	_	5	nmod	_	_
+3	ko	_	ADP	ADP	_	2	case	_	_
+4	aag	_	NOUN	NOUN	_	5	nsubj	_	_
+5	lagi	_	VERB	VERB	_	0	root	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	ghar	_	NOUN	NOUN	_	9	nmod	_	_
+8	ke	_	ADP	ADP	_	7	case	_	_
+9	chiragh	_	NOUN	NOUN	_	5	nsubj	_	_
+10	se	_	ADP	ADP	_	9	case	_	_
+11	!	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	India	_	PROPN	PROPN	_	0	root	_	_
+2	pe	_	ADP	ADP	_	1	case	_	_
+3	hasne	_	PRON	PRON	_	0	root	_	_
+4	waloun	_	NOUN	NOUN	_	0	root	_	_
+5	pata	_	NOUN	NOUN	_	6	compound	_	_
+6	chala	_	VERB	VERB	_	0	root	_	_
+7	unka	_	PRON	PRON	_	8	nmod	_	_
+8	dard	_	NOUN	NOUN	_	6	nsubj	_	_
+9	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Dil	_	NOUN	NOUN	_	2	nsubj	_	_
+2	tou	_	VERB	VERB	_	3	advcl	_	_
+3	jalta	_	VERB	VERB	_	0	root	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	bas	_	NOUN	NOUN	_	7	nsubj	_	_
+6	nahi	_	PART	PART	_	7	neg	_	_
+7	jalti	_	VERB	VERB	_	3	nsubj	_	_
+8	tou	_	AUX	AUX	_	7	aux	_	_
+9	yeh	_	PRON	PRON	_	10	nsubj	_	_
+10	charbi	_	NOUN	NOUN	_	7	nsubj	_	_
+11	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	log	_	NOUN	NOUN	_	4	nsubj	_	_
+2	abhi	_	PRON	PRON	_	4	nmod	_	_
+3	bhi	_	PART	PART	_	2	dep	_	_
+4	zinda	_	ADJ	ADJ	_	0	root	_	_
+5	hain	_	VERB	VERB	_	4	cop	_	_
+6	yahan	_	PRON	PRON	_	4	nmod	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Hai	_	VERB	VERB	_	2	acl	_	_
+2	dil	_	NOUN	NOUN	_	8	iobj	_	_
+3	ko	_	ADP	ADP	_	2	case	_	_
+4	mere	_	PRON	PRON	_	5	nmod	_	_
+5	kasam	_	NOUN	NOUN	_	8	nmod	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	Sukoon	_	NOUN	NOUN	_	8	nsubj	_	_
+8	Mila	_	VERB	VERB	_	0	root	_	_
+9	..	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Kitni	_	DET	DET	_	2	det	_	_
+2	bakwas	_	NOUN	NOUN	_	3	compound	_	_
+3	karte	_	VERB	VERB	_	0	root	_	_
+4	ho	_	AUX	AUX	_	3	aux	_	_
+5	tum	_	DET	DET	_	6	det	_	_
+6	sab	_	PRON	PRON	_	3	nsubj	_	_
+
+1	meri	_	PRON	PRON	_	2	nmod	_	_
+2	subah	_	NOUN	NOUN	_	3	nmod	_	_
+3	ho	_	VERB	VERB	_	4	acl:relcl	_	_
+4	tum	_	PRON	PRON	_	0	root	_	_
+5	hee	_	PART	PART	_	4	dep	_	_
+
+1	Sab	_	PRON	PRON	_	4	nmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	badha	_	ADJ	ADJ	_	4	amod	_	_
+4	dhoka	_	NOUN	NOUN	_	0	root	_	_
+5	hai	_	VERB	VERB	_	4	cop	_	_
+6	insaniat	_	NOUN	NOUN	_	8	nmod	_	_
+7	ke	_	ADP	ADP	_	6	case	_	_
+8	naam	_	NOUN	NOUN	_	10	nmod	_	_
+9	pe	_	ADP	ADP	_	8	case	_	_
+10	yeh	_	VERB	VERB	_	4	acl:relcl	_	_
+11	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ramzan	_	NOUN	NOUN	_	3	nsubj	_	_
+2	yaad	_	NOUN	NOUN	_	3	compound	_	_
+3	aa	_	VERB	VERB	_	0	root	_	_
+4	gaya	_	AUX	AUX	_	3	aux	_	_
+5	aaj	_	NOUN	NOUN	_	3	nsubj	_	_
+
+1	Apne	_	PRON	PRON	_	2	nmod	_	_
+2	aapko	_	PRON	PRON	_	3	dobj	_	_
+3	samajhti	_	VERB	VERB	_	5	nsubj	_	_
+4	kya	_	PRON	PRON	_	5	dobj	_	_
+5	hai	_	VERB	VERB	_	0	root	_	_
+6	..?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Naa	_	PART	PART	_	2	dep	_	_
+2	kabhi	_	PRON	PRON	_	0	root	_	_
+3	kisi	_	PRON	PRON	_	4	nmod	_	_
+4	ladki	_	NOUN	NOUN	_	6	nmod	_	_
+5	ke	_	ADP	ADP	_	4	case	_	_
+6	nakhre	_	NOUN	NOUN	_	7	dobj	_	_
+7	sahe	_	VERB	VERB	_	0	root	_	_
+8	,	_	PUNCT	PUNCT	_	7	punct	_	_
+9	na	_	PART	PART	_	10	neg	_	_
+10	sahenge	_	VERB	VERB	_	7	conj	_	_
+11	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	"	_	PUNCT	PUNCT	_	2	punct	_	_
+2	Roz	_	NOUN	NOUN	_	4	nmod	_	_
+3	yahi	_	PRON	PRON	_	4	dobj	_	_
+4	mangu	_	VERB	VERB	_	9	advcl	_	_
+5	dua	_	NOUN	NOUN	_	9	nsubj	_	_
+6	Teri	_	PRON	PRON	_	7	nmod	_	_
+7	meri	_	PRON	PRON	_	8	nmod	_	_
+8	baat	_	NOUN	NOUN	_	9	dobj	_	_
+9	bane	_	VERB	VERB	_	0	root	_	_
+10	"	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Ab	_	PRON	PRON	_	5	nmod	_	_
+2	hum	_	PRON	PRON	_	5	nsubj	_	_
+3	chale	_	VERB	VERB	_	4	acl	_	_
+4	dusheraa	_	NOUN	NOUN	_	5	dobj	_	_
+5	manane	_	VERB	VERB	_	0	root	_	_
+
+1	kar	_	VERB	VERB	_	2	advcl	_	_
+2	le	_	VERB	VERB	_	0	root	_	_
+3	humse	_	PRON	PRON	_	0	root	_	_
+4	ek	_	NUM	NUM	_	5	nummod	_	_
+5	baar	_	NOUN	NOUN	_	0	root	_	_
+6	pyaar	_	NOUN	NOUN	_	9	nmod	_	_
+7	ki	_	ADP	ADP	_	6	case	_	_
+8	meethi	_	ADJ	ADJ	_	9	amod	_	_
+9	baatein	_	NOUN	NOUN	_	10	nsubj	_	_
+10	chaar	_	NUM	NUM	_	0	root	_	_
+
+1	Aj	_	NOUN	NOUN	_	8	nmod	_	_
+2	kal	_	NOUN	NOUN	_	8	nmod	_	_
+3	bas	_	NOUN	NOUN	_	4	compound	_	_
+4	log	_	NOUN	NOUN	_	8	nsubj	_	_
+5	mujhse	_	PRON	PRON	_	8	nmod	_	_
+6	naraz	_	ADJ	ADJ	_	8	nmod	_	_
+7	hi	_	PART	PART	_	6	dep	_	_
+8	rehte	_	VERB	VERB	_	0	root	_	_
+9	hain	_	AUX	AUX	_	8	aux	_	_
+
+1	Koi	_	PRON	PRON	_	2	punct	_	_
+2	tou	_	NOUN	NOUN	_	0	root	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	jo	_	PRON	PRON	_	7	nsubj	_	_
+5	nizaame	_	ADJ	ADJ	_	6	amod	_	_
+6	hasti	_	NOUN	NOUN	_	7	dobj	_	_
+7	chala	_	VERB	VERB	_	2	acl:relcl	_	_
+8	raha	_	AUX	AUX	_	7	aux	_	_
+9	hai	_	AUX	AUX	_	8	auxpass	_	_
+
+1	Tujhe	_	PRON	PRON	_	2	nsubj	_	_
+2	sab	_	PRON	PRON	_	4	nmod	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	pata	_	NOUN	NOUN	_	7	compound	_	_
+5	hai	_	VERB	VERB	_	4	cop	_	_
+6	na	_	PART	PART	_	7	neg	_	_
+7	maa	_	VERB	VERB	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Par	_	CONJ	CONJ	_	6	cc	_	_
+2	neela	_	PROPN	PROPN	_	6	nmod	_	_
+3	to	_	SCONJ	SCONJ	_	6	mark	_	_
+4	India	_	PROPN	PROPN	_	6	nmod	_	_
+5	ka	_	ADP	ADP	_	4	case	_	_
+6	color	_	NOUN	NOUN	_	0	root	_	_
+7	bhi	_	PART	PART	_	6	dep	_	_
+8	hai	_	VERB	VERB	_	6	cop	_	_
+9	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Aakhir	_	ADV	ADV	_	2	advmod	_	_
+2	kyun	_	PRON	PRON	_	0	root	_	_
+3	nahi	_	PART	PART	_	4	neg	_	_
+4	he	_	VERB	VERB	_	2	cop	_	_
+5	tum	_	PRON	PRON	_	9	nsubj	_	_
+6	ko	_	ADP	ADP	_	5	case	_	_
+7	mera	_	PRON	PRON	_	9	nmod	_	_
+8	koi	_	PRON	PRON	_	9	nmod	_	_
+9	khayal	_	NOUN	NOUN	_	2	nmod	_	_
+10	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Bilawaja	_	NOUN	NOUN	_	2	nsubj	_	_
+2	jaag	_	VERB	VERB	_	0	root	_	_
+3	raha	_	AUX	AUX	_	2	aux	_	_
+4	hun	_	AUX	AUX	_	3	auxpass	_	_
+5	main	_	PRON	PRON	_	2	nsubj	_	_
+
+1	Itna	_	DET	DET	_	3	det	_	_
+2	acha	_	ADJ	ADJ	_	3	amod	_	_
+3	insaan	_	NOUN	NOUN	_	4	nsubj	_	_
+4	kyun	_	PRON	PRON	_	0	root	_	_
+5	hoon	_	VERB	VERB	_	4	cop	_	_
+6	main	_	PRON	PRON	_	4	nmod	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Jo	_	PRON	PRON	_	3	nsubj	_	_
+2	na	_	PART	PART	_	3	neg	_	_
+3	kar	_	VERB	VERB	_	11	advcl	_	_
+4	paya	_	AUX	AUX	_	3	aux	_	_
+5	koi	_	PRON	PRON	_	11	dobj	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	wo	_	PRON	PRON	_	11	dobj	_	_
+8	hum	_	PRON	PRON	_	11	nsubj	_	_
+9	kar	_	NOUN	NOUN	_	11	nmod	_	_
+10	ke	_	ADP	ADP	_	9	case	_	_
+11	dikhayein	_	VERB	VERB	_	0	root	_	_
+12	ge	_	AUX	AUX	_	11	aux	_	_
+13	!	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	Samjho	_	VERB	VERB	_	3	advcl	_	_
+2	kya	_	PRON	PRON	_	3	advmod	_	_
+3	kehti	_	VERB	VERB	_	0	root	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	hawa	_	NOUN	NOUN	_	3	nsubj	_	_
+6	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Yeh	_	PRON	PRON	_	5	dobj	_	_
+2	Shami	_	PROPN	PROPN	_	5	nsubj	_	_
+3	ne	_	ADP	ADP	_	2	case	_	_
+4	aag	_	NOUN	NOUN	_	5	compound	_	_
+5	lagai	_	VERB	VERB	_	0	root	_	_
+6	hai	_	AUX	AUX	_	5	aux	_	_
+7	😂	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Lag	_	VERB	VERB	_	6	advcl	_	_
+2	raha	_	AUX	AUX	_	1	aux	_	_
+3	hai	_	AUX	AUX	_	2	auxpass	_	_
+4	do	_	NUM	NUM	_	5	nummod	_	_
+5	buzurg	_	NOUN	NOUN	_	6	dobj	_	_
+6	khel	_	VERB	VERB	_	0	root	_	_
+7	rahe	_	AUX	AUX	_	6	aux	_	_
+8	hain	_	AUX	AUX	_	7	auxpass	_	_
+9	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Aaj	_	NOUN	NOUN	_	6	nmod	_	_
+2	din	_	NOUN	NOUN	_	6	nmod	_	_
+3	itna	_	DET	DET	_	4	det	_	_
+4	lamba	_	ADJ	ADJ	_	6	nsubj	_	_
+5	kyun	_	PRON	PRON	_	6	advmod	_	_
+6	lag	_	VERB	VERB	_	0	root	_	_
+7	raha	_	AUX	AUX	_	6	aux	_	_
+8	hai	_	AUX	AUX	_	7	auxpass	_	_
+9	?	_	PUNCT	PUNCT	_	6	punct	_	_
+10	🙄	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Lut	_	VERB	VERB	_	3	acl	_	_
+2	gaye	_	AUX	AUX	_	1	aux	_	_
+3	hum	_	PRON	PRON	_	6	nsubj	_	_
+4	to	_	PART	PART	_	3	dep	_	_
+5	pehli	_	ADJ	ADJ	_	6	amod	_	_
+6	mulaqat	_	NOUN	NOUN	_	0	root	_	_
+7	me	_	ADP	ADP	_	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Tumhe	_	PRON	PRON	_	7	dobj	_	_
+2	Dil	_	NOUN	NOUN	_	7	advmod	_	_
+3	Se	_	ADP	ADP	_	2	case	_	_
+4	Kaise	_	PRON	PRON	_	7	advmod	_	_
+5	Juda	_	ADJ	ADJ	_	6	amod	_	_
+6	Hum	_	PRON	PRON	_	7	nsubj	_	_
+7	Karenge	_	VERB	VERB	_	0	root	_	_
+
+1	Log	_	NOUN	NOUN	_	3	nsubj	_	_
+2	block	_	NOUN	NOUN	_	3	nsubj	_	_
+3	maar	_	VERB	VERB	_	0	root	_	_
+4	rahe	_	AUX	AUX	_	3	aux	_	_
+5	hain	_	AUX	AUX	_	4	auxpass	_	_
+6	aaj	_	NOUN	NOUN	_	7	nmod	_	_
+7	kal	_	NOUN	NOUN	_	3	nmod	_	_
+
+1	Log	_	NOUN	NOUN	_	2	nsubj	_	_
+2	dilasa	_	NOUN	NOUN	_	7	nmod	_	_
+3	den	_	AUX	AUX	_	2	aux	_	_
+4	to	_	SCONJ	SCONJ	_	7	mark	_	_
+5	aur	_	DET	DET	_	6	det	_	_
+6	rona	_	NOUN	NOUN	_	7	nsubj	_	_
+7	aata	_	VERB	VERB	_	0	root	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Bechari	_	NOUN	NOUN	_	8	nsubj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	bohut	_	DET	DET	_	4	det	_	_
+4	dukh	_	NOUN	NOUN	_	5	compound	_	_
+5	hua	_	VERB	VERB	_	7	acl	_	_
+6	mera	_	PRON	PRON	_	7	nmod	_	_
+7	jawaab	_	NOUN	NOUN	_	8	dobj	_	_
+8	sun	_	VERB	VERB	_	0	root	_	_
+9	ke	_	ADP	ADP	_	8	mark	_	_
+
+1	Lag	_	VERB	VERB	_	3	acl	_	_
+2	jaye	_	AUX	AUX	_	1	aux	_	_
+3	naa	_	PRON	PRON	_	8	nsubj	_	_
+4	nazar	_	NOUN	NOUN	_	8	nmod	_	_
+5	Mere	_	PRON	PRON	_	6	nmod	_	_
+6	pyar	_	NOUN	NOUN	_	8	iobj	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+8	meri	_	PRON	PRON	_	0	root	_	_
+
+1	Me	_	ADP	ADP	_	0	root	_	_
+2	jo	_	PRON	PRON	_	3	nsubj	_	_
+3	jee	_	VERB	VERB	_	0	root	_	_
+4	raha	_	AUX	AUX	_	3	aux	_	_
+5	hu	_	AUX	AUX	_	4	auxpass	_	_
+6	waja	_	PROPN	PROPN	_	8	nsubj	_	_
+7	tum	_	PRON	PRON	_	8	nmod	_	_
+8	ho	_	VERB	VERB	_	3	dobj	_	_
+
+1	Chehre	_	NOUN	NOUN	_	3	nmod	_	_
+2	ki	_	ADP	ADP	_	1	case	_	_
+3	rangat	_	NOUN	NOUN	_	4	nsubj	_	_
+4	badal	_	VERB	VERB	_	0	root	_	_
+5	rahi	_	AUX	AUX	_	4	aux	_	_
+6	hai	_	AUX	AUX	_	5	auxpass	_	_
+7	teri	_	PRON	PRON	_	8	nmod	_	_
+8	sohbat	_	NOUN	NOUN	_	4	nsubj	_	_
+9	me	_	ADP	ADP	_	8	case	_	_
+
+1	Zindagi	_	NOUN	NOUN	_	3	nmod	_	_
+2	ke	_	ADP	ADP	_	1	case	_	_
+3	dukhoun	_	NOUN	NOUN	_	5	nmod	_	_
+4	mein	_	ADP	ADP	_	3	case	_	_
+5	ghul	_	VERB	VERB	_	0	root	_	_
+6	sa	_	AUX	AUX	_	5	aux	_	_
+7	gaya	_	AUX	AUX	_	6	auxpass	_	_
+8	hoon	_	AUX	AUX	_	7	auxpass	_	_
+9	mein	_	PRON	PRON	_	5	nsubj	_	_
+10	!	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Ajeeb	_	ADJ	ADJ	_	2	amod	_	_
+2	cheez	_	NOUN	NOUN	_	0	root	_	_
+3	he	_	VERB	VERB	_	2	cop	_	_
+4	ye	_	DET	DET	_	5	det	_	_
+5	mohabat	_	NOUN	NOUN	_	2	nmod	_	_
+6	bhi	_	PART	PART	_	5	dep	_	_
+7	!	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	"	_	PUNCT	PUNCT	_	2	punct	_	_
+2	Kesi	_	PRON	PRON	_	3	punct	_	_
+3	teri	_	PRON	PRON	_	4	nmod	_	_
+4	khudgharzi	_	NOUN	NOUN	_	0	root	_	_
+5	Na	_	ADP	ADP	_	4	case	_	_
+6	doodh	_	NOUN	NOUN	_	7	nsubj	_	_
+7	mile	_	VERB	VERB	_	0	root	_	_
+8	na	_	PART	PART	_	9	dep	_	_
+9	paani	_	NOUN	NOUN	_	7	nsubj	_	_
+10	"	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Samaj	_	VERB	VERB	_	0	root	_	_
+2	gayi	_	AUX	AUX	_	1	aux	_	_
+3	hoon	_	AUX	AUX	_	2	auxpass	_	_
+4	achi	_	ADJ	ADJ	_	5	amod	_	_
+5	tarah	_	NOUN	NOUN	_	7	advmod	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	main	_	PRON	PRON	_	1	nsubj	_	_
+8	!	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Sab	_	PRON	PRON	_	4	punct	_	_
+2	acha	_	ADJ	ADJ	_	4	amod	_	_
+3	acha	_	ADJ	ADJ	_	2	amod	_	_
+4	Karachi	_	PROPN	PROPN	_	6	iobj	_	_
+5	ko	_	ADP	ADP	_	4	case	_	_
+6	mil	_	VERB	VERB	_	0	root	_	_
+7	raha	_	AUX	AUX	_	6	aux	_	_
+8	hai	_	AUX	AUX	_	7	auxpass	_	_
+9	is	_	DET	DET	_	10	det	_	_
+10	baar	_	NOUN	NOUN	_	6	nsubj	_	_
+
+1	Bohat	_	DET	DET	_	2	det	_	_
+2	baaten	_	NOUN	NOUN	_	3	compound	_	_
+3	kar	_	VERB	VERB	_	0	root	_	_
+4	lein	_	AUX	AUX	_	3	aux	_	_
+5	hain	_	AUX	AUX	_	4	auxpass	_	_
+6	aaj	_	NOUN	NOUN	_	3	nsubj	_	_
+
+1	Mujhe	_	PRON	PRON	_	6	nsubj	_	_
+2	nahi	_	PART	PART	_	3	dep	_	_
+3	pata	_	NOUN	NOUN	_	6	nsubj	_	_
+4	wahan	_	PRON	PRON	_	6	nmod	_	_
+5	kya	_	PRON	PRON	_	6	advmod	_	_
+6	horaha	_	VERB	VERB	_	0	root	_	_
+7	tha	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Saaya	_	NOUN	NOUN	_	9	nsubj	_	_
+2	bhi	_	PART	PART	_	1	dep	_	_
+3	sath	_	ADV	ADV	_	9	nmod	_	_
+4	jab	_	PRON	PRON	_	5	nmod	_	_
+5	chodh	_	VERB	VERB	_	9	advcl	_	_
+6	jaye	_	AUX	AUX	_	5	aux	_	_
+7	aesi	_	PRON	PRON	_	9	nsubj	_	_
+8	hai	_	PART	PART	_	7	dep	_	_
+9	tanhai	_	VERB	VERB	_	0	root	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	"	_	PUNCT	PUNCT	_	2	punct	_	_
+2	Insan	_	NOUN	NOUN	_	3	nsubj	_	_
+3	zinda	_	ADJ	ADJ	_	0	root	_	_
+4	hain	_	VERB	VERB	_	3	cop	_	_
+5	Bagher	_	PROPN	PROPN	_	6	nsubj	_	_
+6	Insaniyat	_	NOUN	NOUN	_	3	nmod	_	_
+7	ke	_	ADP	ADP	_	6	case	_	_
+8	"	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Itna	_	DET	DET	_	3	det	_	_
+2	bhi	_	PART	PART	_	1	dep	_	_
+3	bhohat	_	NOUN	NOUN	_	0	root	_	_
+4	tha	_	VERB	VERB	_	3	cop	_	_
+5	Sachin	_	PROPN	PROPN	_	3	nmod	_	_
+6	ke	_	ADP	ADP	_	5	case	_	_
+7	liye	_	ADP	ADP	_	5	case	_	_
+
+1	Ye	_	PRON	PRON	_	4	nsubj	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	zara	_	ADV	ADV	_	4	advmod	_	_
+4	bata	_	VERB	VERB	_	0	root	_	_
+5	mujhe	_	PRON	PRON	_	9	dobj	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	tu	_	PROPN	PROPN	_	9	nsubj	_	_
+8	ne	_	ADP	ADP	_	7	case	_	_
+9	kiya	_	VERB	VERB	_	4	dobj	_	_
+10	tha	_	AUX	AUX	_	9	aux	_	_
+11	pyaar	_	NOUN	NOUN	_	9	dobj	_	_
+12	kyun	_	PRON	PRON	_	0	root	_	_
+
+1	Itni	_	ADV	ADV	_	2	advmod	_	_
+2	mehngi	_	ADJ	ADJ	_	3	amod	_	_
+3	aftari	_	NOUN	NOUN	_	6	nsubj	_	_
+4	hai	_	PART	PART	_	3	dep	_	_
+5	haar	_	NOUN	NOUN	_	6	compound	_	_
+6	jaga	_	VERB	VERB	_	0	root	_	_
+
+1	mere	_	PRON	PRON	_	2	nmod	_	_
+2	khayalon	_	NOUN	NOUN	_	4	nmod	_	_
+3	main	_	ADP	ADP	_	2	case	_	_
+4	chayi	_	VERB	VERB	_	7	acl	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	aik	_	DET	DET	_	7	det	_	_
+7	soorat	_	NOUN	NOUN	_	8	nsubj	_	_
+8	matwali	_	VERB	VERB	_	0	root	_	_
+9	si	_	PART	PART	_	8	dep	_	_
+
+1	Yahan	_	PRON	PRON	_	3	nmod	_	_
+2	kya	_	PRON	PRON	_	3	advmod	_	_
+3	kar	_	VERB	VERB	_	6	acl:relcl	_	_
+4	rahe	_	AUX	AUX	_	3	aux	_	_
+5	hain	_	AUX	AUX	_	4	auxpass	_	_
+6	aap	_	PRON	PRON	_	7	nsubj	_	_
+7	sab	_	PRON	PRON	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Bachpan	_	NOUN	NOUN	_	3	nmod	_	_
+2	ki	_	ADP	ADP	_	1	case	_	_
+3	khuahish	_	NOUN	NOUN	_	0	root	_	_
+4	hai	_	VERB	VERB	_	3	cop	_	_
+5	jubba	_	PROPN	PROPN	_	6	nsubj	_	_
+6	pehenne	_	VERB	VERB	_	3	acl:relcl	_	_
+7	ki	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Kyu	_	PRON	PRON	_	7	advmod	_	_
+2	me	_	PRON	PRON	_	7	nsubj	_	_
+3	ab	_	PRON	PRON	_	7	nmod	_	_
+4	has	_	PRON	PRON	_	7	dobj	_	_
+5	bhi	_	PART	PART	_	4	dep	_	_
+6	nhi	_	PART	PART	_	7	neg	_	_
+7	skta	_	VERB	VERB	_	0	root	_	_
+
+1	Shayad	_	ADV	ADV	_	0	root	_	_
+2	zindagi	_	NOUN	NOUN	_	5	iobj	_	_
+3	ko	_	ADP	ADP	_	2	case	_	_
+4	main	_	PRON	PRON	_	5	nsubj	_	_
+5	pasand	_	NOUN	NOUN	_	0	root	_	_
+6	nahi	_	PART	PART	_	7	dep	_	_
+7	!	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Kese	_	PRON	PRON	_	2	advmod	_	_
+2	kahoon	_	VERB	VERB	_	6	advcl	_	_
+3	ishq	_	NOUN	NOUN	_	6	nmod	_	_
+4	me	_	ADP	ADP	_	3	case	_	_
+5	tere	_	PRON	PRON	_	6	nmod	_	_
+6	kitna	_	PRON	PRON	_	9	root	_	_
+7	hoon	_	VERB	VERB	_	6	cop	_	_
+8	betaab	_	ADJ	ADJ	_	6	nmod	_	_
+9	main	_	ADP	ADP	_	0	root	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Aakhir	_	ADV	ADV	_	7	advmod	_	_
+2	ye	_	PRON	PRON	_	7	nsubj	_	_
+3	sara	_	DET	DET	_	4	det	_	_
+4	waqt	_	NOUN	NOUN	_	5	nmod	_	_
+5	jata	_	VERB	VERB	_	7	nsubj	_	_
+6	kahan	_	PRON	PRON	_	7	nmod	_	_
+7	hai	_	VERB	VERB	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	kaise	_	PRON	PRON	_	2	advmod	_	_
+2	haqiqat	_	NOUN	NOUN	_	0	root	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	zara	_	PRON	PRON	_	5	nsubj	_	_
+5	batao	_	VERB	VERB	_	2	acl:relcl	_	_
+
+1	kabhi	_	PRON	PRON	_	2	nmod	_	_
+2	jhank	_	VERB	VERB	_	8	advcl	_	_
+3	kar	_	AUX	AUX	_	2	aux	_	_
+4	to	_	SCONJ	SCONJ	_	8	mark	_	_
+5	dekho	_	NOUN	NOUN	_	8	nsubj	_	_
+6	is	_	DET	DET	_	8	det	_	_
+7	zakhmi	_	ADJ	ADJ	_	8	amod	_	_
+8	dil	_	NOUN	NOUN	_	0	root	_	_
+9	mein	_	ADP	ADP	_	8	case	_	_
+10	!	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Bohat	_	ADV	ADV	_	2	advmod	_	_
+2	Tez	_	ADJ	ADJ	_	3	amod	_	_
+3	Barish	_	NOUN	NOUN	_	4	compound	_	_
+4	Hui	_	VERB	VERB	_	0	root	_	_
+5	Hai	_	AUX	AUX	_	4	aux	_	_
+6	Aaj	_	NOUN	NOUN	_	7	nmod	_	_
+7	Yahan	_	PRON	PRON	_	4	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Kya	_	PRON	PRON	_	2	advmod	_	_
+2	karoon	_	VERB	VERB	_	4	advcl	_	_
+3	dum	_	NOUN	NOUN	_	4	compound	_	_
+4	nikalta	_	VERB	VERB	_	0	root	_	_
+5	nahi	_	PART	PART	_	4	neg	_	_
+6	hai	_	AUX	AUX	_	4	aux	_	_
+
+1	Jadeja	_	PROPN	PROPN	_	5	dobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	sir	_	PROPN	PROPN	_	5	nmod	_	_
+4	pe	_	ADP	ADP	_	3	case	_	_
+5	chadha	_	VERB	VERB	_	0	root	_	_
+6	rakha	_	AUX	AUX	_	5	aux	_	_
+7	hai	_	AUX	AUX	_	6	auxpass	_	_
+8	logo	_	NOUN	NOUN	_	5	nsubj	_	_
+9	ne	_	ADP	ADP	_	8	case	_	_
+10	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Ae	_	PROPN	PROPN	_	3	compound	_	_
+2	sanam	_	PROPN	PROPN	_	3	compound	_	_
+3	hum	_	PRON	PRON	_	8	nsubj	_	_
+4	to	_	PART	PART	_	3	dep	_	_
+5	sirf	_	PART	PART	_	6	dep	_	_
+6	tumse	_	PRON	PRON	_	8	iobj	_	_
+7	pyar	_	NOUN	NOUN	_	8	compound	_	_
+8	krty	_	VERB	VERB	_	0	root	_	_
+9	hain	_	AUX	AUX	_	8	aux	_	_
+10	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Shaid	_	NOUN	NOUN	_	7	iobj	_	_
+2	thodi	_	DET	DET	_	6	det	_	_
+3	aur	_	CONJ	CONJ	_	2	cc	_	_
+4	zid	_	NOUN	NOUN	_	2	conj	_	_
+5	karta	_	VERB	VERB	_	6	acl	_	_
+6	tou	_	NOUN	NOUN	_	7	nsubj	_	_
+7	mil	_	VERB	VERB	_	0	root	_	_
+8	jata	_	AUX	AUX	_	7	aux	_	_
+9	!	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	"	_	PUNCT	PUNCT	_	2	punct	_	_
+2	Sab	_	PRON	PRON	_	3	punct	_	_
+3	Kuch	_	PRON	PRON	_	8	nsubj	_	_
+4	Mere	_	PRON	PRON	_	5	nmod	_	_
+5	Tum	_	PRON	PRON	_	8	nsubj	_	_
+6	Hi	_	PART	PART	_	5	dep	_	_
+7	Toh	_	PART	PART	_	5	dep	_	_
+8	Ho	_	VERB	VERB	_	0	root	_	_
+9	"	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Waqt	_	NOUN	NOUN	_	5	nmod	_	_
+2	Kisi	_	PRON	PRON	_	5	nmod	_	_
+3	Ke	_	ADP	ADP	_	2	case	_	_
+4	Liye	_	ADP	ADP	_	2	case	_	_
+5	Therta	_	NOUN	NOUN	_	0	root	_	_
+6	Nahi	_	PART	PART	_	5	neg	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Kuch	_	PRON	PRON	_	3	dobj	_	_
+2	To	_	PART	PART	_	1	dep	_	_
+3	Samajhne	_	VERB	VERB	_	5	nmod	_	_
+4	Ki	_	ADP	ADP	_	3	mark	_	_
+5	koshish	_	NOUN	NOUN	_	6	compound	_	_
+6	Karo	_	VERB	VERB	_	0	root	_	_
+7	!!	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	kya	_	PRON	PRON	_	3	advmod	_	_
+2	haseen	_	ADJ	ADJ	_	3	amod	_	_
+3	mosam	_	NOUN	NOUN	_	0	root	_	_
+4	hai	_	VERB	VERB	_	3	cop	_	_
+5	aaj	_	NOUN	NOUN	_	0	root	_	_
+6	lahore	_	PROPN	PROPN	_	0	root	_	_
+7	ka	_	ADP	ADP	_	6	case	_	_
+
+1	Sahara	_	NOUN	NOUN	_	2	compound	_	_
+2	de	_	VERB	VERB	_	4	nmod	_	_
+3	ke	_	ADP	ADP	_	2	mark	_	_
+4	choda	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	kisi	_	PRON	PRON	_	8	root	_	_
+7	ne	_	ADP	ADP	_	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Kya	_	PRON	PRON	_	2	advmod	_	_
+2	hogaya	_	VERB	VERB	_	0	root	_	_
+3	hai	_	AUX	AUX	_	2	aux	_	_
+4	yaar	_	SCONJ	SCONJ	_	6	mark	_	_
+5	aajkal	_	NOUN	NOUN	_	6	nmod	_	_
+6	sab	_	PRON	PRON	_	2	dobj	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+
+1	Suno	_	VERB	VERB	_	6	advcl	_	_
+2	kisi	_	PRON	PRON	_	3	advcl	_	_
+3	shayar	_	NOUN	NOUN	_	6	nsubj	_	_
+4	ne	_	ADP	ADP	_	3	case	_	_
+5	ye	_	PRON	PRON	_	6	iobj	_	_
+6	kaha	_	VERB	VERB	_	0	root	_	_
+7	bohut	_	ADV	ADV	_	0	root	_	_
+8	khoob	_	DET	DET	_	0	root	_	_
+
+1	"	_	PUNCT	PUNCT	_	2	punct	_	_
+2	Khoon	_	NOUN	NOUN	_	3	nsubj	_	_
+3	bana	_	VERB	VERB	_	0	root	_	_
+4	raha	_	AUX	AUX	_	3	aux	_	_
+5	hun	_	AUX	AUX	_	4	auxpass	_	_
+6	Macharon	_	NOUN	NOUN	_	3	nsubj	_	_
+7	ke	_	ADP	ADP	_	6	case	_	_
+8	liye	_	ADP	ADP	_	6	case	_	_
+9	"	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Tum	_	PRON	PRON	_	2	nsubj	_	_
+2	chah	_	NOUN	NOUN	_	0	root	_	_
+3	bhi	_	PART	PART	_	2	dep	_	_
+4	nahi	_	PART	PART	_	5	neg	_	_
+5	sakte	_	AUX	AUX	_	2	aux	_	_
+6	agar	_	SCONJ	SCONJ	_	9	mark	_	_
+7	ALLAH	_	NOUN	NOUN	_	9	dobj	_	_
+8	na	_	PART	PART	_	9	neg	_	_
+9	chahe	_	VERB	VERB	_	2	advcl	_	_
+10	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Kuch	_	DET	DET	_	2	det	_	_
+2	din	_	NOUN	NOUN	_	9	nmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	mujhe	_	PRON	PRON	_	9	nsubj	_	_
+5	teri	_	NOUN	NOUN	_	9	nmod	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	aadat	_	NOUN	NOUN	_	5	conj	_	_
+8	si	_	PART	PART	_	7	dep	_	_
+9	ho	_	VERB	VERB	_	0	root	_	_
+10	gayi	_	AUX	AUX	_	9	aux	_	_
+11	hai	_	AUX	AUX	_	10	auxpass	_	_
+12	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Jo	_	PRON	PRON	_	4	dobj	_	_
+2	bhi	_	PART	PART	_	1	dep	_	_
+3	main	_	PRON	PRON	_	4	dobj	_	_
+4	kehna	_	VERB	VERB	_	0	root	_	_
+5	chahun	_	NOUN	NOUN	_	7	dobj	_	_
+6	barbaad	_	ADJ	ADJ	_	7	compound	_	_
+7	kare	_	VERB	VERB	_	8	acl	_	_
+8	alfaaz	_	NOUN	NOUN	_	10	root	_	_
+9	mere	_	PRON	PRON	_	10	root	_	_
+10	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Aadhi	_	DET	DET	_	2	det	_	_
+2	raat	_	NOUN	NOUN	_	5	nmod	_	_
+3	sapna	_	NOUN	NOUN	_	5	nsubj	_	_
+4	mera	_	PRON	PRON	_	5	nmod	_	_
+5	toot	_	VERB	VERB	_	0	root	_	_
+6	gaya	_	AUX	AUX	_	5	aux	_	_
+
+1	Aakhir	_	ADV	ADV	_	3	advmod	_	_
+2	kyun	_	PRON	PRON	_	3	advmod	_	_
+3	zaroori	_	ADJ	ADJ	_	0	root	_	_
+4	tha	_	VERB	VERB	_	3	cop	_	_
+5	mera	_	PRON	PRON	_	6	nmod	_	_
+6	tera	_	NOUN	NOUN	_	7	nsubj	_	_
+7	milna	_	VERB	VERB	_	3	nsubj	_	_
+8	!	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Is	_	DET	DET	_	2	det	_	_
+2	saal	_	NOUN	NOUN	_	5	nmod	_	_
+3	main	_	ADP	ADP	_	2	case	_	_
+4	shaadi	_	NOUN	NOUN	_	5	compound	_	_
+5	kar	_	VERB	VERB	_	0	root	_	_
+6	hi	_	PART	PART	_	5	dep	_	_
+7	lunga	_	AUX	AUX	_	5	aux	_	_
+8	!	_	PUNCT	PUNCT	_	5	punct	_	_
+9	😢	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Ek	_	NUM	NUM	_	2	nummod	_	_
+2	taazgi	_	NOUN	NOUN	_	4	advmod	_	_
+3	si	_	ADP	ADP	_	2	case	_	_
+4	jagi	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	hawaon	_	NOUN	NOUN	_	4	nsubj	_	_
+7	main	_	ADP	ADP	_	6	case	_	_
+
+1	ab	_	PRON	PRON	_	2	nmod	_	_
+2	hosakta	_	VERB	VERB	_	5	advcl	_	_
+3	hai	_	AUX	AUX	_	2	aux	_	_
+4	jo	_	PRON	PRON	_	5	dobj	_	_
+5	chaho	_	VERB	VERB	_	0	root	_	_
+
+1	Jaldi	_	ADV	ADV	_	4	advmod	_	_
+2	se	_	PART	PART	_	1	dep	_	_
+3	khatam	_	ADJ	ADJ	_	4	compound	_	_
+4	ho	_	VERB	VERB	_	5	acl	_	_
+5	yaar	_	NOUN	NOUN	_	7	nsubj	_	_
+6	ye	_	DET	DET	_	7	det	_	_
+7	mahina	_	NOUN	NOUN	_	0	root	_	_
+
+1	Is	_	DET	DET	_	3	det	_	_
+2	hi	_	PART	PART	_	3	dep	_	_
+3	rikshaw	_	NOUN	NOUN	_	8	nmod	_	_
+4	main	_	ADP	ADP	_	3	case	_	_
+5	wapas	_	ADJ	ADJ	_	8	advmod	_	_
+6	ajayen	_	NOUN	NOUN	_	8	nsubj	_	_
+7	aplog	_	NOUN	NOUN	_	8	dobj	_	_
+8	beth	_	VERB	VERB	_	0	root	_	_
+9	kar	_	AUX	AUX	_	8	aux	_	_
+
+1	Din	_	NOUN	NOUN	_	2	nmod	_	_
+2	aa	_	VERB	VERB	_	10	advcl	_	_
+3	jata	_	AUX	AUX	_	2	aux	_	_
+4	hai	_	AUX	AUX	_	3	auxpass	_	_
+5	azadi	_	NOUN	NOUN	_	8	nmod	_	_
+6	ka	_	ADP	ADP	_	5	case	_	_
+7	,	_	PUNCT	PUNCT	_	5	punct	_	_
+8	azadi	_	NOUN	NOUN	_	10	nsubj	_	_
+9	nahi	_	PART	PART	_	10	neg	_	_
+10	aati	_	VERB	VERB	_	0	root	_	_
+11	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Intehayi	_	PROPN	PROPN	_	4	nsubj	_	_
+2	sust	_	ADJ	ADJ	_	3	amod	_	_
+3	din	_	NOUN	NOUN	_	4	nmod	_	_
+4	guzra	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	aaj	_	NOUN	NOUN	_	4	nsubj	_	_
+
+1	Jaane	_	AUX	AUX	_	2	case	_	_
+2	kyun	_	PRON	PRON	_	5	advmod	_	_
+3	log	_	NOUN	NOUN	_	5	dobj	_	_
+4	mohabbat	_	NOUN	NOUN	_	5	compound	_	_
+5	kiya	_	VERB	VERB	_	0	root	_	_
+6	karte	_	AUX	AUX	_	5	aux	_	_
+7	hain	_	AUX	AUX	_	6	auxpass	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Ravan	_	PROPN	PROPN	_	3	dobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	jala	_	VERB	VERB	_	6	nmod	_	_
+4	ke	_	ADP	ADP	_	3	mark	_	_
+5	hi	_	PART	PART	_	3	dep	_	_
+6	log	_	NOUN	NOUN	_	7	nsubj	_	_
+7	manege	_	VERB	VERB	_	0	root	_	_
+8	aaj	_	NOUN	NOUN	_	0	root	_	_
+
+1	Ye	_	PRON	PRON	_	7	nsubj	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	baut	_	NOUN	NOUN	_	7	iobj	_	_
+4	hi	_	PART	PART	_	3	dep	_	_
+5	acha	_	ADJ	ADJ	_	6	amod	_	_
+6	kaam	_	NOUN	NOUN	_	7	dobj	_	_
+7	kiya	_	VERB	VERB	_	0	root	_	_
+8	Ravish	_	PROPN	PROPN	_	7	dobj	_	_
+9	ne	_	ADP	ADP	_	8	case	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Kal	_	NOUN	NOUN	_	3	nmod	_	_
+2	ka	_	ADP	ADP	_	1	case	_	_
+3	gham	_	NOUN	NOUN	_	4	nsubj	_	_
+4	jaa	_	VERB	VERB	_	0	root	_	_
+5	nahi	_	PART	PART	_	4	neg	_	_
+6	raha	_	AUX	AUX	_	4	aux	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Lo	_	AUX	AUX	_	0	root	_	_
+2	maan	_	VERB	VERB	_	1	compound	_	_
+3	Liya	_	AUX	AUX	_	2	aux	_	_
+4	ham	_	PRON	PRON	_	0	nsubj	_	_
+5	ne	_	ADP	ADP	_	4	case	_	_
+6	Hamain	_	PRON	PRON	_	0	root	_	_
+7	pyar	_	NOUN	NOUN	_	0	root	_	_
+8	nahi	_	PART	PART	_	9	dep	_	_
+9	Tum	_	PRON	PRON	_	0	root	_	_
+10	se	_	PART	PART	_	9	dep	_	_
+11	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Kya	_	PRON	PRON	_	2	advmod	_	_
+2	kar	_	VERB	VERB	_	0	root	_	_
+3	diya	_	AUX	AUX	_	2	aux	_	_
+4	bechare	_	NOUN	NOUN	_	6	nmod	_	_
+5	masoom	_	ADJ	ADJ	_	6	amod	_	_
+6	logo	_	NOUN	NOUN	_	2	nsubj	_	_
+7	ne	_	ADP	ADP	_	6	case	_	_
+
+1	Afridi	_	PROPN	PROPN	_	4	nsubj	_	_
+2	ne	_	ADP	ADP	_	1	case	_	_
+3	jo	_	PRON	PRON	_	4	dobj	_	_
+4	kaha	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	bilkul	_	ADV	ADV	_	7	advmod	_	_
+7	thek	_	ADJ	ADJ	_	8	amod	_	_
+8	kaha	_	PRON	PRON	_	4	dobj	_	_
+9	ha	_	VERB	VERB	_	8	cop	_	_
+
+1	Tumhein	_	PRON	PRON	_	6	iobj	_	_
+2	watan	_	NOUN	NOUN	_	4	nmod	_	_
+3	ki	_	ADP	ADP	_	2	case	_	_
+4	hawayein	_	NOUN	NOUN	_	6	dobj	_	_
+5	salam	_	NOUN	NOUN	_	6	compound	_	_
+6	kehti	_	VERB	VERB	_	0	root	_	_
+7	hain	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Tum	_	PRON	PRON	_	2	nmod	_	_
+2	Kia	_	VERB	VERB	_	9	acl	_	_
+3	Jano	_	AUX	AUX	_	2	auxpass	_	_
+4	Dil	_	NOUN	NOUN	_	5	compound	_	_
+5	Karta	_	VERB	VERB	_	9	advcl	_	_
+6	Tum	_	PRON	PRON	_	9	compound	_	_
+7	Se	_	ADP	ADP	_	6	case	_	_
+8	Kitna	_	DET	DET	_	9	det	_	_
+9	Pyaar	_	NOUN	NOUN	_	0	root	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	itni	_	DET	DET	_	3	det	_	_
+2	subha	_	NOUN	NOUN	_	3	compound	_	_
+3	subha	_	NOUN	NOUN	_	6	nsubj	_	_
+4	kyun	_	PRON	PRON	_	6	advmod	_	_
+5	neend	_	NOUN	NOUN	_	6	compound	_	_
+6	aarahi	_	VERB	VERB	_	0	root	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+8	mujhe	_	PRON	PRON	_	6	nsubj	_	_
+
+1	Ae	_	PROPN	PROPN	_	2	compound	_	_
+2	dil	_	PROPN	PROPN	_	8	nsubj	_	_
+3	kisi	_	PRON	PRON	_	5	nmod	_	_
+4	ki	_	ADP	ADP	_	3	case	_	_
+5	yaad	_	NOUN	NOUN	_	8	nmod	_	_
+6	mai	_	ADP	ADP	_	5	case	_	_
+7	,	_	PUNCT	PUNCT	_	5	punct	_	_
+8	hota	_	VERB	VERB	_	0	root	_	_
+9	hai	_	AUX	AUX	_	8	aux	_	_
+10	beqaraar	_	ADJ	ADJ	_	0	root	_	_
+11	kyun	_	PRON	PRON	_	0	root	_	_
+
+1	jab	_	PRON	PRON	_	7	nmod	_	_
+2	mile	_	NOUN	NOUN	_	7	nsubj	_	_
+3	thodi	_	DET	DET	_	4	det	_	_
+4	fursat	_	NOUN	NOUN	_	7	compound	_	_
+5	khud	_	ADV	ADV	_	7	advmod	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	karle	_	VERB	VERB	_	0	root	_	_
+8	mohabbat	_	NOUN	NOUN	_	7	nsubj	_	_
+
+1	"	_	PUNCT	PUNCT	_	2	punct	_	_
+2	Jo	_	PRON	PRON	_	5	nsubj	_	_
+3	wafa	_	NOUN	NOUN	_	5	dobj	_	_
+4	nai	_	ADJ	ADJ	_	5	compound	_	_
+5	kar	_	VERB	VERB	_	7	acl:relcl	_	_
+6	sakte	_	AUX	AUX	_	5	aux	_	_
+7	Unse	_	PRON	PRON	_	8	nsubj	_	_
+8	baatein	_	NOUN	NOUN	_	0	root	_	_
+9	karwalo	_	PROPN	PROPN	_	10	compound	_	_
+10	bas	_	PROPN	PROPN	_	8	nmod	_	_
+11	"	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Aur	_	CONJ	CONJ	_	4	cc	_	_
+2	kya	_	PRON	PRON	_	4	nmod	_	_
+3	mujhe	_	PRON	PRON	_	4	dobj	_	_
+4	chahiye	_	VERB	VERB	_	0	root	_	_
+5	tum	_	PRON	PRON	_	7	nmod	_	_
+6	jo	_	PRON	PRON	_	7	nsubj	_	_
+7	ho	_	VERB	VERB	_	11	root	_	_
+8	meri	_	PRON	PRON	_	9	nmod	_	_
+9	aagosh	_	NOUN	NOUN	_	11	root	_	_
+10	mein	_	ADP	ADP	_	9	case	_	_
+11	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ajj	_	PROPN	PROPN	_	2	nsubj	_	_
+2	Ghussa	_	VERB	VERB	_	4	advcl	_	_
+3	Bohat	_	ADJ	ADJ	_	4	advmod	_	_
+4	aaraha	_	VERB	VERB	_	0	root	_	_
+5	Hai	_	AUX	AUX	_	4	aux	_	_
+6	Mujhe	_	PRON	PRON	_	4	nsubj	_	_
+7	!!	_	PART	PART	_	6	dep	_	_
+8	😠	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Aik	_	NUM	NUM	_	2	nummod	_	_
+2	cheez	_	NOUN	NOUN	_	5	nmod	_	_
+3	pe	_	ADP	ADP	_	2	case	_	_
+4	sab	_	PRON	PRON	_	5	nsubj	_	_
+5	chadh	_	VERB	VERB	_	0	root	_	_
+6	gaye	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Har	_	DET	DET	_	2	det	_	_
+2	cheez	_	NOUN	NOUN	_	6	nsubj	_	_
+3	Ramzan	_	NOUN	NOUN	_	6	nmod	_	_
+4	main	_	ADP	ADP	_	3	case	_	_
+5	achi	_	ADJ	ADJ	_	6	xcomp	_	_
+6	lagti	_	VERB	VERB	_	0	root	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+
+1	Abhi	_	PRON	PRON	_	4	nmod	_	_
+2	umer	_	NOUN	NOUN	_	4	nsubj	_	_
+3	hi	_	PART	PART	_	2	dep	_	_
+4	Kya	_	PRON	PRON	_	0	root	_	_
+5	hai	_	VERB	VERB	_	4	cop	_	_
+6	tumhari	_	PRON	PRON	_	4	nmod	_	_
+7	Wadiah	_	PROPN	PROPN	_	4	conj	_	_
+
+1	aane	_	VERB	VERB	_	4	acl	_	_
+2	nahi	_	PART	PART	_	1	neg	_	_
+3	dunga	_	AUX	AUX	_	1	aux	_	_
+4	palkon	_	NOUN	NOUN	_	7	nmod	_	_
+5	pe	_	ADP	ADP	_	4	case	_	_
+6	aansu	_	NOUN	NOUN	_	7	nsubj	_	_
+7	tere	_	VERB	VERB	_	0	root	_	_
+8	mai	_	ADP	ADP	_	7	mark	_	_
+9	kabhi	_	PRON	PRON	_	0	root	_	_
+
+1	Gupta	_	PROPN	PROPN	_	3	compound	_	_
+2	bhi	_	PROPN	PROPN	_	3	compound	_	_
+3	Agarwal	_	PROPN	PROPN	_	4	nsubj	_	_
+4	hote	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	kya	_	PRON	PRON	_	4	nsubj	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Pyaar	_	NOUN	NOUN	_	4	compound	_	_
+2	mujse	_	PRON	PRON	_	4	nmod	_	_
+3	jo	_	PRON	PRON	_	4	iobj	_	_
+4	kiya	_	VERB	VERB	_	0	root	_	_
+5	tumne	_	PRON	PRON	_	8	nsubj	_	_
+6	To	_	PART	PART	_	5	dep	_	_
+7	kya	_	PRON	PRON	_	8	advmod	_	_
+8	paoge	_	VERB	VERB	_	4	dobj	_	_
+
+1	Mummy	_	NOUN	NOUN	_	5	nsubj	_	_
+2	ye	_	PRON	PRON	_	5	dobj	_	_
+3	aap	_	PRON	PRON	_	5	dobj	_	_
+4	kya	_	PRON	PRON	_	5	advmod	_	_
+5	keh	_	VERB	VERB	_	0	root	_	_
+6	rahi	_	AUX	AUX	_	5	aux	_	_
+7	hai	_	AUX	AUX	_	6	auxpass	_	_
+8	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Zameer	_	NOUN	NOUN	_	2	nsubj	_	_
+2	jaag	_	VERB	VERB	_	0	root	_	_
+3	raha	_	AUX	AUX	_	2	aux	_	_
+4	hai	_	AUX	AUX	_	3	auxpass	_	_
+5	aaj	_	NOUN	NOUN	_	6	nmod	_	_
+6	mera	_	PRON	PRON	_	2	nsubj	_	_
+
+1	Zalalat	_	NOUN	NOUN	_	2	nsubjpass	_	_
+2	likh	_	VERB	VERB	_	0	root	_	_
+3	di	_	AUX	AUX	_	2	auxpass	_	_
+4	gayi	_	AUX	AUX	_	3	auxpass	_	_
+5	hai	_	AUX	AUX	_	4	auxpass	_	_
+6	zindagi	_	NOUN	NOUN	_	8	root	_	_
+7	mein	_	ADP	ADP	_	6	case	_	_
+8	!	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Ye	_	PRON	PRON	_	4	nsubj	_	_
+2	mein	_	PRON	PRON	_	4	nsubj	_	_
+3	kya	_	PRON	PRON	_	4	advmod	_	_
+4	padh	_	VERB	VERB	_	0	root	_	_
+5	rahi	_	AUX	AUX	_	4	aux	_	_
+6	hoon	_	AUX	AUX	_	5	auxpass	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+8	:(	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Mere	_	PRON	PRON	_	5	nmod	_	_
+2	Allah	_	NOUN	NOUN	_	5	dobj	_	_
+3	buraayi	_	NOUN	NOUN	_	5	advmod	_	_
+4	se	_	ADP	ADP	_	3	case	_	_
+5	bachaana	_	VERB	VERB	_	0	root	_	_
+6	mujh	_	PRON	PRON	_	0	root	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Tamam	_	DET	DET	_	2	det	_	_
+2	omar	_	NOUN	NOUN	_	6	nsubj	_	_
+3	kahan	_	PRON	PRON	_	6	nmod	_	_
+4	koi	_	PRON	PRON	_	5	nmod	_	_
+5	saath	_	ADV	ADV	_	6	dobj	_	_
+6	deta	_	VERB	VERB	_	0	root	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+
+1	Bas	_	NOUN	NOUN	_	8	nsubj	_	_
+2	ek	_	NUM	NUM	_	3	nummod	_	_
+3	dafa	_	NOUN	NOUN	_	4	nmod	_	_
+4	mudh	_	VERB	VERB	_	6	advcl	_	_
+5	kar	_	AUX	AUX	_	4	aux	_	_
+6	dekho	_	VERB	VERB	_	7	advcl	_	_
+7	aye	_	VERB	VERB	_	8	acl	_	_
+8	yaar	_	NOUN	NOUN	_	10	nsubj	_	_
+9	zara	_	ADV	ADV	_	10	advmod	_	_
+10	humko	_	PRON	PRON	_	0	root	_	_
+11	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Jitna	_	DET	DET	_	2	det	_	_
+2	log	_	NOUN	NOUN	_	4	nsubj	_	_
+3	pyare	_	ADJ	ADJ	_	4	compound	_	_
+4	hote	_	VERB	VERB	_	0	root	_	_
+5	jarahe	_	AUX	AUX	_	4	aux	_	_
+6	hain	_	AUX	AUX	_	5	auxpass	_	_
+7	,	_	PUNCT	PUNCT	_	4	punct	_	_
+8	utni	_	PRON	PRON	_	10	nmod	_	_
+9	main	_	ADP	ADP	_	8	case	_	_
+10	kharab	_	ADJ	ADJ	_	4	nmod	_	_
+
+1	CHALTE	_	VERB	VERB	_	3	acl	_	_
+2	RAHE	_	AUX	AUX	_	1	aux	_	_
+3	HUM	_	PRON	PRON	_	8	nsubj	_	_
+4	TUM	_	PRON	PRON	_	8	advmod	_	_
+5	AUR	_	CONJ	CONJ	_	4	cc	_	_
+6	HOGAYE	_	VERB	VERB	_	7	acl	_	_
+7	RASTE	_	NOUN	NOUN	_	4	conj	_	_
+8	JUDAA	_	ADJ	ADJ	_	0	root	_	_
+
+1	Rab	_	NOUN	NOUN	_	3	advmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	manga	_	VERB	VERB	_	0	root	_	_
+4	maine	_	PRON	PRON	_	7	nsubj	_	_
+5	tanhai	_	NOUN	NOUN	_	7	nmod	_	_
+6	main	_	ADP	ADP	_	5	case	_	_
+7	tujhe	_	VERB	VERB	_	3	dobj	_	_
+8	..	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Waqt	_	NOUN	NOUN	_	4	nmod	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	apna	_	PRON	PRON	_	4	nsubj	_	_
+4	banien	_	VERB	VERB	_	6	advcl	_	_
+5	ge	_	PROPN	PROPN	_	6	nsubj	_	_
+6	hum	_	PRON	PRON	_	0	root	_	_
+
+1	Jitna	_	DET	DET	_	2	det	_	_
+2	aapne	_	PRON	PRON	_	5	nsubj	_	_
+3	socha	_	VERB	VERB	_	5	dobj	_	_
+4	nahi	_	PART	PART	_	5	neg	_	_
+5	utna	_	VERB	VERB	_	0	root	_	_
+6	hoga	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Ladhkon	_	NOUN	NOUN	_	3	advmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	zyada	_	ADJ	ADJ	_	4	amod	_	_
+4	aajkal	_	NOUN	NOUN	_	6	nmod	_	_
+5	ki	_	ADP	ADP	_	4	case	_	_
+6	ladhkiyaan	_	NOUN	NOUN	_	8	nsubj	_	_
+7	bigdhi	_	NOUN	NOUN	_	8	compound	_	_
+8	huwi	_	VERB	VERB	_	0	root	_	_
+9	hain	_	AUX	AUX	_	8	aux	_	_
+
+1	ab	_	PRON	PRON	_	8	nmod	_	_
+2	hum	_	PRON	PRON	_	8	nsubj	_	_
+3	nahane	_	VERB	VERB	_	5	nmod	_	_
+4	ki	_	ADP	ADP	_	3	mark	_	_
+5	soch	_	VERB	VERB	_	8	acl	_	_
+6	Rahe	_	AUX	AUX	_	5	aux	_	_
+7	garm	_	ADJ	ADJ	_	8	amod	_	_
+8	pani	_	NOUN	NOUN	_	0	root	_	_
+9	se	_	ADP	ADP	_	8	case	_	_
+
+1	Mai	_	PRON	PRON	_	2	nsubj	_	_
+2	jaag	_	VERB	VERB	_	5	acl:relcl	_	_
+3	raha	_	AUX	AUX	_	2	aux	_	_
+4	hun	_	AUX	AUX	_	3	auxpass	_	_
+5	abhi	_	PRON	PRON	_	6	nmod	_	_
+6	soya	_	NOUN	NOUN	_	11	nsubj	_	_
+7	to	_	SCONJ	SCONJ	_	6	cop	_	_
+8	nahi	_	PART	PART	_	9	neg	_	_
+9	hoon	_	VERB	VERB	_	6	cop	_	_
+10	.	_	PUNCT	PUNCT	_	6	punct	_	_
+11	🎶🎵🎶	_	PRON	PRON	_	0	root	_	_
+
+1	Kyu	_	PRON	PRON	_	4	advmod	_	_
+2	tu	_	NOUN	NOUN	_	4	nsubj	_	_
+3	acha	_	ADJ	ADJ	_	4	xcomp	_	_
+4	lagta	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	,	_	PUNCT	PUNCT	_	4	punct	_	_
+7	waqt	_	NOUN	NOUN	_	8	nsubj	_	_
+8	mila	_	VERB	VERB	_	4	conj	_	_
+9	to	_	SCONJ	SCONJ	_	10	mark	_	_
+10	sochenge	_	VERB	VERB	_	4	advcl	_	_
+
+1	Main	_	PRON	PRON	_	11	nsubj	_	_
+2	aag	_	NOUN	NOUN	_	5	dobj	_	_
+3	dil	_	NOUN	NOUN	_	5	nmod	_	_
+4	me	_	ADP	ADP	_	3	case	_	_
+5	laga	_	VERB	VERB	_	11	advcl	_	_
+6	dunga	_	AUX	AUX	_	5	aux	_	_
+7	wo	_	PRON	PRON	_	9	nmod	_	_
+8	ki	_	ADP	ADP	_	7	case	_	_
+9	pal	_	NOUN	NOUN	_	11	nmod	_	_
+10	me	_	ADP	ADP	_	9	case	_	_
+11	bikhar	_	VERB	VERB	_	0	root	_	_
+12	jaoge	_	AUX	AUX	_	11	aux	_	_
+
+1	Sardi	_	NOUN	NOUN	_	3	nmod	_	_
+2	ki	_	ADP	ADP	_	1	case	_	_
+3	raaton	_	NOUN	NOUN	_	9	nmod	_	_
+4	main	_	ADP	ADP	_	3	case	_	_
+5	hum	_	PRON	PRON	_	9	nsubj	_	_
+6	soyein	_	VERB	VERB	_	9	acl	_	_
+7	rahe	_	AUX	AUX	_	6	aux	_	_
+8	ek	_	NUM	NUM	_	9	nummod	_	_
+9	chadar	_	NOUN	NOUN	_	0	root	_	_
+10	main	_	ADP	ADP	_	9	case	_	_
+
+1	Rehmat	_	NOUN	NOUN	_	3	nmod	_	_
+2	wale	_	ADP	ADP	_	1	case	_	_
+3	Ramzan	_	NOUN	NOUN	_	5	nmod	_	_
+4	ki	_	ADP	ADP	_	3	case	_	_
+5	hawa	_	NOUN	NOUN	_	7	nsubj	_	_
+6	hai	_	PART	PART	_	5	dep	_	_
+7	chali	_	VERB	VERB	_	0	root	_	_
+
+1	Sirf	_	PART	PART	_	2	dep	_	_
+2	apni	_	PRON	PRON	_	3	nmod	_	_
+3	chalani	_	VERB	VERB	_	4	compound	_	_
+4	hoti	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	logon	_	NOUN	NOUN	_	4	nsubj	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Aisa	_	DET	DET	_	2	det	_	_
+2	maahol	_	NOUN	NOUN	_	7	nsubj	_	_
+3	hakikat	_	NOUN	NOUN	_	7	nmod	_	_
+4	me	_	ADP	ADP	_	3	case	_	_
+5	pehli	_	ADJ	ADJ	_	6	amod	_	_
+6	baar	_	NOUN	NOUN	_	7	nmod	_	_
+7	dekha	_	VERB	VERB	_	0	root	_	_
+8	aaj	_	NOUN	NOUN	_	0	root	_	_
+
+1	raah	_	NOUN	NOUN	_	2	dobj	_	_
+2	chalte	_	VERB	VERB	_	7	advcl	_	_
+3	hoe	_	AUX	AUX	_	2	aux	_	_
+4	aksar	_	ADV	ADV	_	7	advmod	_	_
+5	ye	_	DET	DET	_	6	det	_	_
+6	guman	_	NOUN	NOUN	_	7	nsubj	_	_
+7	hota	_	VERB	VERB	_	0	root	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+
+1	Dekh	_	VERB	VERB	_	0	root	_	_
+2	li	_	AUX	AUX	_	1	aux	_	_
+3	sabki	_	PRON	PRON	_	4	nmod	_	_
+4	aukaat	_	NOUN	NOUN	_	1	nsubj	_	_
+5	aur	_	CONJ	CONJ	_	4	cc	_	_
+6	sabka	_	PRON	PRON	_	7	nmod	_	_
+7	zameer	_	NOUN	NOUN	_	4	conj	_	_
+
+1	Kuch	_	DET	DET	_	2	det	_	_
+2	Pyar	_	NOUN	NOUN	_	5	nmod	_	_
+3	Ka	_	ADP	ADP	_	2	case	_	_
+4	Pagal	_	ADJ	ADJ	_	5	amod	_	_
+5	Pan	_	NOUN	NOUN	_	0	root	_	_
+6	Bhi	_	PART	PART	_	5	dep	_	_
+7	Tha	_	VERB	VERB	_	5	cop	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Meri	_	PRON	PRON	_	3	nmod	_	_
+2	har	_	DET	DET	_	3	det	_	_
+3	sans	_	NOUN	NOUN	_	6	nsubj	_	_
+4	tere	_	PRON	PRON	_	5	nmod	_	_
+5	naam	_	NOUN	NOUN	_	6	dobj	_	_
+6	likhi	_	VERB	VERB	_	0	root	_	_
+7	ho	_	AUX	AUX	_	6	aux	_	_
+8	jaise	_	AUX	AUX	_	7	auxpass	_	_
+9	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Yeh	_	PRON	PRON	_	4	nsubj	_	_
+2	kese	_	PRON	PRON	_	4	advmod	_	_
+3	log	_	NOUN	NOUN	_	4	xcomp	_	_
+4	hote	_	VERB	VERB	_	0	root	_	_
+5	hain	_	AUX	AUX	_	4	aux	_	_
+6	duniya	_	NOUN	NOUN	_	4	nsubj	_	_
+7	main	_	ADP	ADP	_	6	case	_	_
+8	:(	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Main	_	PRON	PRON	_	2	nsubj	_	_
+2	keh	_	VERB	VERB	_	0	root	_	_
+3	doon	_	AUX	AUX	_	2	aux	_	_
+4	sabhi	_	PRON	PRON	_	11	nsubj	_	_
+5	ko	_	ADP	ADP	_	4	case	_	_
+6	ki	_	PART	PART	_	4	dep	_	_
+7	tera	_	PRON	PRON	_	11	nmod	_	_
+8	hee	_	PART	PART	_	7	dep	_	_
+9	hai	_	VERB	VERB	_	7	cop	_	_
+10	ye	_	DET	DET	_	11	det	_	_
+11	asar	_	NOUN	NOUN	_	2	dobj	_	_
+12	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Kaho	_	VERB	VERB	_	5	advcl	_	_
+2	koi	_	PRON	PRON	_	3	advcl	_	_
+3	kese	_	PRON	PRON	_	5	advmod	_	_
+4	mohabbat	_	NOUN	NOUN	_	5	compound	_	_
+5	chupa	_	VERB	VERB	_	0	root	_	_
+6	le	_	AUX	AUX	_	5	aux	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Tadhpane	_	VERB	VERB	_	7	nmod	_	_
+2	pe	_	ADP	ADP	_	1	mark	_	_
+3	mere	_	PRON	PRON	_	7	nsubj	_	_
+4	na	_	PART	PART	_	5	dep	_	_
+5	phir	_	ADV	ADV	_	7	advmod	_	_
+6	tum	_	PRON	PRON	_	7	nsubj	_	_
+7	hanso	_	VERB	VERB	_	0	root	_	_
+8	ge	_	AUX	AUX	_	7	aux	_	_
+
+1	itni	_	DET	DET	_	0	root	_	_
+2	thaki	_	VERB	VERB	_	0	root	_	_
+3	hue	_	AUX	AUX	_	2	aux	_	_
+4	harkatien	_	NOUN	NOUN	_	6	compound	_	_
+5	kyun	_	PRON	PRON	_	6	advmod	_	_
+6	karte	_	VERB	VERB	_	9	advcl	_	_
+7	ho	_	AUX	AUX	_	6	aux	_	_
+8	tum	_	DET	DET	_	9	det	_	_
+9	loog	_	NOUN	NOUN	_	2	nsubj	_	_
+10	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Morgan	_	PROPN	PROPN	_	5	nmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	Allah	_	NOUN	NOUN	_	5	dobj	_	_
+4	Hi	_	PART	PART	_	3	dep	_	_
+5	badla	_	VERB	VERB	_	0	root	_	_
+6	lega	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Akhri	_	ADJ	ADJ	_	2	amod	_	_
+2	Sehri	_	NOUN	NOUN	_	3	nsubj	_	_
+3	ho	_	VERB	VERB	_	0	root	_	_
+4	sakti	_	AUX	AUX	_	3	aux	_	_
+5	hai	_	AUX	AUX	_	4	auxpass	_	_
+6	aaj	_	NOUN	NOUN	_	3	nsubj	_	_
+7	ki	_	ADP	ADP	_	6	case	_	_
+
+1	Koi	_	PRON	PRON	_	2	punct	_	_
+2	match	_	NOUN	NOUN	_	0	root	_	_
+3	tha	_	VERB	VERB	_	2	cop	_	_
+4	kya	_	PRON	PRON	_	7	root	_	_
+5	Pakistan	_	PROPN	PROPN	_	7	root	_	_
+6	ka	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Ye	_	PRON	PRON	_	4	nsubj	_	_
+2	mera	_	PRON	PRON	_	3	nmod	_	_
+3	deewana	_	NOUN	NOUN	_	4	dobj	_	_
+4	pan	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	,	_	PUNCT	PUNCT	_	4	punct	_	_
+7	ya	_	CONJ	CONJ	_	4	cc	_	_
+8	mohabbat	_	NOUN	NOUN	_	10	nmod	_	_
+9	ka	_	ADP	ADP	_	8	case	_	_
+10	surooor	_	NOUN	NOUN	_	4	conj	_	_
+
+1	Yeh	_	DET	DET	_	2	det	_	_
+2	taareef	_	NOUN	NOUN	_	5	nsubj	_	_
+3	hai	_	PART	PART	_	2	dep	_	_
+4	tum	_	DET	DET	_	5	det	_	_
+5	logoon	_	NOUN	NOUN	_	0	root	_	_
+6	ki	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Bhojpuri	_	PROPN	PROPN	_	2	nmod	_	_
+2	gaane	_	NOUN	NOUN	_	6	nsubj	_	_
+3	kis	_	PRON	PRON	_	4	nsubj	_	_
+4	kis	_	PRON	PRON	_	6	iobj	_	_
+5	ko	_	ADP	ADP	_	4	case	_	_
+6	pasand	_	NOUN	NOUN	_	0	root	_	_
+7	hai	_	VERB	VERB	_	6	cop	_	_
+
+1	HOGI	_	VERB	VERB	_	0	root	_	_
+2	KABHI	_	PRON	PRON	_	5	nmod	_	_
+3	HIMMAT	_	NOUN	NOUN	_	5	nsubj	_	_
+4	NAA	_	PART	PART	_	5	dep	_	_
+5	KAM	_	NOUN	NOUN	_	1	nsubj	_	_
+
+1	Tum	_	DET	DET	_	2	det	_	_
+2	log	_	NOUN	NOUN	_	3	dobj	_	_
+3	lad	_	VERB	VERB	_	7	advcl	_	_
+4	rahe	_	AUX	AUX	_	3	aux	_	_
+5	kyun	_	PRON	PRON	_	7	advmod	_	_
+6	nahi	_	PART	PART	_	7	neg	_	_
+7	ho	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Mein	_	ADP	ADP	_	0	root	_	_
+2	shukar	_	PROPN	PROPN	_	8	nsubj	_	_
+3	kese	_	PRON	PRON	_	4	advmod	_	_
+4	ada	_	ADJ	ADJ	_	6	amod	_	_
+5	is	_	DET	DET	_	6	det	_	_
+6	karam	_	NOUN	NOUN	_	8	nmod	_	_
+7	ka	_	ADP	ADP	_	6	case	_	_
+8	karun	_	VERB	VERB	_	0	root	_	_
+9	!	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Koi	_	PRON	PRON	_	2	punct	_	_
+2	mere	_	PRON	PRON	_	3	nmod	_	_
+3	daddy	_	NOUN	NOUN	_	5	dobj	_	_
+4	ko	_	ADP	ADP	_	3	case	_	_
+5	bhejde	_	VERB	VERB	_	0	root	_	_
+6	ye	_	DET	DET	_	7	det	_	_
+7	tasveer	_	NOUN	NOUN	_	5	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Phir	_	ADV	ADV	_	10	advmod	_	_
+2	bhi	_	PART	PART	_	1	dep	_	_
+3	mere	_	PRON	PRON	_	4	nmod	_	_
+4	dil	_	NOUN	NOUN	_	10	nsubj	_	_
+5	ne	_	ADP	ADP	_	4	case	_	_
+6	tujhse	_	PRON	PRON	_	7	nmod	_	_
+7	yaari	_	NOUN	NOUN	_	9	nmod	_	_
+8	ki	_	ADP	ADP	_	7	case	_	_
+9	baazi	_	NOUN	NOUN	_	10	compound	_	_
+10	haari	_	VERB	VERB	_	0	root	_	_
+11	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	mujh	_	PRON	PRON	_	6	nmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	kuch	_	DET	DET	_	4	det	_	_
+4	teri	_	PRON	PRON	_	5	nmod	_	_
+5	nazar	_	NOUN	NOUN	_	6	nsubj	_	_
+6	poch	_	VERB	VERB	_	0	root	_	_
+7	rahi	_	AUX	AUX	_	6	aux	_	_
+8	ho	_	AUX	AUX	_	7	auxpass	_	_
+9	jaise	_	SCONJ	SCONJ	_	6	punct	_	_
+
+1	Kyun	_	PRON	PRON	_	7	advmod	_	_
+2	tum	_	PRON	PRON	_	7	nsubj	_	_
+3	dil	_	NOUN	NOUN	_	4	dobj	_	_
+4	jalane	_	VERB	VERB	_	6	nmod	_	_
+5	ki	_	ADP	ADP	_	4	mark	_	_
+6	baat	_	NOUN	NOUN	_	7	compound	_	_
+7	karte	_	VERB	VERB	_	0	root	_	_
+8	ho	_	AUX	AUX	_	7	aux	_	_
+9	!	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Yeh	_	PRON	PRON	_	3	nsubj	_	_
+2	dono	_	NUM	NUM	_	3	nummod	_	_
+3	khatra	_	NOUN	NOUN	_	0	root	_	_
+4	hain	_	VERB	VERB	_	3	cop	_	_
+5	inhe	_	PRON	PRON	_	6	nsubj	_	_
+6	pakro	_	VERB	VERB	_	3	acl:relcl	_	_
+7	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Kaha	_	PRON	PRON	_	2	nmod	_	_
+2	chali	_	VERB	VERB	_	5	acl	_	_
+3	gayi	_	AUX	AUX	_	2	auxpass	_	_
+4	hai	_	AUX	AUX	_	3	auxpass	_	_
+5	saali	_	NOUN	NOUN	_	6	nsubj	_	_
+6	khushi	_	NOUN	NOUN	_	0	root	_	_
+
+1	Kon	_	NOUN	NOUN	_	8	nsubj	_	_
+2	tujhey	_	PRON	PRON	_	8	nsubj	_	_
+3	yun	_	ADV	ADV	_	8	nmod	_	_
+4	pyaar	_	NOUN	NOUN	_	5	compound	_	_
+5	karega	_	VERB	VERB	_	7	amod	_	_
+6	Jese	_	ADP	ADP	_	5	mark	_	_
+7	mein	_	PRON	PRON	_	8	nsubj	_	_
+8	Karti	_	VERB	VERB	_	0	root	_	_
+9	hun	_	AUX	AUX	_	8	aux	_	_
+
+1	Samajh	_	NOUN	NOUN	_	4	advmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	bahir	_	ADJ	ADJ	_	4	compound	_	_
+4	ho	_	VERB	VERB	_	0	root	_	_
+5	meri	_	PRON	PRON	_	6	nmod	_	_
+6	sab	_	PRON	PRON	_	8	nmod	_	_
+7	ke	_	ADP	ADP	_	6	case	_	_
+8	sab	_	PRON	PRON	_	4	nsubj	_	_
+
+1	sachi	_	ADJ	ADJ	_	2	amod	_	_
+2	mohabbat	_	NOUN	NOUN	_	4	nsubj	_	_
+3	shayad	_	ADV	ADV	_	4	advmod	_	_
+4	wohi	_	PRON	PRON	_	0	root	_	_
+5	hai	_	VERB	VERB	_	4	cop	_	_
+6	jis	_	PRON	PRON	_	8	nmod	_	_
+7	main	_	ADP	ADP	_	6	case	_	_
+8	junoon	_	NOUN	NOUN	_	4	acl:relcl	_	_
+9	hai	_	VERB	VERB	_	8	cop	_	_
+
+1	Peshawar	_	PROPN	PROPN	_	3	nmod	_	_
+2	me	_	ADP	ADP	_	1	case	_	_
+3	kiya	_	VERB	VERB	_	4	acl	_	_
+4	scene	_	NOUN	NOUN	_	6	nsubj	_	_
+5	hai	_	PART	PART	_	4	dep	_	_
+6	kal	_	NOUN	NOUN	_	0	root	_	_
+7	ka	_	ADP	ADP	_	6	case	_	_
+
+1	Hum	_	PRON	PRON	_	9	nsubj	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	to	_	PART	PART	_	1	dep	_	_
+4	na	_	PART	PART	_	5	neg	_	_
+5	ho	_	VERB	VERB	_	9	acl	_	_
+6	paye	_	AUX	AUX	_	5	aux	_	_
+7	ga	_	AUX	AUX	_	6	auxpass	_	_
+8	is	_	DET	DET	_	9	det	_	_
+9	janum	_	NOUN	NOUN	_	0	root	_	_
+10	mein	_	ADP	ADP	_	9	case	_	_
+11	!	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Aaj	_	NOUN	NOUN	_	6	nmod	_	_
+2	sab	_	PRON	PRON	_	6	nsubj	_	_
+3	jaldi	_	ADV	ADV	_	4	advmod	_	_
+4	so	_	VERB	VERB	_	6	advcl	_	_
+5	gaye	_	AUX	AUX	_	4	aux	_	_
+6	lagta	_	VERB	VERB	_	0	root	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Mar	_	VERB	VERB	_	4	advcl	_	_
+2	kyu	_	PRON	PRON	_	4	advmod	_	_
+3	nahi	_	PART	PART	_	4	neg	_	_
+4	jate	_	VERB	VERB	_	0	root	_	_
+5	tum	_	DET	DET	_	6	det	_	_
+6	log	_	NOUN	NOUN	_	4	nsubj	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Dil	_	NOUN	NOUN	_	3	compound	_	_
+2	kya	_	PRON	PRON	_	3	advmod	_	_
+3	kare	_	VERB	VERB	_	11	advcl	_	_
+4	jab	_	PRON	PRON	_	11	nmod	_	_
+5	kisi	_	PRON	PRON	_	11	nmod	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	,	_	PUNCT	PUNCT	_	5	punct	_	_
+8	kisi	_	PRON	PRON	_	11	nsubj	_	_
+9	ko	_	ADP	ADP	_	8	case	_	_
+10	pyaar	_	NOUN	NOUN	_	11	compound	_	_
+11	hojaye	_	VERB	VERB	_	0	root	_	_
+
+1	Hone	_	VERB	VERB	_	3	advcl	_	_
+2	ko	_	ADP	ADP	_	1	mark	_	_
+3	hai	_	VERB	VERB	_	0	root	_	_
+4	barson	_	NOUN	NOUN	_	8	nmod	_	_
+5	ke	_	ADP	ADP	_	4	case	_	_
+6	baad	_	ADP	ADP	_	4	case	_	_
+7	ek	_	NUM	NUM	_	8	nummod	_	_
+8	mulakaat	_	NOUN	NOUN	_	3	nsubj	_	_
+
+1	Kya	_	PRON	PRON	_	2	advmod	_	_
+2	badle	_	VERB	VERB	_	0	root	_	_
+3	hain	_	AUX	AUX	_	2	aux	_	_
+4	haalaat	_	NOUN	NOUN	_	6	nsubj	_	_
+5	aise	_	PRON	PRON	_	6	nsubj	_	_
+6	ab	_	PRON	PRON	_	2	dobj	_	_
+7	tak	_	ADP	ADP	_	6	case	_	_
+8	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	rooh	_	NOUN	NOUN	_	8	iobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	safalta	_	NOUN	NOUN	_	8	nsubj	_	_
+4	pata	_	NOUN	NOUN	_	8	compound	_	_
+5	nahi	_	PART	PART	_	6	dep	_	_
+6	kab	_	PRON	PRON	_	8	nmod	_	_
+7	haasil	_	ADJ	ADJ	_	8	compound	_	_
+8	hogi	_	VERB	VERB	_	0	root	_	_
+9	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Koi	_	PRON	PRON	_	3	nmod	_	_
+2	pass	_	ADP	ADP	_	1	case	_	_
+3	aa	_	VERB	VERB	_	7	advcl	_	_
+4	kar	_	AUX	AUX	_	3	aux	_	_
+5	kyun	_	PRON	PRON	_	7	advmod	_	_
+6	dur	_	ADV	ADV	_	7	nmod	_	_
+7	chala	_	VERB	VERB	_	0	root	_	_
+8	jata	_	AUX	AUX	_	7	auxpass	_	_
+9	hai	_	AUX	AUX	_	8	auxpass	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Kitna	_	DET	DET	_	2	det	_	_
+2	maza	_	NOUN	NOUN	_	3	nsubj	_	_
+3	aaye	_	VERB	VERB	_	0	root	_	_
+4	agar	_	SCONJ	SCONJ	_	8	mark	_	_
+5	aaj	_	NOUN	NOUN	_	8	nmod	_	_
+6	isloo	_	NOUN	NOUN	_	8	nsubj	_	_
+7	bhi	_	PART	PART	_	6	dep	_	_
+8	haar	_	VERB	VERB	_	3	advcl	_	_
+9	jaaye	_	AUX	AUX	_	8	aux	_	_
+10	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Aik	_	NUM	NUM	_	2	nummod	_	_
+2	dum	_	NOUN	NOUN	_	6	nsubj	_	_
+3	sab	_	PRON	PRON	_	5	nsubj	_	_
+4	dukhi	_	ADJ	ADJ	_	5	amod	_	_
+5	kyun	_	PRON	PRON	_	6	advmod	_	_
+6	hujata	_	VERB	VERB	_	0	root	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+
+1	kabhi	_	PRON	PRON	_	5	nmod	_	_
+2	na	_	PART	PART	_	3	dep	_	_
+3	kabhi	_	PRON	PRON	_	5	nmod	_	_
+4	to	_	PART	PART	_	3	dep	_	_
+5	milogi	_	VERB	VERB	_	0	root	_	_
+6	kahin	_	PRON	PRON	_	5	nsubj	_	_
+7	pe	_	ADP	ADP	_	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Mujhe	_	PRON	PRON	_	7	nsubj	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	Islamabad	_	PROPN	PROPN	_	4	nmod	_	_
+4	shru	_	NOUN	NOUN	_	7	nmod	_	_
+5	se	_	ADP	ADP	_	4	case	_	_
+6	he	_	PART	PART	_	4	dep	_	_
+7	pasand	_	NOUN	NOUN	_	0	root	_	_
+8	hai	_	VERB	VERB	_	7	cop	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Bachpan	_	NOUN	NOUN	_	3	nmod	_	_
+2	wala	_	ADP	ADP	_	1	case	_	_
+3	itwaar	_	NOUN	NOUN	_	6	nsubj	_	_
+4	ab	_	PRON	PRON	_	6	nmod	_	_
+5	nahi	_	PART	PART	_	6	neg	_	_
+6	aata	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Hum	_	PRON	PRON	_	10	nsubj	_	_
+2	ne	_	ADP	ADP	_	1	case	_	_
+3	to	_	PART	PART	_	1	dep	_	_
+4	jab	_	PRON	PRON	_	10	nmod	_	_
+5	kaliyan	_	NOUN	NOUN	_	6	dobj	_	_
+6	maangi	_	VERB	VERB	_	10	advcl	_	_
+7	Kaanton	_	NOUN	NOUN	_	9	nmod	_	_
+8	ka	_	ADP	ADP	_	7	case	_	_
+9	haar	_	NOUN	NOUN	_	10	nsubj	_	_
+10	mila	_	VERB	VERB	_	0	root	_	_
+
+1	Itne	_	DET	DET	_	2	det	_	_
+2	kaabil	_	ADJ	ADJ	_	3	xcomp	_	_
+3	hogaye	_	VERB	VERB	_	0	root	_	_
+4	ho	_	AUX	AUX	_	3	aux	_	_
+5	tum	_	PRON	PRON	_	3	nsubj	_	_
+6	.	_	PUNCT	PUNCT	_	3	punct	_	_
+7	:)	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Hum	_	PRON	PRON	_	5	nsubj	_	_
+2	Tere	_	PRON	PRON	_	5	nmod	_	_
+3	Bin	_	PROPN	PROPN	_	5	nmod	_	_
+4	ab	_	PRON	PRON	_	5	nmod	_	_
+5	reh	_	VERB	VERB	_	0	root	_	_
+6	nahi	_	PART	PART	_	5	neg	_	_
+7	Sakte	_	AUX	AUX	_	5	aux	_	_
+
+1	Shaadi	_	NOUN	NOUN	_	2	compound	_	_
+2	kar	_	VERB	VERB	_	0	root	_	_
+3	leni	_	AUX	AUX	_	2	aux	_	_
+4	hai	_	AUX	AUX	_	3	auxpass	_	_
+5	ab	_	PRON	PRON	_	2	nsubj	_	_
+
+1	Aur	_	CONJ	CONJ	_	6	cc	_	_
+2	kisi	_	PRON	PRON	_	5	iobj	_	_
+3	ko	_	ADP	ADP	_	2	case	_	_
+4	phool	_	NOUN	NOUN	_	5	dobj	_	_
+5	dena	_	VERB	VERB	_	6	dobj	_	_
+6	reh	_	VERB	VERB	_	11	advcl	_	_
+7	gaya	_	AUX	AUX	_	6	aux	_	_
+8	ho	_	AUX	AUX	_	7	auxpass	_	_
+9	to	_	SCONJ	SCONJ	_	11	mark	_	_
+10	mujhe	_	PRON	PRON	_	11	dobj	_	_
+11	bata	_	VERB	VERB	_	0	root	_	_
+12	de	_	AUX	AUX	_	11	aux	_	_
+
+1	Aaj	_	NOUN	NOUN	_	4	nmod	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	tabahi	_	NOUN	NOUN	_	4	nsubj	_	_
+4	macha	_	VERB	VERB	_	0	root	_	_
+5	dunga	_	AUX	AUX	_	4	aux	_	_
+6	iftari	_	NOUN	NOUN	_	4	nsubj	_	_
+7	main	_	ADP	ADP	_	6	case	_	_
+
+1	Najane	_	VERB	VERB	_	3	nsubj	_	_
+2	kab	_	PRON	PRON	_	3	nmod	_	_
+3	hon	_	VERB	VERB	_	8	acl:relcl	_	_
+4	ge	_	AUX	AUX	_	3	aux	_	_
+5	kum	_	DET	DET	_	8	det	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	Is	_	DET	DET	_	8	det	_	_
+8	duniya	_	NOUN	NOUN	_	10	nmod	_	_
+9	ke	_	ADP	ADP	_	8	case	_	_
+10	ghum	_	VERB	VERB	_	0	root	_	_
+11	!	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Tere	_	PRON	PRON	_	2	nmod	_	_
+2	naan	_	NOUN	NOUN	_	4	compound	_	_
+3	humne	_	PRON	PRON	_	4	nsubj	_	_
+4	kiya	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	,	_	PUNCT	PUNCT	_	4	punct	_	_
+7	jeevan	_	NOUN	NOUN	_	10	nsubj	_	_
+8	apna	_	PRON	PRON	_	10	nmod	_	_
+9	sara	_	DET	DET	_	10	det	_	_
+10	sanam	_	NOUN	NOUN	_	4	nsubj	_	_
+11	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Apko	_	PRON	PRON	_	3	nsubj	_	_
+2	kya	_	PRON	PRON	_	3	advmod	_	_
+3	karna	_	VERB	VERB	_	9	advcl	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	bhai	_	NOUN	NOUN	_	9	nsubj	_	_
+6	main	_	PRON	PRON	_	9	nmod	_	_
+7	jaise	_	ADP	ADP	_	6	case	_	_
+8	bhi	_	PART	PART	_	6	dep	_	_
+9	ghumo	_	VERB	VERB	_	0	root	_	_
+10	?	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	BADHNA	_	VERB	VERB	_	0	root	_	_
+2	HAI	_	PART	PART	_	1	dep	_	_
+3	AGAY	_	NOUN	NOUN	_	8	nsubj	_	_
+4	HAR	_	DET	DET	_	5	det	_	_
+5	QADAM	_	NOUN	NOUN	_	6	nmod	_	_
+6	JAB	_	PRON	PRON	_	8	nmod	_	_
+7	TAK	_	ADP	ADP	_	6	case	_	_
+8	HAI	_	VERB	VERB	_	0	root	_	_
+9	DUM	_	NOUN	NOUN	_	11	nmod	_	_
+10	MEIN	_	ADP	ADP	_	9	case	_	_
+11	DUM	_	NOUN	NOUN	_	0	root	_	_
+
+1	Kitne	_	PRON	PRON	_	2	nsubj	_	_
+2	badal	_	VERB	VERB	_	5	acl:relcl	_	_
+3	gaye	_	AUX	AUX	_	2	aux	_	_
+4	hein	_	AUX	AUX	_	3	auxpass	_	_
+5	wo	_	PRON	PRON	_	6	nsubj	_	_
+6	halaat	_	NOUN	NOUN	_	0	root	_	_
+7	ki	_	ADP	ADP	_	6	case	_	_
+8	tarah	_	ADP	ADP	_	6	case	_	_
+9	!	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Dil	_	NOUN	NOUN	_	2	dobj	_	_
+2	todne	_	VERB	VERB	_	4	nmod	_	_
+3	ka	_	ADP	ADP	_	2	mark	_	_
+4	mauka	_	NOUN	NOUN	_	7	dobj	_	_
+5	sabko	_	PRON	PRON	_	7	iobj	_	_
+6	nahi	_	PART	PART	_	7	neg	_	_
+7	diya	_	VERB	VERB	_	0	root	_	_
+8	jaata	_	AUX	AUX	_	7	auxpass	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Kuch	_	PRON	PRON	_	0	root	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	hai	_	VERB	VERB	_	1	cop	_	_
+4	tujhse	_	PRON	PRON	_	6	nmod	_	_
+5	yeh	_	PRON	PRON	_	6	nsubj	_	_
+6	RAABTA	_	VERB	VERB	_	1	acl:relcl	_	_
+7	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Mote	_	PROPN	PROPN	_	2	nmod	_	_
+2	loug	_	NOUN	NOUN	_	4	nsubj	_	_
+3	harami	_	ADJ	ADJ	_	4	compound	_	_
+4	hote	_	VERB	VERB	_	0	root	_	_
+5	hain	_	AUX	AUX	_	4	aux	_	_
+6	bohut	_	DET	DET	_	0	mark	_	_
+
+1	Dariyaa	_	NOUN	NOUN	_	3	nsubj	_	_
+2	Ne	_	ADP	ADP	_	1	case	_	_
+3	Karwat	_	NOUN	NOUN	_	9	nmod	_	_
+4	Li	_	AUX	AUX	_	3	aux	_	_
+5	Hai	_	AUX	AUX	_	4	auxpass	_	_
+6	To	_	SCONJ	SCONJ	_	9	mark	_	_
+7	Saahilon	_	NOUN	NOUN	_	9	dobj	_	_
+8	Ko	_	ADP	ADP	_	7	case	_	_
+9	Sahene	_	VERB	VERB	_	0	root	_	_
+10	Do	_	NUM	NUM	_	0	root	_	_
+11	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Patari	_	NOUN	NOUN	_	4	advmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	pyaar	_	NOUN	NOUN	_	4	compound	_	_
+4	hogaya	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	ab	_	PRON	PRON	_	4	nsubj	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ek	_	NUM	NUM	_	2	nummod	_	_
+2	pal	_	NOUN	NOUN	_	7	nmod	_	_
+3	main	_	ADP	ADP	_	2	case	_	_
+4	khushi	_	NOUN	NOUN	_	7	nsubj	_	_
+5	gham	_	NOUN	NOUN	_	7	nmod	_	_
+6	main	_	ADP	ADP	_	5	case	_	_
+7	badal	_	VERB	VERB	_	0	root	_	_
+8	jaati	_	AUX	AUX	_	7	aux	_	_
+9	hai	_	AUX	AUX	_	8	auxpass	_	_
+10	aise	_	PRON	PRON	_	7	nsubj	_	_
+11	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Mujhe	_	PRON	PRON	_	8	nsubj	_	_
+2	bhi	_	PART	PART	_	1	dep	_	_
+3	saare	_	DET	DET	_	5	det	_	_
+4	ameer	_	ADJ	ADJ	_	5	amod	_	_
+5	log	_	NOUN	NOUN	_	8	nsubj	_	_
+6	ek	_	NUM	NUM	_	8	nmod	_	_
+7	jaise	_	ADP	ADP	_	6	case	_	_
+8	dikhte	_	VERB	VERB	_	0	root	_	_
+9	hain	_	AUX	AUX	_	8	aux	_	_
+10	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Sab	_	PRON	PRON	_	3	nsubj	_	_
+2	gayab	_	ADJ	ADJ	_	3	amod	_	_
+3	kyun	_	PRON	PRON	_	0	root	_	_
+4	hain	_	VERB	VERB	_	3	cop	_	_
+5	iss	_	DET	DET	_	6	det	_	_
+6	waqt	_	NOUN	NOUN	_	3	nmod	_	_
+7	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Ye	_	PRON	PRON	_	2	nsubj	_	_
+2	ho	_	VERB	VERB	_	4	nsubj	_	_
+3	kya	_	PRON	PRON	_	4	advmod	_	_
+4	raha	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	mujhe	_	PRON	PRON	_	4	nsubj	_	_
+
+1	Paani	_	NOUN	NOUN	_	2	dobj	_	_
+2	bhara	_	VERB	VERB	_	0	root	_	_
+3	hai	_	AUX	AUX	_	2	aux	_	_
+4	mere	_	PRON	PRON	_	6	nmod	_	_
+5	ang	_	NOUN	NOUN	_	6	compound	_	_
+6	ang	_	NOUN	NOUN	_	2	nsubj	_	_
+7	main	_	ADP	ADP	_	6	case	_	_
+
+1	Dil	_	NOUN	NOUN	_	2	compound	_	_
+2	Chahta	_	VERB	VERB	_	6	advcl	_	_
+3	Hai	_	AUX	AUX	_	2	aux	_	_
+4	Hum	_	PRON	PRON	_	6	nsubj	_	_
+5	Na	_	PART	PART	_	6	neg	_	_
+6	Rahein	_	VERB	VERB	_	0	root	_	_
+7	Kabhi	_	PRON	PRON	_	11	root	_	_
+8	Yaroon	_	NOUN	NOUN	_	10	nmod	_	_
+9	Ke	_	ADP	ADP	_	8	case	_	_
+10	Bin	_	NOUN	NOUN	_	11	root	_	_
+11	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Akele	_	ADJ	ADJ	_	3	amod	_	_
+2	he	_	PART	PART	_	1	dep	_	_
+3	zindagi	_	NOUN	NOUN	_	4	nsubj	_	_
+4	guzar	_	VERB	VERB	_	0	root	_	_
+5	jaye	_	AUX	AUX	_	4	aux	_	_
+6	gi	_	AUX	AUX	_	5	auxpass	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Yeh	_	PRON	PRON	_	6	nsubj	_	_
+2	koi	_	PRON	PRON	_	3	nsubj	_	_
+3	waqt	_	NOUN	NOUN	_	5	nsubj	_	_
+4	nahi	_	PART	PART	_	5	neg	_	_
+5	hota	_	VERB	VERB	_	6	advcl	_	_
+6	jaagne	_	VERB	VERB	_	0	root	_	_
+7	ka	_	ADP	ADP	_	6	mark	_	_
+
+1	zindgi	_	NOUN	NOUN	_	4	nsubj	_	_
+2	kuch	_	PRON	PRON	_	4	nsubj	_	_
+3	nahi	_	PART	PART	_	4	dep	_	_
+4	gum	_	NOUN	NOUN	_	0	root	_	_
+5	ke	_	ADP	ADP	_	4	case	_	_
+6	siwa	_	ADP	ADP	_	4	case	_	_
+
+1	Tu	_	NOUN	NOUN	_	6	nsubj	_	_
+2	mere	_	PRON	PRON	_	6	nmod	_	_
+3	liye	_	ADP	ADP	_	2	case	_	_
+4	jadu	_	NOUN	NOUN	_	6	nmod	_	_
+5	ka	_	ADP	ADP	_	4	case	_	_
+6	chiragh	_	NOUN	NOUN	_	0	root	_	_
+7	hai	_	VERB	VERB	_	6	cop	_	_
+
+1	Kyun	_	PRON	PRON	_	5	advmod	_	_
+2	tu	_	NOUN	NOUN	_	3	compound	_	_
+3	dard	_	NOUN	NOUN	_	4	nsubj	_	_
+4	chupaye	_	VERB	VERB	_	5	acl	_	_
+5	bethi	_	NOUN	NOUN	_	0	root	_	_
+6	hai	_	VERB	VERB	_	5	cop	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Hamara	_	PRON	PRON	_	3	nmod	_	_
+2	Karachi	_	PROPN	PROPN	_	3	nmod	_	_
+3	aaj	_	NOUN	NOUN	_	7	nmod	_	_
+4	hum	_	PRON	PRON	_	7	dobj	_	_
+5	ko	_	ADP	ADP	_	4	case	_	_
+6	khush	_	ADJ	ADJ	_	7	compound	_	_
+7	kare	_	VERB	VERB	_	0	root	_	_
+8	ga	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Ye	_	DET	DET	_	2	det	_	_
+2	bandi	_	NOUN	NOUN	_	3	nsubj	_	_
+3	kon	_	NOUN	NOUN	_	0	root	_	_
+4	hai	_	VERB	VERB	_	3	cop	_	_
+5	jo	_	PRON	PRON	_	6	nsubj	_	_
+6	ro	_	VERB	VERB	_	3	acl:relcl	_	_
+7	rahi	_	AUX	AUX	_	6	aux	_	_
+8	hai	_	AUX	AUX	_	7	auxpass	_	_
+9	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Guys	_	NOUN	NOUN	_	2	compound	_	_
+2	yeh	_	PRON	PRON	_	4	nsubj	_	_
+3	kya	_	PRON	PRON	_	4	advmod	_	_
+4	ho	_	VERB	VERB	_	0	root	_	_
+5	raha	_	AUX	AUX	_	4	aux	_	_
+6	hai	_	AUX	AUX	_	5	auxpass	_	_
+7	lahore	_	PROPN	PROPN	_	4	nsubj	_	_
+8	walon	_	ADP	ADP	_	7	case	_	_
+9	ke	_	ADP	ADP	_	7	case	_	_
+10	saath	_	ADP	ADP	_	7	case	_	_
+11	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ye	_	PRON	PRON	_	6	nsubj	_	_
+2	aakhir	_	ADV	ADV	_	6	advmod	_	_
+3	neend	_	NOUN	NOUN	_	6	dobj	_	_
+4	kyun	_	PRON	PRON	_	6	advmod	_	_
+5	nahi	_	PART	PART	_	6	neg	_	_
+6	ati	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Jo	_	PRON	PRON	_	3	nsubj	_	_
+2	yeh	_	DET	DET	_	3	det	_	_
+3	jazbat	_	NOUN	NOUN	_	0	root	_	_
+4	hain	_	VERB	VERB	_	3	cop	_	_
+5	yeh	_	PRON	PRON	_	8	nsubj	_	_
+6	Bade	_	ADJ	ADJ	_	8	amod	_	_
+7	hi	_	PART	PART	_	6	dep	_	_
+8	khass	_	ADJ	ADJ	_	3	acl:relcl	_	_
+9	hai	_	VERB	VERB	_	8	cop	_	_
+10	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Wasim	_	PROPN	PROPN	_	2	nmod	_	_
+2	bhai	_	NOUN	NOUN	_	4	nmod	_	_
+3	ka	_	ADP	ADP	_	2	case	_	_
+4	gala	_	NOUN	NOUN	_	6	nsubj	_	_
+5	kharab	_	ADJ	ADJ	_	6	compound	_	_
+6	hojae	_	VERB	VERB	_	0	root	_	_
+7	ga	_	AUX	AUX	_	6	aux	_	_
+8	kal	_	NOUN	NOUN	_	0	root	_	_
+9	tak	_	ADP	ADP	_	8	case	_	_
+
+1	Karachi	_	PROPN	PROPN	_	3	nmod	_	_
+2	me	_	ADP	ADP	_	1	case	_	_
+3	suna	_	VERB	VERB	_	6	advcl	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	barish	_	NOUN	NOUN	_	6	compound	_	_
+6	horahi	_	VERB	VERB	_	0	root	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Tum	_	PRON	PRON	_	10	nmod	_	_
+2	Se	_	ADP	ADP	_	1	case	_	_
+3	Pehle	_	ADP	ADP	_	1	case	_	_
+4	Tum	_	PRON	PRON	_	5	nmod	_	_
+5	Sa	_	NOUN	NOUN	_	10	dobj	_	_
+6	Koe	_	ADP	ADP	_	5	case	_	_
+7	Hum	_	PRON	PRON	_	10	nsubj	_	_
+8	Ne	_	ADP	ADP	_	7	case	_	_
+9	Nahi	_	PART	PART	_	10	neg	_	_
+10	Dekha	_	VERB	VERB	_	0	root	_	_
+
+1	Tu	_	NOUN	NOUN	_	2	compound	_	_
+2	zarori	_	NOUN	NOUN	_	0	root	_	_
+3	sa	_	PART	PART	_	2	dep	_	_
+4	hai	_	PART	PART	_	2	dep	_	_
+5	mujhko	_	PRON	PRON	_	7	nsubj	_	_
+6	zinda	_	ADJ	ADJ	_	7	compound	_	_
+7	rehne	_	VERB	VERB	_	0	root	_	_
+8	ks	_	PUNCT	PUNCT	_	7	punct	_	_
+9	leye	_	VERB	VERB	_	7	compound	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Safar	_	NOUN	NOUN	_	2	nsubj	_	_
+2	khubsurat	_	ADJ	ADJ	_	0	root	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	manzil	_	NOUN	NOUN	_	2	nmod	_	_
+5	se	_	ADP	ADP	_	4	case	_	_
+6	bhi	_	PART	PART	_	4	dep	_	_
+7	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Kuch	_	PRON	PRON	_	2	dobj	_	_
+2	karne	_	VERB	VERB	_	6	advcl	_	_
+3	ko	_	ADP	ADP	_	2	mark	_	_
+4	bhi	_	PART	PART	_	2	dep	_	_
+5	nahi	_	PART	PART	_	6	neg	_	_
+6	hai	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	neeend	_	PROPN	PROPN	_	6	nsubj	_	_
+2	pata	_	NOUN	NOUN	_	4	compound	_	_
+3	nahe	_	PART	PART	_	4	neg	_	_
+4	kidhar	_	VERB	VERB	_	6	advcl	_	_
+5	dafa	_	NOUN	NOUN	_	6	nmod	_	_
+6	ho	_	VERB	VERB	_	0	root	_	_
+7	chuki	_	AUX	AUX	_	6	aux	_	_
+8	hai	_	AUX	AUX	_	7	auxpass	_	_
+9	meri	_	PRON	PRON	_	6	nsubj	_	_
+
+1	Tu	_	NOUN	NOUN	_	3	nsubj	_	_
+2	hi	_	PART	PART	_	1	dep	_	_
+3	tu	_	VERB	VERB	_	5	acl:relcl	_	_
+4	har	_	DET	DET	_	5	det	_	_
+5	jagah	_	NOUN	NOUN	_	8	nsubj	_	_
+6	aaj	_	NOUN	NOUN	_	8	nmod	_	_
+7	kal	_	NOUN	NOUN	_	8	nmod	_	_
+8	kyun	_	PRON	PRON	_	0	root	_	_
+9	hai	_	VERB	VERB	_	8	cop	_	_
+10	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Aur	_	CONJ	CONJ	_	3	cc	_	_
+2	bhi	_	PART	PART	_	1	dep	_	_
+3	gum	_	NOUN	NOUN	_	0	root	_	_
+4	hain	_	VERB	VERB	_	3	cop	_	_
+5	zamane	_	NOUN	NOUN	_	7	nmod	_	_
+6	main	_	ADP	ADP	_	5	case	_	_
+7	mohabbat	_	NOUN	NOUN	_	3	nmod	_	_
+8	ke	_	ADP	ADP	_	7	case	_	_
+9	siwa	_	ADP	ADP	_	7	case	_	_
+10	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Shukar	_	PROPN	PROPN	_	0	root	_	_
+2	hai	_	VERB	VERB	_	1	cop	_	_
+3	abhi	_	PRON	PRON	_	4	nmod	_	_
+4	samay	_	NOUN	NOUN	_	1	acl:relcl	_	_
+5	nahi	_	PART	PART	_	6	neg	_	_
+6	hai	_	VERB	VERB	_	4	cop	_	_
+7	inka	_	PRON	PRON	_	4	nmod	_	_
+
+1	Free	_	NOUN	NOUN	_	8	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	dhaniya	_	NOUN	NOUN	_	4	compound	_	_
+4	bas	_	NOUN	NOUN	_	8	nsubj	_	_
+5	aap	_	PRON	PRON	_	8	nsubj	_	_
+6	logo	_	NOUN	NOUN	_	8	iobj	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+8	milta	_	VERB	VERB	_	0	root	_	_
+9	hoga	_	AUX	AUX	_	8	aux	_	_
+10	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Ye	_	DET	DET	_	2	det	_	_
+2	Ghalti	_	NOUN	NOUN	_	0	root	_	_
+3	nahi	_	PART	PART	_	4	neg	_	_
+4	hai	_	VERB	VERB	_	2	cop	_	_
+5	teri	_	PRON	PRON	_	6	nmod	_	_
+6	qusoor	_	NOUN	NOUN	_	2	nmod	_	_
+7	nazar	_	NOUN	NOUN	_	2	nmod	_	_
+8	ka	_	ADP	ADP	_	7	case	_	_
+9	hai	_	VERB	VERB	_	7	cop	_	_
+
+1	Aaj	_	NOUN	NOUN	_	3	nmod	_	_
+2	ehsas	_	NOUN	NOUN	_	3	compound	_	_
+3	hua	_	VERB	VERB	_	5	nsubj	_	_
+4	gareeb	_	ADJ	ADJ	_	5	compound	_	_
+5	hona	_	VERB	VERB	_	7	nsubj	_	_
+6	kya	_	PRON	PRON	_	7	advmod	_	_
+7	hota	_	VERB	VERB	_	0	root	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Ladne	_	VERB	VERB	_	5	advcl	_	_
+2	ke	_	ADP	ADP	_	1	mark	_	_
+3	liye	_	ADP	ADP	_	1	mark	_	_
+4	teyaar	_	ADJ	ADJ	_	5	compound	_	_
+5	hote	_	VERB	VERB	_	0	root	_	_
+6	hain	_	AUX	AUX	_	5	aux	_	_
+7	hum	_	PRON	PRON	_	10	root	_	_
+8	har	_	DET	DET	_	9	det	_	_
+9	waqt	_	NOUN	NOUN	_	10	root	_	_
+10	.	_	PUNCT	PUNCT	_	5	punct	_	_
+11	😨	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Dekh	_	VERB	VERB	_	4	advcl	_	_
+2	Kanhaiya	_	PROPN	PROPN	_	4	nsubj	_	_
+3	bohut	_	ADJ	ADJ	_	4	xcomp	_	_
+4	ho	_	VERB	VERB	_	0	root	_	_
+5	gaya	_	AUX	AUX	_	4	aux	_	_
+6	ab	_	PRON	PRON	_	4	nsubj	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ab	_	PRON	PRON	_	4	nmod	_	_
+2	kya	_	DET	DET	_	3	det	_	_
+3	jawab	_	NOUN	NOUN	_	4	dobj	_	_
+4	doon	_	VERB	VERB	_	5	acl:relcl	_	_
+5	main	_	PRON	PRON	_	6	nsubj	_	_
+6	saahib	_	PROPN	PROPN	_	0	root	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+8	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Lekin	_	CONJ	CONJ	_	5	cc	_	_
+2	tab	_	PRON	PRON	_	5	nmod	_	_
+3	mujhe	_	PRON	PRON	_	5	nsubj	_	_
+4	zara	_	DET	DET	_	5	det	_	_
+5	bhanak	_	NOUN	NOUN	_	0	root	_	_
+6	bhi	_	PART	PART	_	5	dep	_	_
+7	nahi	_	PART	PART	_	8	neg	_	_
+8	thi	_	VERB	VERB	_	5	cop	_	_
+9	ki	_	SCONJ	SCONJ	_	16	mark	_	_
+10	aaj	_	NOUN	NOUN	_	16	nmod	_	_
+11	mera	_	PRON	PRON	_	12	nmod	_	_
+12	yeh	_	PRON	PRON	_	16	nsubj	_	_
+13	naya	_	ADJ	ADJ	_	14	amod	_	_
+14	safar	_	NOUN	NOUN	_	16	nsubj	_	_
+15	shuru	_	NOUN	NOUN	_	16	compound	_	_
+16	ho	_	VERB	VERB	_	5	acl	_	_
+17	raha	_	AUX	AUX	_	16	aux	_	_
+18	hai	_	AUX	AUX	_	17	auxpass	_	_
+19	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Beta	_	NOUN	NOUN	_	2	nsubj	_	_
+2	business	_	PROPN	PROPN	_	0	root	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	ye	_	PRON	PRON	_	7	nsubj	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	koi	_	PRON	PRON	_	7	punct	_	_
+7	game	_	NOUN	NOUN	_	2	acl:relcl	_	_
+8	nahi	_	PART	PART	_	9	dep	_	_
+9	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Ghar	_	NOUN	NOUN	_	3	nmod	_	_
+2	pura	_	ADJ	ADJ	_	3	compound	_	_
+3	ho	_	VERB	VERB	_	0	root	_	_
+4	jaata	_	AUX	AUX	_	3	aux	_	_
+5	apna	_	PRON	PRON	_	3	nsubj	_	_
+6	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Baaki	_	ADJ	ADJ	_	2	amod	_	_
+2	jagah	_	NOUN	NOUN	_	10	nmod	_	_
+3	bhi	_	PART	PART	_	2	dep	_	_
+4	to	_	PART	PART	_	2	dep	_	_
+5	jaa	_	VERB	VERB	_	10	advcl	_	_
+6	rahe	_	AUX	AUX	_	5	aux	_	_
+7	ho	_	AUX	AUX	_	6	auxpass	_	_
+8	na	_	PART	PART	_	9	dep	_	_
+9	nyota	_	NOUN	NOUN	_	10	dobj	_	_
+10	dene	_	VERB	VERB	_	0	root	_	_
+11	?	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Mummy	_	PROPN	PROPN	_	4	nsubj	_	_
+2	ne	_	ADP	ADP	_	1	case	_	_
+3	nahin	_	PART	PART	_	4	neg	_	_
+4	banaye	_	VERB	VERB	_	0	root	_	_
+5	the	_	AUX	AUX	_	4	aux	_	_
+6	vo	_	PRON	PRON	_	4	dobj	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Bhaiyon	_	NOUN	NOUN	_	7	nsubj	_	_
+2	ne	_	ADP	ADP	_	1	case	_	_
+3	teri	_	NOUN	NOUN	_	7	dobj	_	_
+4	,	_	PUNCT	PUNCT	_	3	punct	_	_
+5	badi	_	ADJ	ADJ	_	6	amod	_	_
+6	durgat	_	NOUN	NOUN	_	3	conj	_	_
+7	machayi	_	VERB	VERB	_	0	root	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Tandon	_	PROPN	PROPN	_	7	nsubj	_	_
+2	ne	_	ADP	ADP	_	1	case	_	_
+3	khud	_	PRON	PRON	_	7	nsubj	_	_
+4	tumhe	_	PRON	PRON	_	7	dobj	_	_
+5	doond	_	NOUN	NOUN	_	7	nmod	_	_
+6	ke	_	ADP	ADP	_	5	case	_	_
+7	laa	_	VERB	VERB	_	0	root	_	_
+8	kar	_	AUX	AUX	_	7	aux	_	_
+9	diya	_	AUX	AUX	_	8	auxpass	_	_
+10	hai	_	AUX	AUX	_	9	auxpass	_	_
+11	apne	_	PRON	PRON	_	12	nmod	_	_
+12	ghar	_	NOUN	NOUN	_	7	nsubj	_	_
+13	se	_	ADP	ADP	_	12	case	_	_
+14	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Tere	_	PROPN	PROPN	_	8	dobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	hi	_	PART	PART	_	1	dep	_	_
+4	Bauji	_	PROPN	PROPN	_	8	nsubj	_	_
+5	sabse	_	ADV	ADV	_	6	advmod	_	_
+6	jyada	_	DET	DET	_	7	det	_	_
+7	prem	_	NOUN	NOUN	_	8	compound	_	_
+8	karte	_	VERB	VERB	_	11	acl:relcl	_	_
+9	hain	_	AUX	AUX	_	8	aux	_	_
+10	,	_	PUNCT	PUNCT	_	8	punct	_	_
+11	isiley	_	PRON	PRON	_	13	nmod	_	_
+12	Prasad	_	PROPN	PROPN	_	13	nsubj	_	_
+13	mila	_	VERB	VERB	_	0	root	_	_
+14	hai	_	AUX	AUX	_	13	aux	_	_
+15	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+1	Bade	_	ADJ	ADJ	_	2	amod	_	_
+2	utsukh	_	NOUN	NOUN	_	0	root	_	_
+3	hain	_	VERB	VERB	_	2	cop	_	_
+4	tumse	_	PRON	PRON	_	5	nsubj	_	_
+5	milne	_	VERB	VERB	_	2	acl:relcl	_	_
+6	ke	_	ADP	ADP	_	5	mark	_	_
+7	liye	_	ADP	ADP	_	5	mark	_	_
+8	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Tumhare	_	PRON	PRON	_	2	nmod	_	_
+2	yahan	_	PRON	PRON	_	4	nmod	_	_
+3	kaam	_	NOUN	NOUN	_	4	dobj	_	_
+4	karta	_	VERB	VERB	_	0	root	_	_
+5	tha	_	AUX	AUX	_	4	aux	_	_
+6	na	_	ADP	ADP	_	4	mark	_	_
+7	2	_	NUM	NUM	_	8	nummod	_	_
+8	saal	_	NOUN	NOUN	_	10	root	_	_
+9	se	_	ADP	ADP	_	8	case	_	_
+10	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Galt	_	ADJ	ADJ	_	2	amod	_	_
+2	faisla	_	NOUN	NOUN	_	3	compound	_	_
+3	karata	_	VERB	VERB	_	9	advcl	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	tu	_	PROPN	PROPN	_	9	nmod	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	ulta	_	ADJ	ADJ	_	8	amod	_	_
+8	sulta	_	NOUN	NOUN	_	9	dobj	_	_
+9	bolke	_	VERB	VERB	_	0	root	_	_
+10	hamesha	_	ADV	ADV	_	11	root	_	_
+11	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Dono	_	NUM	NUM	_	2	nummod	_	_
+2	qatl	_	NOUN	NOUN	_	3	compound	_	_
+3	karke	_	VERB	VERB	_	9	advcl	_	_
+4	pehle	_	ADV	ADV	_	9	nmod	_	_
+5	tumne	_	PRON	PRON	_	9	nsubj	_	_
+6	kamre	_	NOUN	NOUN	_	9	nmod	_	_
+7	sekhoon	_	NOUN	NOUN	_	9	dobj	_	_
+8	saaf	_	ADJ	ADJ	_	9	compound	_	_
+9	kiya	_	VERB	VERB	_	0	root	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Apne	_	PRON	PRON	_	3	nmod	_	_
+2	liye	_	ADP	ADP	_	1	case	_	_
+3	manga	_	NOUN	NOUN	_	0	root	_	_
+4	raha	_	AUX	AUX	_	3	aux	_	_
+5	hoon	_	AUX	AUX	_	4	auxpass	_	_
+6	dono	_	NOUN	NOUN	_	3	nmod	_	_
+7	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Karle	_	VERB	VERB	_	0	root	_	_
+2	pata	_	NOUN	NOUN	_	4	compound	_	_
+3	nahi	_	PART	PART	_	4	neg	_	_
+4	chalna	_	VERB	VERB	_	0	root	_	_
+5	kisi	_	PRON	PRON	_	6	root	_	_
+6	ko	_	ADP	ADP	_	4	mark	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Bahut	_	DET	DET	_	2	det	_	_
+2	khatarnak	_	ADJ	ADJ	_	3	xcomp	_	_
+3	lag	_	VERB	VERB	_	0	root	_	_
+4	rahee	_	AUX	AUX	_	3	aux	_	_
+5	ho	_	AUX	AUX	_	4	auxpass	_	_
+6	aaj	_	NOUN	NOUN	_	3	nsubj	_	_
+7	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Itne	_	DET	DET	_	2	det	_	_
+2	paise	_	NOUN	NOUN	_	3	nsubj	_	_
+3	aaaye	_	VERB	VERB	_	4	acl:relcl	_	_
+4	kahan	_	PRON	PRON	_	0	root	_	_
+5	se	_	ADP	ADP	_	4	case	_	_
+6	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Sun	_	VERB	VERB	_	10	advcl	_	_
+2	le	_	AUX	AUX	_	1	aux	_	_
+3	bakwaas	_	NOUN	NOUN	_	10	nsubj	_	_
+4	meri	_	PRON	PRON	_	6	nmod	_	_
+5	chup	_	ADJ	ADJ	_	6	amod	_	_
+6	chaap	_	NOUN	NOUN	_	10	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	6	punct	_	_
+8	usi	_	PRON	PRON	_	10	nmod	_	_
+9	mein	_	ADP	ADP	_	8	case	_	_
+10	bhala	_	NOUN	NOUN	_	0	root	_	_
+11	hai	_	VERB	VERB	_	10	cop	_	_
+12	tera	_	PRON	PRON	_	10	nmod	_	_
+13	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Card	_	NOUN	NOUN	_	4	nmod	_	_
+2	wale	_	ADP	ADP	_	1	case	_	_
+3	ki	_	ADP	ADP	_	1	case	_	_
+4	jaan	_	NOUN	NOUN	_	5	nsubj	_	_
+5	pehchaan	_	NOUN	NOUN	_	0	root	_	_
+6	hai	_	AUX	AUX	_	5	aux	_	_
+7	aapki	_	PRON	PRON	_	5	nmod	_	_
+8	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	So	_	VERB	VERB	_	10	advcl	_	_
+2	jao	_	AUX	AUX	_	1	aux	_	_
+3	kal	_	NOUN	NOUN	_	5	nmod	_	_
+4	subah	_	NOUN	NOUN	_	5	nmod	_	_
+5	uth	_	VERB	VERB	_	10	dobj	_	_
+6	ke	_	ADP	ADP	_	5	mark	_	_
+7	phir	_	ADV	ADV	_	10	advmod	_	_
+8	matam	_	NOUN	NOUN	_	10	dobj	_	_
+9	mana	_	NOUN	NOUN	_	10	compound	_	_
+10	lena	_	VERB	VERB	_	0	root	_	_
+11	!	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Itne	_	DET	DET	_	2	det	_	_
+2	saal	_	NOUN	NOUN	_	5	nmod	_	_
+3	mein	_	ADP	ADP	_	2	case	_	_
+4	kya	_	PRON	PRON	_	5	advmod	_	_
+5	seekha	_	VERB	VERB	_	0	root	_	_
+6	hai	_	AUX	AUX	_	5	aux	_	_
+7	tune	_	AUX	AUX	_	6	auxpass	_	_
+8	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Gift	_	NOUN	NOUN	_	2	dobj	_	_
+2	dena	_	VERB	VERB	_	9	nsubj	_	_
+3	hai	_	PART	PART	_	2	dep	_	_
+4	subah	_	NOUN	NOUN	_	6	nmod	_	_
+5	subah	_	NOUN	NOUN	_	6	nmod	_	_
+6	jaake	_	VERB	VERB	_	9	advcl	_	_
+7	Prince	_	PROPN	PROPN	_	9	nsubj	_	_
+8	ke	_	ADP	ADP	_	7	case	_	_
+9	gharpe	_	VERB	VERB	_	0	root	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Inse	_	PRON	PRON	_	11	nmod	_	_
+2	pehle	_	ADP	ADP	_	1	case	_	_
+3	itna	_	DET	DET	_	4	det	_	_
+4	support	_	NOUN	NOUN	_	5	compound	_	_
+5	karne	_	VERB	VERB	_	7	amod	_	_
+6	wale	_	ADP	ADP	_	5	mark	_	_
+7	pati	_	NOUN	NOUN	_	11	dobj	_	_
+8	maine	_	PRON	PRON	_	11	nsubj	_	_
+9	filmon	_	NOUN	NOUN	_	11	nmod	_	_
+10	mein	_	ADP	ADP	_	9	case	_	_
+11	dekhe	_	VERB	VERB	_	0	root	_	_
+12	the	_	AUX	AUX	_	11	aux	_	_
+13	khali	_	PROPN	PROPN	_	11	nsubj	_	_
+14	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	Ek	_	NUM	NUM	_	2	nummod	_	_
+2	mahine	_	NOUN	NOUN	_	8	nmod	_	_
+3	mein	_	ADP	ADP	_	2	case	_	_
+4	Ramesh	_	PROPN	PROPN	_	8	nsubj	_	_
+5	ne	_	ADP	ADP	_	4	case	_	_
+6	197	_	NUM	NUM	_	7	nummod	_	_
+7	calls	_	NOUN	NOUN	_	8	compound	_	_
+8	kiye	_	VERB	VERB	_	0	root	_	_
+9	hain	_	AUX	AUX	_	8	aux	_	_
+10	aapko	_	PRON	PRON	_	8	nsubj	_	_
+11	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Tumhare	_	PRON	PRON	_	2	nmod	_	_
+2	bas	_	NOUN	NOUN	_	6	nmod	_	_
+3	ka	_	ADP	ADP	_	2	case	_	_
+4	nahi	_	PART	PART	_	5	neg	_	_
+5	hai	_	VERB	VERB	_	2	cop	_	_
+6	dilli	_	PROPN	PROPN	_	8	nmod	_	_
+7	mein	_	ADP	ADP	_	6	case	_	_
+8	ab	_	PRON	PRON	_	0	root	_	_
+9	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Saadi	_	NOUN	NOUN	_	2	nsubj	_	_
+2	ho	_	VERB	VERB	_	0	root	_	_
+3	gayi	_	AUX	AUX	_	2	aux	_	_
+4	teri	_	PRON	PRON	_	7	nsubj	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	bada	_	ADJ	ADJ	_	7	xcomp	_	_
+7	hoja	_	VERB	VERB	_	2	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Toh	_	SCONJ	SCONJ	_	3	mark	_	_
+2	kya	_	PRON	PRON	_	3	advmod	_	_
+3	chahte	_	VERB	VERB	_	8	advcl	_	_
+4	ho	_	AUX	AUX	_	3	aux	_	_
+5	Bhagwaan	_	NOUN	NOUN	_	8	nsubj	_	_
+6	swayam	_	PRON	PRON	_	8	nmod	_	_
+7	prakat	_	ADJ	ADJ	_	8	compound	_	_
+8	ho	_	VERB	VERB	_	0	root	_	_
+9	jaaye	_	AUX	AUX	_	8	aux	_	_
+10	tumhare	_	PRON	PRON	_	8	nsubj	_	_
+11	samne	_	ADP	ADP	_	10	case	_	_
+12	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Chalo	_	PROPN	PROPN	_	2	compound	_	_
+2	aajao	_	PROPN	PROPN	_	3	nsubj	_	_
+3	dekhlo	_	VERB	VERB	_	0	root	_	_
+4	show	_	PROPN	PROPN	_	5	compound	_	_
+5	aap	_	PRON	PRON	_	3	dobj	_	_
+6	bhi	_	PART	PART	_	5	dep	_	_
+7	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Teri	_	PRON	PRON	_	2	nmod	_	_
+2	biwi	_	NOUN	NOUN	_	6	iobj	_	_
+3	ko	_	ADP	ADP	_	2	case	_	_
+4	kitna	_	DET	DET	_	5	det	_	_
+5	kasht	_	NOUN	NOUN	_	6	nsubj	_	_
+6	tu	_	VERB	VERB	_	13	advcl	_	_
+7	de	_	AUX	AUX	_	6	aux	_	_
+8	raha	_	AUX	AUX	_	7	auxpass	_	_
+9	hai	_	AUX	AUX	_	8	auxpass	_	_
+10	Sandip	_	PROPN	PROPN	_	13	nsubj	_	_
+11	,	_	PUNCT	PUNCT	_	10	punct	_	_
+12	woh	_	PRON	PRON	_	13	nsubj	_	_
+13	dikhayi	_	VERB	VERB	_	0	root	_	_
+14	nahi	_	PART	PART	_	13	neg	_	_
+15	de	_	AUX	AUX	_	13	aux	_	_
+16	raha	_	AUX	AUX	_	15	auxpass	_	_
+17	hai	_	AUX	AUX	_	16	auxpass	_	_
+18	?	_	PUNCT	PUNCT	_	13	punct	_	_
+
+1	Toh	_	SCONJ	SCONJ	_	4	mark	_	_
+2	phir	_	ADV	ADV	_	4	advmod	_	_
+3	kyun	_	PRON	PRON	_	4	advmod	_	_
+4	jaa	_	VERB	VERB	_	0	root	_	_
+5	rahe	_	AUX	AUX	_	4	aux	_	_
+6	ho	_	AUX	AUX	_	5	auxpass	_	_
+7	tum	_	DET	DET	_	8	det	_	_
+8	log	_	NOUN	NOUN	_	4	nsubj	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Kanahiya	_	PROPN	PROPN	_	6	nsubj	_	_
+2	kaam	_	NOUN	NOUN	_	6	nmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	seedha	_	ADJ	ADJ	_	5	amod	_	_
+5	ghar	_	NOUN	NOUN	_	6	nmod	_	_
+6	aaya	_	VERB	VERB	_	0	root	_	_
+7	tha	_	AUX	AUX	_	6	aux	_	_
+8	uss	_	DET	DET	_	9	det	_	_
+9	raat	_	NOUN	NOUN	_	6	nsubj	_	_
+10	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Parso	_	NOUN	NOUN	_	3	nmod	_	_
+2	toh	_	PART	PART	_	1	dep	_	_
+3	laaye	_	VERB	VERB	_	0	root	_	_
+4	the	_	AUX	AUX	_	3	aux	_	_
+5	do	_	NUM	NUM	_	6	nummod	_	_
+6	kilo	_	NOUN	NOUN	_	3	nsubj	_	_
+7	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Aisa	_	DET	DET	_	3	det	_	_
+2	nek	_	ADJ	ADJ	_	3	amod	_	_
+3	insaan	_	NOUN	NOUN	_	8	nsubj	_	_
+4	bhala	_	PART	PART	_	3	dep	_	_
+5	kyun	_	PRON	PRON	_	8	advmod	_	_
+6	kisi	_	PRON	PRON	_	8	dobj	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+8	pitwayega	_	VERB	VERB	_	0	root	_	_
+9	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Gali	_	NOUN	NOUN	_	3	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	ghusna	_	VERB	VERB	_	5	dobj	_	_
+4	band	_	ADJ	ADJ	_	5	compound	_	_
+5	kara	_	VERB	VERB	_	7	advcl	_	_
+6	dunga	_	AUX	AUX	_	5	aux	_	_
+7	tera	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Aur	_	CONJ	CONJ	_	5	cc	_	_
+2	aap	_	PRON	PRON	_	5	nsubj	_	_
+3	jo	_	DET	DET	_	4	det	_	_
+4	sab	_	PRON	PRON	_	5	dobj	_	_
+5	kar	_	VERB	VERB	_	0	root	_	_
+6	rahe	_	AUX	AUX	_	5	aux	_	_
+7	hain	_	AUX	AUX	_	6	auxpass	_	_
+8	phone	_	NOUN	NOUN	_	11	nmod	_	_
+9	par	_	ADP	ADP	_	8	case	_	_
+10	wosab	_	NOUN	NOUN	_	11	nsubj	_	_
+11	legal	_	X	X	_	5	nsubj	_	_
+12	hai	_	VERB	VERB	_	11	cop	_	_
+13	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Main	_	PRON	PRON	_	5	nsubj	_	_
+2	khilaoon	_	NOUN	NOUN	_	5	nsubj	_	_
+3	kya	_	PRON	PRON	_	5	advmod	_	_
+4	apne	_	PRON	PRON	_	5	nmod	_	_
+5	haath	_	NOUN	NOUN	_	0	root	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Teen	_	NUM	NUM	_	2	nsubj	_	_
+2	lakh	_	NUM	NUM	_	0	root	_	_
+3	nahi	_	PART	PART	_	4	neg	_	_
+4	hain	_	VERB	VERB	_	2	cop	_	_
+5	mere	_	PRON	PRON	_	2	nmod	_	_
+6	paas	_	ADP	ADP	_	5	case	_	_
+7	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	sharaab	_	NOUN	NOUN	_	3	nmod	_	_
+2	ke	_	ADP	ADP	_	1	case	_	_
+3	nashe	_	NOUN	NOUN	_	7	nmod	_	_
+4	mein	_	ADP	ADP	_	3	case	_	_
+5	sab	_	PRON	PRON	_	7	nsubj	_	_
+6	gadbad	_	ADJ	ADJ	_	7	compound	_	_
+7	ho	_	VERB	VERB	_	0	root	_	_
+8	gaya	_	AUX	AUX	_	7	aux	_	_
+9	us	_	DET	DET	_	10	det	_	_
+10	raat	_	NOUN	NOUN	_	7	nsubj	_	_
+11	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	meri	_	PRON	PRON	_	2	nmod	_	_
+2	salaah	_	NOUN	NOUN	_	0	root	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	ki	_	SCONJ	SCONJ	_	7	mark	_	_
+5	ye	_	DET	DET	_	6	det	_	_
+6	mauka	_	NOUN	NOUN	_	7	dobj	_	_
+7	khoiye	_	VERB	VERB	_	2	acl	_	_
+8	mat	_	PART	PART	_	7	neg	_	_
+9	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Bas	_	NOUN	NOUN	_	2	compound	_	_
+2	Neelu	_	NOUN	NOUN	_	6	nsubj	_	_
+3	,	_	PUNCT	PUNCT	_	2	punct	_	_
+4	tere	_	PRON	PRON	_	6	nmod	_	_
+5	hi	_	PART	PART	_	4	dep	_	_
+6	haath	_	NOUN	NOUN	_	0	root	_	_
+7	hai	_	VERB	VERB	_	6	cop	_	_
+8	iska	_	PRON	PRON	_	9	nmod	_	_
+9	hona	_	VERB	VERB	_	6	acl:relcl	_	_
+10	ab	_	PRON	PRON	_	11	root	_	_
+11	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Hamare	_	PRON	PRON	_	4	nmod	_	_
+2	bhi	_	PART	PART	_	1	dep	_	_
+3	toh	_	PART	PART	_	1	dep	_	_
+4	armaan	_	NOUN	NOUN	_	5	nsubj	_	_
+5	lage	_	VERB	VERB	_	0	root	_	_
+6	hain	_	AUX	AUX	_	5	aux	_	_
+7	ispe	_	PRON	PRON	_	5	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Aap	_	PRON	PRON	_	5	nsubj	_	_
+2	samajh	_	NOUN	NOUN	_	5	dobj	_	_
+3	kyon	_	PRON	PRON	_	5	advmod	_	_
+4	nahi	_	PART	PART	_	5	neg	_	_
+5	rahe	_	VERB	VERB	_	0	root	_	_
+6	ho	_	AUX	AUX	_	5	aux	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Aisa	_	DET	DET	_	2	det	_	_
+2	haal	_	NOUN	NOUN	_	4	compound	_	_
+3	na	_	PART	PART	_	4	neg	_	_
+4	kariyo	_	VERB	VERB	_	13	advcl	_	_
+5	meri	_	PRON	PRON	_	6	nmod	_	_
+6	Titli	_	NOUN	NOUN	_	13	nsubj	_	_
+7	ka	_	ADP	ADP	_	6	case	_	_
+8	kabhi	_	PRON	PRON	_	13	nmod	_	_
+9	,	_	PUNCT	PUNCT	_	8	punct	_	_
+10	jaisa	_	ADV	ADV	_	13	advmod	_	_
+11	mera	_	PRON	PRON	_	12	nmod	_	_
+12	aaj	_	NOUN	NOUN	_	13	nmod	_	_
+13	hua	_	VERB	VERB	_	0	root	_	_
+14	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+1	hamare	_	PRON	PRON	_	2	nmod	_	_
+2	kamre	_	NOUN	NOUN	_	8	nmod	_	_
+3	ka	_	ADP	ADP	_	2	case	_	_
+4	AC	_	NUM	NUM	_	8	nummod	_	_
+5	kharaab	_	ADJ	ADJ	_	8	amod	_	_
+6	tha	_	VERB	VERB	_	5	cop	_	_
+7	kai	_	DET	DET	_	8	det	_	_
+8	dino	_	NOUN	NOUN	_	0	root	_	_
+9	se	_	ADP	ADP	_	8	case	_	_
+10	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Bauji	_	PROPN	PROPN	_	7	nsubj	_	_
+2	aap	_	PRON	PRON	_	7	nsubj	_	_
+3	kya	_	PRON	PRON	_	7	advmod	_	_
+4	punarjanam	_	NOUN	NOUN	_	7	nmod	_	_
+5	mein	_	ADP	ADP	_	4	case	_	_
+6	viswaas	_	NOUN	NOUN	_	7	compound	_	_
+7	karte	_	VERB	VERB	_	0	root	_	_
+8	hain	_	AUX	AUX	_	7	aux	_	_
+9	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Galt	_	NOUN	NOUN	_	2	dobj	_	_
+2	kha	_	VERB	VERB	_	0	root	_	_
+3	liya	_	AUX	AUX	_	2	aux	_	_
+4	kuch	_	PRON	PRON	_	2	nsubj	_	_
+5	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	jab	_	PRON	PRON	_	3	nmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	mini	_	VERB	VERB	_	7	nsubj	_	_
+4	gayi	_	AUX	AUX	_	3	aux	_	_
+5	hai	_	AUX	AUX	_	4	auxpass	_	_
+6	koyi	_	PRON	PRON	_	7	dobj	_	_
+7	hai	_	VERB	VERB	_	0	root	_	_
+8	nahin	_	PART	PART	_	9	dep	_	_
+9	unka	_	PRON	PRON	_	10	nmod	_	_
+10	haath	_	NOUN	NOUN	_	11	compound	_	_
+11	bataaney	_	VERB	VERB	_	0	root	_	_
+12	ke	_	ADP	ADP	_	11	mark	_	_
+13	liye	_	ADP	ADP	_	11	mark	_	_
+
+1	Arre	_	SCONJ	SCONJ	_	0	root	_	_
+2	itna	_	DET	DET	_	7	det	_	_
+3	kaun	_	PRON	PRON	_	7	root	_	_
+4	khayega	_	VERB	VERB	_	7	root	_	_
+5	ghar	_	NOUN	NOUN	_	7	root	_	_
+6	pe	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Chittar	_	NOUN	NOUN	_	3	nsubj	_	_
+2	nahi	_	PART	PART	_	3	neg	_	_
+3	pade	_	VERB	VERB	_	5	acl	_	_
+4	bade	_	ADJ	ADJ	_	5	amod	_	_
+5	din	_	NOUN	NOUN	_	0	root	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Soch	_	VERB	VERB	_	7	advcl	_	_
+2	lo	_	AUX	AUX	_	1	aux	_	_
+3	aap	_	PRON	PRON	_	7	nsubj	_	_
+4	,	_	PUNCT	PUNCT	_	3	punct	_	_
+5	do	_	NUM	NUM	_	7	dobj	_	_
+6	hi	_	PART	PART	_	5	dep	_	_
+7	bache	_	VERB	VERB	_	0	root	_	_
+8	hain	_	AUX	AUX	_	7	aux	_	_
+9	aakhri	_	ADJ	ADJ	_	7	punct	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Mujhe	_	PRON	PRON	_	3	iobj	_	_
+2	chinta	_	NOUN	NOUN	_	3	compound	_	_
+3	horahi	_	VERB	VERB	_	0	root	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	bachchon	_	NOUN	NOUN	_	7	nmod	_	_
+6	ki	_	ADP	ADP	_	5	case	_	_
+7	apne	_	PRON	PRON	_	3	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Agar	_	SCONJ	SCONJ	_	15	mark	_	_
+2	aap	_	PRON	PRON	_	15	nsubj	_	_
+3	usey	_	PRON	PRON	_	7	iobj	_	_
+4	ek	_	NUM	NUM	_	5	nummod	_	_
+5	baar	_	NOUN	NOUN	_	7	nmod	_	_
+6	yaad	_	NOUN	NOUN	_	7	compound	_	_
+7	dila	_	VERB	VERB	_	15	advcl	_	_
+8	dete	_	AUX	AUX	_	7	aux	_	_
+9	Meri	_	PRON	PRON	_	15	nmod	_	_
+10	taraf	_	ADP	ADP	_	9	case	_	_
+11	se	_	ADP	ADP	_	10	case	_	_
+12	toh	_	PART	PART	_	10	dep	_	_
+13	bahut	_	DET	DET	_	14	det	_	_
+14	ahsaan	_	NOUN	NOUN	_	15	nsubj	_	_
+15	hota	_	VERB	VERB	_	0	root	_	_
+16	aapka	_	PRON	PRON	_	15	nsubj	_	_
+17	.	_	PUNCT	PUNCT	_	15	punct	_	_
+
+1	Birthday	_	PROPN	PROPN	_	2	nsubj	_	_
+2	gift	_	NOUN	NOUN	_	0	root	_	_
+3	hai	_	VERB	VERB	_	2	cop	_	_
+4	,	_	PUNCT	PUNCT	_	3	punct	_	_
+5	pasand	_	NOUN	NOUN	_	6	compound	_	_
+6	aana	_	VERB	VERB	_	11	root	_	_
+7	chahiye	_	AUX	AUX	_	6	aux	_	_
+8	saamne	_	ADV	ADV	_	11	root	_	_
+9	waale	_	ADP	ADP	_	8	case	_	_
+10	ko	_	ADP	ADP	_	8	case	_	_
+11	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Jhagda	_	NOUN	NOUN	_	2	compound	_	_
+2	hua	_	VERB	VERB	_	0	root	_	_
+3	kuch	_	DET	DET	_	5	det	_	_
+4	tum	_	DET	DET	_	5	det	_	_
+5	logon	_	NOUN	NOUN	_	2	nsubj	_	_
+6	ka	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Woh	_	PRON	PRON	_	5	nsubj	_	_
+2	kyun	_	PRON	PRON	_	5	advmod	_	_
+3	nahi	_	PART	PART	_	4	dep	_	_
+4	naukri	_	NOUN	NOUN	_	5	compound	_	_
+5	kar	_	VERB	VERB	_	0	root	_	_
+6	leta	_	AUX	AUX	_	5	aux	_	_
+7	hai	_	AUX	AUX	_	6	auxpass	_	_
+8	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Akash	_	NOUN	NOUN	_	3	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	udne	_	VERB	VERB	_	5	nmod	_	_
+4	ka	_	ADP	ADP	_	3	mark	_	_
+5	anubhav	_	NOUN	NOUN	_	0	root	_	_
+6	hai	_	VERB	VERB	_	5	cop	_	_
+7	tumhe	_	PRON	PRON	_	5	advmod	_	_
+8	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Dar	_	NOUN	NOUN	_	2	dobj	_	_
+2	lega	_	VERB	VERB	_	5	advcl	_	_
+3	toh	_	SCONJ	SCONJ	_	5	mark	_	_
+4	bhala	_	NOUN	NOUN	_	5	nsubj	_	_
+5	hoga	_	VERB	VERB	_	0	root	_	_
+6	tera	_	PRON	PRON	_	5	nsubj	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Abhi	_	PRON	PRON	_	6	nmod	_	_
+2	pichhle	_	ADJ	ADJ	_	3	amod	_	_
+3	somwar	_	PROPN	PROPN	_	6	nmod	_	_
+4	ko	_	ADP	ADP	_	3	case	_	_
+5	toh	_	PART	PART	_	3	dep	_	_
+6	diye	_	VERB	VERB	_	0	root	_	_
+7	the	_	AUX	AUX	_	6	aux	_	_
+8	pachaas	_	NUM	NUM	_	9	nummod	_	_
+9	rupaye	_	NOUN	NOUN	_	6	nsubj	_	_
+10	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Kuchh	_	PRON	PRON	_	2	dobj	_	_
+2	bata	_	VERB	VERB	_	0	root	_	_
+3	dijiyega	_	AUX	AUX	_	2	aux	_	_
+4	agar	_	SCONJ	SCONJ	_	7	mark	_	_
+5	karne	_	VERB	VERB	_	7	advcl	_	_
+6	ka	_	ADP	ADP	_	5	mark	_	_
+7	ho	_	VERB	VERB	_	2	advcl	_	_
+8	toh	_	SCONJ	SCONJ	_	0	root	_	_
+9	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Main	_	PRON	PRON	_	3	nsubj	_	_
+2	neeche	_	ADV	ADV	_	3	nmod	_	_
+3	ja	_	VERB	VERB	_	0	root	_	_
+4	raha	_	AUX	AUX	_	3	aux	_	_
+5	hoon	_	AUX	AUX	_	4	auxpass	_	_
+6	,	_	PUNCT	PUNCT	_	3	punct	_	_
+7	parking	_	NOUN	NOUN	_	8	dobj	_	_
+8	dekhne	_	VERB	VERB	_	3	conj	_	_
+9	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Main	_	PRON	PRON	_	2	nsubj	_	_
+2	batata	_	VERB	VERB	_	0	root	_	_
+3	hun	_	AUX	AUX	_	2	aux	_	_
+4	tujhe	_	PRON	PRON	_	8	nsubj	_	_
+5	haramkhor	_	ADJ	ADJ	_	6	amod	_	_
+6	narak	_	NOUN	NOUN	_	8	nmod	_	_
+7	ki	_	ADP	ADP	_	6	case	_	_
+8	paribhasha	_	NOUN	NOUN	_	2	dobj	_	_
+9	!	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Khaya	_	VERB	VERB	_	4	acl	_	_
+2	tune	_	AUX	AUX	_	1	auxpass	_	_
+3	kuch	_	DET	DET	_	4	det	_	_
+4	subah	_	NOUN	NOUN	_	0	root	_	_
+5	se	_	ADP	ADP	_	4	case	_	_
+6	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	bata	_	VERB	VERB	_	5	advcl	_	_
+2	de	_	AUX	AUX	_	1	aux	_	_
+3	chacha	_	PROPN	PROPN	_	5	nsubj	_	_
+4	ko	_	ADP	ADP	_	3	case	_	_
+5	jaa	_	VERB	VERB	_	0	root	_	_
+6	ke	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Harmeet	_	PROPN	PROPN	_	10	nsubj	_	_
+2	ji	_	PART	PART	_	1	dep	_	_
+3	doston	_	NOUN	NOUN	_	10	nmod	_	_
+4	mein	_	ADP	ADP	_	3	case	_	_
+5	kabhi	_	PRON	PRON	_	10	nmod	_	_
+6	kabhi	_	PRON	PRON	_	10	nmod	_	_
+7	kuchh	_	DET	DET	_	8	det	_	_
+8	anban	_	NOUN	NOUN	_	10	nsubj	_	_
+9	bhi	_	PART	PART	_	8	dep	_	_
+10	ho	_	VERB	VERB	_	0	root	_	_
+11	jati	_	AUX	AUX	_	10	aux	_	_
+12	hai	_	AUX	AUX	_	11	auxpass	_	_
+13	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Ghar	_	NOUN	NOUN	_	2	dobj	_	_
+2	chalke	_	VERB	VERB	_	0	root	_	_
+3	de	_	AUX	AUX	_	2	aux	_	_
+4	dete	_	AUX	AUX	_	3	auxpass	_	_
+5	hain	_	AUX	AUX	_	4	auxpass	_	_
+6	uske	_	PRON	PRON	_	2	nsubj	_	_
+7	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Madam	_	PROPN	PROPN	_	4	dobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	thanda	_	ADJ	ADJ	_	4	compound	_	_
+4	pilate	_	VERB	VERB	_	0	root	_	_
+5	hain	_	AUX	AUX	_	4	aux	_	_
+6	hum	_	PRON	PRON	_	7	nsubj	_	_
+7	tab	_	PRON	PRON	_	4	nsubj	_	_
+8	tak	_	ADP	ADP	_	7	case	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ji	_	PROPN	PROPN	_	2	compound	_	_
+2	wo	_	PROPN	PROPN	_	7	nsubj	_	_
+3	,	_	PUNCT	PUNCT	_	2	punct	_	_
+4	test	_	NOUN	NOUN	_	5	compound	_	_
+5	drive	_	NOUN	NOUN	_	7	compound	_	_
+6	nahin	_	PART	PART	_	7	neg	_	_
+7	karate	_	VERB	VERB	_	0	root	_	_
+8	hum	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Dard	_	NOUN	NOUN	_	3	nsubj	_	_
+2	nahi	_	PART	PART	_	3	neg	_	_
+3	hona	_	VERB	VERB	_	6	nsubj	_	_
+4	chahiye	_	AUX	AUX	_	3	aux	_	_
+5	na	_	PART	PART	_	6	neg	_	_
+6	tujhe	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Aur	_	CONJ	CONJ	_	7	cc	_	_
+2	jalalat	_	NOUN	NOUN	_	7	nsubj	_	_
+3	iss	_	DET	DET	_	4	det	_	_
+4	parivar	_	NOUN	NOUN	_	7	nmod	_	_
+5	mein	_	ADP	ADP	_	4	case	_	_
+6	na	_	PART	PART	_	7	neg	_	_
+7	jhel	_	VERB	VERB	_	0	root	_	_
+8	sakunga	_	AUX	AUX	_	7	aux	_	_
+9	main	_	PRON	PRON	_	7	nsubj	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Aap	_	PRON	PRON	_	7	nsubj	_	_
+2	ne	_	ADP	ADP	_	1	case	_	_
+3	jhumke	_	ADV	ADV	_	7	advmod	_	_
+4	bade	_	ADJ	ADJ	_	5	amod	_	_
+5	kamaal	_	NOUN	NOUN	_	7	nmod	_	_
+6	ke	_	ADP	ADP	_	5	case	_	_
+7	pehne	_	VERB	VERB	_	0	root	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Isko	_	PRON	PRON	_	8	dobj	_	_
+2	toh	_	PART	PART	_	1	dep	_	_
+3	pata	_	NOUN	NOUN	_	8	dobj	_	_
+4	bhi	_	PART	PART	_	3	dep	_	_
+5	na	_	PART	PART	_	7	dep	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	Mummy	_	PROPN	PROPN	_	8	acl	_	_
+8	kehte	_	VERB	VERB	_	0	root	_	_
+9	kise	_	PRON	PRON	_	0	root	_	_
+10	hain	_	VERB	VERB	_	9	cop	_	_
+11	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Mere	_	PRON	PRON	_	3	nmod	_	_
+2	saath	_	ADP	ADP	_	1	case	_	_
+3	rehle	_	VERB	VERB	_	0	root	_	_
+4	,	_	PUNCT	PUNCT	_	3	punct	_	_
+5	jab	_	PRON	PRON	_	9	nmod	_	_
+6	tak	_	ADP	ADP	_	5	case	_	_
+7	talaq	_	NOUN	NOUN	_	9	nsubj	_	_
+8	nahi	_	PART	PART	_	9	neg	_	_
+9	ho	_	VERB	VERB	_	3	advcl	_	_
+10	jata	_	AUX	AUX	_	9	aux	_	_
+11	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Roti	_	NOUN	NOUN	_	3	nmod	_	_
+2	saath	_	ADP	ADP	_	1	case	_	_
+3	baith	_	VERB	VERB	_	5	advcl	_	_
+4	ke	_	ADP	ADP	_	3	mark	_	_
+5	khayenge	_	VERB	VERB	_	0	root	_	_
+6	saare	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Bas	_	NOUN	NOUN	_	3	dobj	_	_
+2	khatam	_	ADJ	ADJ	_	3	compound	_	_
+3	karte	_	VERB	VERB	_	5	acl:relcl	_	_
+4	hain	_	AUX	AUX	_	3	aux	_	_
+5	yahin	_	PRON	PRON	_	8	nmod	_	_
+6	baat	_	NOUN	NOUN	_	8	dobj	_	_
+7	ko	_	ADP	ADP	_	6	case	_	_
+8	saari	_	ADJ	ADJ	_	0	root	_	_
+9	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Ye	_	PRON	PRON	_	4	nmod	_	_
+2	jaisa	_	ADP	ADP	_	1	case	_	_
+3	aapko	_	PRON	PRON	_	4	nsubj	_	_
+4	lag	_	VERB	VERB	_	0	root	_	_
+5	raha	_	AUX	AUX	_	4	aux	_	_
+6	hai	_	AUX	AUX	_	5	auxpass	_	_
+7	,	_	PUNCT	PUNCT	_	4	punct	_	_
+8	waise	_	ADJ	ADJ	_	4	nmod	_	_
+9	nahi	_	PART	PART	_	10	neg	_	_
+10	hai	_	VERB	VERB	_	8	cop	_	_
+11	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Achanak	_	ADV	ADV	_	2	advmod	_	_
+2	hogaya	_	VERB	VERB	_	8	acl	_	_
+3	sab	_	PRON	PRON	_	8	mark	_	_
+4	kuch	_	PRON	PRON	_	8	nmod	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	bas	_	PRON	PRON	_	8	nsubj	_	_
+7	wohi	_	DET	DET	_	8	det	_	_
+8	tension	_	NOUN	NOUN	_	0	root	_	_
+9	hai	_	VERB	VERB	_	8	cop	_	_
+10	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Muraad	_	NOUN	NOUN	_	3	nsubj	_	_
+2	puri	_	ADJ	ADJ	_	3	compound	_	_
+3	hui	_	VERB	VERB	_	0	root	_	_
+4	nahin	_	PART	PART	_	3	neg	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	naam	_	NOUN	NOUN	_	9	nmod	_	_
+7	se	_	ADP	ADP	_	6	case	_	_
+8	kaam	_	NOUN	NOUN	_	9	dobj	_	_
+9	chala	_	VERB	VERB	_	3	conj	_	_
+10	liya	_	AUX	AUX	_	9	aux	_	_
+11	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Haan	_	PRON	PRON	_	7	nsubj	_	_
+2	wo	_	PRON	PRON	_	7	dobj	_	_
+3	,	_	PUNCT	PUNCT	_	2	punct	_	_
+4	mummy	_	PROPN	PROPN	_	2	conj	_	_
+5	ne	_	ADP	ADP	_	4	case	_	_
+6	bhi	_	PART	PART	_	4	dep	_	_
+7	milna	_	VERB	VERB	_	0	root	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+9	iski	_	PRON	PRON	_	7	nsubj	_	_
+10	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Khanduri	_	PROPN	PROPN	_	5	nsubj	_	_
+2	saab	_	PRON	PRON	_	5	nmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	baat	_	NOUN	NOUN	_	5	compound	_	_
+5	ho	_	VERB	VERB	_	0	root	_	_
+6	gayi	_	AUX	AUX	_	5	aux	_	_
+7	meri	_	PRON	PRON	_	5	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Sattu	_	NOUN	NOUN	_	3	nsubj	_	_
+2	chicken	_	NOUN	NOUN	_	3	dobj	_	_
+3	banaya	_	VERB	VERB	_	0	root	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	bhai	_	NOUN	NOUN	_	3	nsubj	_	_
+6	ne	_	ADP	ADP	_	5	case	_	_
+7	,	_	PUNCT	PUNCT	_	5	punct	_	_
+8	bhabhi	_	NOUN	NOUN	_	5	conj	_	_
+9	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Abhi	_	PRON	PRON	_	3	nmod	_	_
+2	kahan	_	PRON	PRON	_	3	nmod	_	_
+3	jayegi	_	VERB	VERB	_	4	acl	_	_
+4	tu	_	NOUN	NOUN	_	5	nsubj	_	_
+5	raat	_	NOUN	NOUN	_	0	root	_	_
+6	mein	_	ADP	ADP	_	5	case	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Sun	_	VERB	VERB	_	9	advcl	_	_
+2	tu	_	AUX	AUX	_	1	aux	_	_
+3	Daddy	_	PROPN	PROPN	_	5	nmod	_	_
+4	ki	_	ADP	ADP	_	3	case	_	_
+5	baat	_	NOUN	NOUN	_	8	nmod	_	_
+6	ka	_	ADP	ADP	_	5	case	_	_
+7	bura	_	ADJ	ADJ	_	8	amod	_	_
+8	mat	_	NOUN	NOUN	_	9	dobj	_	_
+9	maniyo	_	VERB	VERB	_	0	root	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Bhai	_	NOUN	NOUN	_	0	root	_	_
+2	nahi	_	PART	PART	_	3	neg	_	_
+3	hai	_	VERB	VERB	_	1	cop	_	_
+4	tu	_	PRON	PRON	_	5	nsubj	_	_
+5	mera	_	PRON	PRON	_	1	nmod	_	_
+6	?	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Abe	_	ADV	ADV	_	3	advmod	_	_
+2	khush	_	ADJ	ADJ	_	3	compound	_	_
+3	hoja	_	VERB	VERB	_	0	root	_	_
+4	ab	_	PRON	PRON	_	8	nmod	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	manhusiyat	_	NOUN	NOUN	_	8	nmod	_	_
+7	ke	_	ADP	ADP	_	6	case	_	_
+8	pujari	_	NOUN	NOUN	_	3	nsubj	_	_
+9	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Kaun	_	PRON	PRON	_	3	punct	_	_
+2	sa	_	PART	PART	_	1	dep	_	_
+3	paper	_	NOUN	NOUN	_	4	nsubj	_	_
+4	aata	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	aapke	_	PRON	PRON	_	7	nmod	_	_
+7	yahan	_	PRON	PRON	_	4	nsubj	_	_
+8	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Aap	_	PRON	PRON	_	8	nsubj	_	_
+2	log	_	NOUN	NOUN	_	8	nsubj	_	_
+3	koot	_	NOUN	NOUN	_	5	nmod	_	_
+4	ke	_	ADP	ADP	_	3	case	_	_
+5	aaye	_	VERB	VERB	_	8	acl	_	_
+6	hoge	_	AUX	AUX	_	5	aux	_	_
+7	khoob	_	DET	DET	_	8	det	_	_
+8	usko	_	PRON	PRON	_	0	root	_	_
+9	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Baat	_	NOUN	NOUN	_	6	dobj	_	_
+2	suno	_	PROPN	PROPN	_	6	nsubj	_	_
+3	ek	_	NUM	NUM	_	4	nummod	_	_
+4	baar	_	NOUN	NOUN	_	6	nmod	_	_
+5	aap	_	PRON	PRON	_	6	nmod	_	_
+6	meri	_	PRON	PRON	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Neelu	_	ADJ	ADJ	_	0	root	_	_
+2	hai	_	VERB	VERB	_	1	cop	_	_
+3	na	_	PART	PART	_	5	dep	_	_
+4	!	_	PUNCT	PUNCT	_	3	punct	_	_
+5	Aap	_	PRON	PRON	_	8	nsubj	_	_
+6	ghabra	_	VERB	VERB	_	8	advcl	_	_
+7	kyon	_	PRON	PRON	_	8	advmod	_	_
+8	rahe	_	VERB	VERB	_	1	nsubj	_	_
+9	ho	_	AUX	AUX	_	8	aux	_	_
+10	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Ye	_	DET	DET	_	2	det	_	_
+2	haath	_	NOUN	NOUN	_	3	nsubj	_	_
+3	jude	_	VERB	VERB	_	0	root	_	_
+4	hain	_	AUX	AUX	_	3	aux	_	_
+5	ji	_	PROPN	PROPN	_	3	nsubj	_	_
+6	hamare	_	PRON	PRON	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Bhabhi	_	PROPN	PROPN	_	6	nmod	_	_
+2	ke	_	ADP	ADP	_	1	case	_	_
+3	aage	_	ADP	ADP	_	1	case	_	_
+4	kisi	_	PRON	PRON	_	6	nsubj	_	_
+5	ki	_	ADP	ADP	_	4	case	_	_
+6	chalti	_	VERB	VERB	_	0	root	_	_
+7	nahi	_	PART	PART	_	6	neg	_	_
+8	,	_	PUNCT	PUNCT	_	7	punct	_	_
+9	aapko	_	PRON	PRON	_	10	iobj	_	_
+10	pata	_	NOUN	NOUN	_	6	conj	_	_
+11	hai	_	VERB	VERB	_	10	cop	_	_
+12	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Kamre	_	NOUN	NOUN	_	3	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	mila	_	VERB	VERB	_	4	acl	_	_
+4	dono	_	NOUN	NOUN	_	6	nmod	_	_
+5	ka	_	ADP	ADP	_	4	case	_	_
+6	khoon	_	NOUN	NOUN	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	To	_	SCONJ	SCONJ	_	9	mark	_	_
+2	tu	_	NOUN	NOUN	_	9	nsubj	_	_
+3	kya	_	PRON	PRON	_	9	advmod	_	_
+4	iss	_	DET	DET	_	5	det	_	_
+5	chakker	_	NOUN	NOUN	_	9	nmod	_	_
+6	mein	_	ADP	ADP	_	5	case	_	_
+7	kuch	_	PRON	PRON	_	9	dobj	_	_
+8	nahin	_	PART	PART	_	9	neg	_	_
+9	kar	_	VERB	VERB	_	0	root	_	_
+10	rahi	_	AUX	AUX	_	9	aux	_	_
+11	ab	_	PRON	PRON	_	9	nsubj	_	_
+12	tak	_	ADP	ADP	_	11	case	_	_
+13	?	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Aap	_	PRON	PRON	_	0	root	_	_
+2	log	_	NOUN	NOUN	_	5	nmod	_	_
+3	saath	_	ADP	ADP	_	2	case	_	_
+4	nahin	_	PART	PART	_	5	neg	_	_
+5	ho	_	VERB	VERB	_	0	root	_	_
+6	ek	_	NUM	NUM	_	7	nummod	_	_
+7	saal	_	NOUN	NOUN	_	9	root	_	_
+8	se	_	ADP	ADP	_	7	case	_	_
+9	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Pehchaan	_	NOUN	NOUN	_	4	nmod	_	_
+2	ke	_	ADP	ADP	_	1	case	_	_
+3	liye	_	ADP	ADP	_	1	case	_	_
+4	koi	_	PRON	PRON	_	0	root	_	_
+5	hai	_	VERB	VERB	_	4	cop	_	_
+6	saath	_	ADV	ADV	_	4	advmod	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Mere	_	PRON	PRON	_	2	nmod	_	_
+2	mann	_	NOUN	NOUN	_	4	nmod	_	_
+3	mein	_	ADP	ADP	_	2	case	_	_
+4	ijjat	_	NOUN	NOUN	_	0	root	_	_
+5	hai	_	VERB	VERB	_	4	cop	_	_
+6	tere	_	PRON	PRON	_	8	nmod	_	_
+7	liye	_	ADP	ADP	_	6	case	_	_
+8	badi	_	VERB	VERB	_	4	acl:relcl	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Bhabhi	_	PROPN	PROPN	_	7	nsubj	_	_
+2	koi	_	PRON	PRON	_	3	nsubj	_	_
+3	apni	_	PRON	PRON	_	5	nmod	_	_
+4	south	_	PROPN	PROPN	_	5	compound	_	_
+5	delhi	_	PROPN	PROPN	_	7	nmod	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	kam	_	ADJ	ADJ	_	0	root	_	_
+8	hai	_	VERB	VERB	_	7	cop	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Aap	_	PRON	PRON	_	9	nsubj	_	_
+2	logon	_	NOUN	NOUN	_	4	nmod	_	_
+3	ke	_	ADP	ADP	_	2	case	_	_
+4	chakkar	_	NOUN	NOUN	_	9	nmod	_	_
+5	mein	_	ADP	ADP	_	4	case	_	_
+6	,	_	PUNCT	PUNCT	_	4	punct	_	_
+7	hum	_	PRON	PRON	_	9	nmod	_	_
+8	dono	_	NOUN	NOUN	_	9	dobj	_	_
+9	pis	_	VERB	VERB	_	11	acl:relcl	_	_
+10	rahe	_	AUX	AUX	_	9	aux	_	_
+11	ab	_	PRON	PRON	_	0	root	_	_
+12	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	Bana	_	VERB	VERB	_	3	acl	_	_
+2	banaya	_	AUX	AUX	_	1	aux	_	_
+3	khel	_	NOUN	NOUN	_	4	dobj	_	_
+4	bigad	_	VERB	VERB	_	0	root	_	_
+5	jega	_	AUX	AUX	_	4	aux	_	_
+6	pura	_	ADJ	ADJ	_	4	punct	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Bas	_	NOUN	NOUN	_	2	compound	_	_
+2	karo	_	VERB	VERB	_	6	advcl	_	_
+3	bai	_	PART	PART	_	2	dep	_	_
+4	half	_	NOUN	NOUN	_	6	nsubj	_	_
+5	time	_	X	X	_	6	compound	_	_
+6	ho	_	VERB	VERB	_	0	root	_	_
+7	gaya	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Saath	_	ADV	ADV	_	5	nmod	_	_
+2	muft	_	ADJ	ADJ	_	3	amod	_	_
+3	kya	_	PRON	PRON	_	5	advmod	_	_
+4	kya	_	PRON	PRON	_	5	advmod	_	_
+5	dete	_	VERB	VERB	_	0	root	_	_
+6	ho	_	AUX	AUX	_	5	aux	_	_
+7	aap	_	PRON	PRON	_	5	nsubj	_	_
+8	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Baandh	_	NOUN	NOUN	_	6	nmod	_	_
+2	ke	_	ADP	ADP	_	1	case	_	_
+3	peeche	_	ADP	ADP	_	1	case	_	_
+4	se	_	ADP	ADP	_	3	case	_	_
+5	chori	_	NOUN	NOUN	_	6	nsubj	_	_
+6	hui	_	VERB	VERB	_	0	root	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+8	abhi	_	PRON	PRON	_	6	nsubj	_	_
+9	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	To	_	SCONJ	SCONJ	_	3	mark	_	_
+2	kaun	_	PRON	PRON	_	3	nsubj	_	_
+3	kar	_	VERB	VERB	_	0	root	_	_
+4	raha	_	AUX	AUX	_	3	aux	_	_
+5	hai	_	AUX	AUX	_	4	auxpass	_	_
+6	pareshaan	_	ADJ	ADJ	_	7	amod	_	_
+7	tumhe	_	PRON	PRON	_	3	nsubj	_	_
+8	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Paise	_	NOUN	NOUN	_	5	nsubj	_	_
+2	waise	_	PRON	PRON	_	5	nmod	_	_
+3	koi	_	PRON	PRON	_	5	iobj	_	_
+4	na	_	PART	PART	_	5	neg	_	_
+5	milte	_	VERB	VERB	_	10	nsubj	_	_
+6	wapas	_	ADJ	ADJ	_	10	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	6	punct	_	_
+8	ek	_	NUM	NUM	_	10	nsubj	_	_
+9	baari	_	ADJ	ADJ	_	10	compound	_	_
+10	gaye	_	VERB	VERB	_	0	root	_	_
+11	toh	_	SCONJ	SCONJ	_	12	root	_	_
+12	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Ji	_	PART	PART	_	2	dep	_	_
+2	wo	_	PRON	PRON	_	5	nsubj	_	_
+3	sharaab	_	NOUN	NOUN	_	5	dobj	_	_
+4	to	_	PART	PART	_	3	dep	_	_
+5	peeta	_	VERB	VERB	_	0	root	_	_
+6	hee	_	PART	PART	_	5	dep	_	_
+7	nahi	_	PART	PART	_	5	neg	_	_
+8	tha	_	AUX	AUX	_	5	aux	_	_
+9	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Tumhe	_	PRON	PRON	_	7	nsubj	_	_
+2	toh	_	PART	PART	_	1	dep	_	_
+3	koi	_	PRON	PRON	_	4	dep	_	_
+4	kuchh	_	PRON	PRON	_	5	dobj	_	_
+5	kahta	_	VERB	VERB	_	7	advcl	_	_
+6	nahi	_	PART	PART	_	7	neg	_	_
+7	Sunate	_	VERB	VERB	_	10	advcl	_	_
+8	toh	_	SCONJ	SCONJ	_	10	mark	_	_
+9	sab	_	PRON	PRON	_	10	nsubj	_	_
+10	mujhe	_	PRON	PRON	_	0	root	_	_
+11	hain	_	VERB	VERB	_	10	cop	_	_
+12	na	_	AUX	AUX	_	11	aux	_	_
+13	!	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Kasam	_	NOUN	NOUN	_	2	compound	_	_
+2	deni	_	VERB	VERB	_	4	acl:relcl	_	_
+3	hai	_	AUX	AUX	_	2	aux	_	_
+4	tujhe	_	PRON	PRON	_	0	root	_	_
+5	ek	_	NUM	NUM	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Bhagwan	_	NOUN	NOUN	_	4	dobj	_	_
+2	ji	_	PART	PART	_	1	dep	_	_
+3	maaf	_	ADJ	ADJ	_	4	compound	_	_
+4	kar	_	VERB	VERB	_	10	nsubj	_	_
+5	dena	_	AUX	AUX	_	4	aux	_	_
+6	inko	_	PRON	PRON	_	10	nsubj	_	_
+7	Inka	_	PRON	PRON	_	8	nmod	_	_
+8	dimaag	_	NOUN	NOUN	_	10	dobj	_	_
+9	toh	_	PART	PART	_	8	dep	_	_
+10	jaante	_	VERB	VERB	_	14	acl:relcl	_	_
+11	hi	_	PART	PART	_	10	dep	_	_
+12	ho	_	AUX	AUX	_	10	aux	_	_
+13	na	_	PART	PART	_	14	dep	_	_
+14	aap	_	PRON	PRON	_	0	root	_	_
+15	?	_	PUNCT	PUNCT	_	14	punct	_	_
+
+1	Mujhe	_	PRON	PRON	_	3	nsubj	_	_
+2	nahin	_	PART	PART	_	3	neg	_	_
+3	rehna	_	VERB	VERB	_	0	root	_	_
+4	yahan	_	PRON	PRON	_	0	root	_	_
+5	narak	_	NOUN	NOUN	_	0	root	_	_
+6	mein	_	ADP	ADP	_	5	case	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Naam	_	NOUN	NOUN	_	3	nsubj	_	_
+2	bada	_	ADJ	ADJ	_	3	nsubj	_	_
+3	badhiya	_	ADJ	ADJ	_	0	root	_	_
+4	hai	_	VERB	VERB	_	3	cop	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	kaise	_	PRON	PRON	_	7	advmod	_	_
+7	pada	_	VERB	VERB	_	3	conj	_	_
+8	,	_	PUNCT	PUNCT	_	7	punct	_	_
+9	pooch	_	VERB	VERB	_	3	conj	_	_
+10	rahe	_	AUX	AUX	_	9	aux	_	_
+11	the	_	AUX	AUX	_	10	auxpass	_	_
+12	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Main	_	PRON	PRON	_	4	nsubj	_	_
+2	toh	_	PART	PART	_	1	dep	_	_
+3	kabhi	_	PRON	PRON	_	4	nmod	_	_
+4	gaya	_	VERB	VERB	_	0	root	_	_
+5	nahi	_	PART	PART	_	4	neg	_	_
+6	na	_	PART	PART	_	4	neg	_	_
+7	Amsterdam	_	PROPN	PROPN	_	4	nmod	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Aakhri	_	ADJ	ADJ	_	2	amod	_	_
+2	baar	_	NOUN	NOUN	_	4	nmod	_	_
+3	kahan	_	PRON	PRON	_	4	nmod	_	_
+4	mile	_	VERB	VERB	_	6	acl:relcl	_	_
+5	the	_	AUX	AUX	_	4	aux	_	_
+6	tum	_	PRON	PRON	_	7	nsubj	_	_
+7	Khempal	_	PROPN	PROPN	_	0	root	_	_
+8	se	_	ADP	ADP	_	7	case	_	_
+9	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Aadmi	_	NOUN	NOUN	_	3	nmod	_	_
+2	ka	_	ADP	ADP	_	1	case	_	_
+3	dimag	_	NOUN	NOUN	_	5	nsubj	_	_
+4	na	_	PART	PART	_	5	neg	_	_
+5	hota	_	VERB	VERB	_	7	acl:relcl	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	toh	_	PRON	PRON	_	9	nmod	_	_
+8	langoor	_	NOUN	NOUN	_	9	nsubj	_	_
+9	hota	_	VERB	VERB	_	0	root	_	_
+10	aadmi	_	NOUN	NOUN	_	9	nsubj	_	_
+11	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Dekha	_	VERB	VERB	_	2	advcl	_	_
+2	kahan	_	VERB	VERB	_	0	root	_	_
+3	hai	_	AUX	AUX	_	2	aux	_	_
+4	tune	_	PRON	PRON	_	0	root	_	_
+5	narak	_	NOUN	NOUN	_	0	root	_	_
+6	abhi	_	PRON	PRON	_	0	root	_	_
+7	tak	_	ADP	ADP	_	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Neelu	_	PROPN	PROPN	_	3	nmod	_	_
+2	ke	_	ADP	ADP	_	1	case	_	_
+3	paise	_	NOUN	NOUN	_	4	dobj	_	_
+4	cheen	_	VERB	VERB	_	10	advcl	_	_
+5	kar	_	AUX	AUX	_	4	aux	_	_
+6	Vikram	_	PROPN	PROPN	_	10	nsubj	_	_
+7	aapke	_	PRON	PRON	_	10	nmod	_	_
+8	wale	_	ADP	ADP	_	7	case	_	_
+9	chukayega	_	VERB	VERB	_	10	acl	_	_
+10	bolraha	_	NOUN	NOUN	_	0	root	_	_
+11	hai	_	VERB	VERB	_	10	cop	_	_
+12	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Tu	_	VERB	VERB	_	3	advcl	_	_
+2	kar	_	AUX	AUX	_	1	aux	_	_
+3	le	_	VERB	VERB	_	5	advcl	_	_
+4	tujhe	_	PRON	PRON	_	5	nsubj	_	_
+5	karni	_	VERB	VERB	_	0	root	_	_
+6	hai	_	AUX	AUX	_	5	aux	_	_
+7	toh	_	SCONJ	SCONJ	_	8	mark	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Dhande	_	PROPN	PROPN	_	4	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	peeche	_	ADV	ADV	_	4	nmod	_	_
+4	chal	_	VERB	VERB	_	0	root	_	_
+5	rahe	_	AUX	AUX	_	4	aux	_	_
+6	hum	_	AUX	AUX	_	5	auxpass	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Register	_	NOUN	NOUN	_	5	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	naam	_	NOUN	NOUN	_	5	dobj	_	_
+4	pata	_	NOUN	NOUN	_	5	compound	_	_
+5	likh	_	VERB	VERB	_	0	root	_	_
+6	dijiye	_	AUX	AUX	_	5	aux	_	_
+7	apna	_	PRON	PRON	_	8	root	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Mantri	_	NOUN	NOUN	_	4	nsubj	_	_
+2	ji	_	PROPN	PROPN	_	4	dobj	_	_
+3	milna	_	VERB	VERB	_	4	dobj	_	_
+4	chahte	_	VERB	VERB	_	0	root	_	_
+5	the	_	AUX	AUX	_	4	aux	_	_
+6	aapse	_	PRON	PRON	_	4	dobj	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Dekho	_	VERB	VERB	_	13	advcl	_	_
+2	aisa	_	DET	DET	_	3	det	_	_
+3	kaam	_	NOUN	NOUN	_	6	dobj	_	_
+4	main	_	PRON	PRON	_	6	nsubj	_	_
+5	kaise	_	PRON	PRON	_	6	advmod	_	_
+6	karoon	_	VERB	VERB	_	13	advcl	_	_
+7	jahan	_	PRON	PRON	_	13	nmod	_	_
+8	logo	_	NOUN	NOUN	_	13	nmod	_	_
+9	se	_	ADP	ADP	_	8	case	_	_
+10	baar	_	NOUN	NOUN	_	13	advmod	_	_
+11	baar	_	NOUN	NOUN	_	13	nmod	_	_
+12	jhooth	_	NOUN	NOUN	_	13	dobj	_	_
+13	bolna	_	VERB	VERB	_	0	root	_	_
+14	padta	_	AUX	AUX	_	13	aux	_	_
+15	hai	_	AUX	AUX	_	14	auxpass	_	_
+16	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+1	Isne	_	PRON	PRON	_	6	nsubj	_	_
+2	apni	_	PRON	PRON	_	3	nmod	_	_
+3	padhayi	_	NOUN	NOUN	_	6	nmod	_	_
+4	ke	_	ADP	ADP	_	3	case	_	_
+5	liye	_	ADP	ADP	_	3	case	_	_
+6	rakhe	_	VERB	VERB	_	0	root	_	_
+7	the	_	AUX	AUX	_	6	aux	_	_
+8	wo	_	PRON	PRON	_	6	dobj	_	_
+9	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	phir	_	ADV	ADV	_	6	advmod	_	_
+2	bhee	_	PART	PART	_	1	dep	_	_
+3	aap	_	PRON	PRON	_	6	iobj	_	_
+4	ko	_	ADP	ADP	_	3	case	_	_
+5	kuch	_	PRON	PRON	_	6	dobj	_	_
+6	sunai	_	VERB	VERB	_	0	root	_	_
+7	nahi	_	PART	PART	_	6	neg	_	_
+8	diya	_	AUX	AUX	_	6	aux	_	_
+9	uss	_	DET	DET	_	10	det	_	_
+10	raat	_	NOUN	NOUN	_	6	nsubj	_	_
+11	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Dar	_	NOUN	NOUN	_	2	dobj	_	_
+2	mara	_	VERB	VERB	_	0	root	_	_
+3	hai	_	AUX	AUX	_	2	aux	_	_
+4	tere	_	PRON	PRON	_	5	nmod	_	_
+5	bhaiyon	_	NOUN	NOUN	_	2	nsubj	_	_
+6	ka	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Tumhari	_	PRON	PRON	_	2	nmod	_	_
+2	bhatiji	_	NOUN	NOUN	_	4	nmod	_	_
+3	ki	_	ADP	ADP	_	2	case	_	_
+4	shaadi	_	NOUN	NOUN	_	0	root	_	_
+5	hai	_	VERB	VERB	_	4	cop	_	_
+6	aakhir	_	ADV	ADV	_	4	advmod	_	_
+7	!	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Bade	_	ADJ	ADJ	_	3	amod	_	_
+2	bade	_	ADJ	ADJ	_	1	amod	_	_
+3	hatyaroon	_	NOUN	NOUN	_	5	dobj	_	_
+4	ko	_	ADP	ADP	_	3	case	_	_
+5	pakda	_	VERB	VERB	_	0	root	_	_
+6	hain	_	AUX	AUX	_	5	aux	_	_
+7	maine	_	PRON	PRON	_	5	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Kisi	_	PRON	PRON	_	3	nsubj	_	_
+2	ne	_	ADP	ADP	_	1	case	_	_
+3	dekha	_	VERB	VERB	_	0	root	_	_
+4	toh	_	SCONJ	SCONJ	_	7	mark	_	_
+5	nahin	_	PART	PART	_	6	dep	_	_
+6	tujhe	_	PRON	PRON	_	7	nsubj	_	_
+7	yahan	_	PRON	PRON	_	3	dobj	_	_
+8	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Daddy	_	PROPN	PROPN	_	5	nsubj	_	_
+2	ne	_	ADP	ADP	_	1	case	_	_
+3	muh	_	NOUN	NOUN	_	5	dobj	_	_
+4	band	_	ADJ	ADJ	_	5	compound	_	_
+5	kar	_	VERB	VERB	_	0	root	_	_
+6	rakha	_	AUX	AUX	_	5	aux	_	_
+7	tha	_	AUX	AUX	_	6	auxpass	_	_
+8	tera	_	PRON	PRON	_	5	dobj	_	_
+9	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Maa	_	NOUN	NOUN	_	3	nmod	_	_
+2	ki	_	ADP	ADP	_	1	case	_	_
+3	kasam	_	NOUN	NOUN	_	0	root	_	_
+4	hai	_	VERB	VERB	_	3	cop	_	_
+5	meri	_	PRON	PRON	_	10	nmod	_	_
+6	!	_	PUNCT	PUNCT	_	5	punct	_	_
+7	Main	_	ADP	ADP	_	5	case	_	_
+8	nahi	_	PART	PART	_	9	dep	_	_
+9	hissa	_	NOUN	NOUN	_	10	compound	_	_
+10	lungi	_	VERB	VERB	_	14	root	_	_
+11	iss	_	DET	DET	_	12	det	_	_
+12	chakkar	_	NOUN	NOUN	_	14	root	_	_
+13	mein	_	ADP	ADP	_	12	case	_	_
+14	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Arre	_	PROPN	PROPN	_	2	dobj	_	_
+2	dekho	_	VERB	VERB	_	4	advcl	_	_
+3	kahin	_	PRON	PRON	_	4	nmod	_	_
+4	gire	_	VERB	VERB	_	0	root	_	_
+5	toh	_	SCONJ	SCONJ	_	8	mark	_	_
+6	nahi	_	PART	PART	_	7	dep	_	_
+7	iske	_	PRON	PRON	_	8	nmod	_	_
+8	paise	_	NOUN	NOUN	_	4	nsubj	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ek	_	NUM	NUM	_	2	nummod	_	_
+2	baar	_	NOUN	NOUN	_	4	advmod	_	_
+3	haath	_	NOUN	NOUN	_	4	nsubj	_	_
+4	lag	_	VERB	VERB	_	0	root	_	_
+5	gaya	_	AUX	AUX	_	4	aux	_	_
+6	na	_	PART	PART	_	7	dep	_	_
+7	cash	_	ADV	ADV	_	11	nmod	_	_
+8	,	_	PUNCT	PUNCT	_	7	punct	_	_
+9	wapas	_	ADJ	ADJ	_	11	nmod	_	_
+10	na	_	PART	PART	_	11	neg	_	_
+11	aana	_	VERB	VERB	_	4	advcl	_	_
+12	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ashwin	_	PROPN	PROPN	_	2	compound	_	_
+2	Kumar	_	PROPN	PROPN	_	4	nmod	_	_
+3	wali	_	ADP	ADP	_	2	case	_	_
+4	galati	_	NOUN	NOUN	_	6	dobj	_	_
+5	nahi	_	PART	PART	_	6	neg	_	_
+6	dohrani	_	VERB	VERB	_	0	root	_	_
+7	hai	_	AUX	AUX	_	6	aux	_	_
+8	humein	_	PRON	PRON	_	6	nsubj	_	_
+9	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Jhumke	_	NOUN	NOUN	_	4	dobj	_	_
+2	bade	_	ADJ	ADJ	_	3	nsubj	_	_
+3	pyaare	_	ADJ	ADJ	_	4	acl	_	_
+4	pehne	_	VERB	VERB	_	6	acl:relcl	_	_
+5	hain	_	AUX	AUX	_	4	aux	_	_
+6	aap	_	PRON	PRON	_	0	root	_	_
+7	ne	_	ADP	ADP	_	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Saadi	_	NOUN	NOUN	_	3	nmod	_	_
+2	ki	_	ADP	ADP	_	1	case	_	_
+3	baat	_	NOUN	NOUN	_	6	nsubj	_	_
+4	kahan	_	PRON	PRON	_	6	nmod	_	_
+5	se	_	ADP	ADP	_	4	case	_	_
+6	aagayi	_	VERB	VERB	_	0	root	_	_
+7	beech	_	ADP	ADP	_	6	mark	_	_
+8	mein	_	ADP	ADP	_	6	mark	_	_
+9	ab	_	PRON	PRON	_	10	root	_	_
+10	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Kyon	_	PRON	PRON	_	2	advmod	_	_
+2	marunga	_	VERB	VERB	_	0	root	_	_
+3	main	_	PRON	PRON	_	5	nsubj	_	_
+4	apni	_	PRON	PRON	_	5	nmod	_	_
+5	beti	_	NOUN	NOUN	_	2	dobj	_	_
+6	ko	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Gaadi	_	NOUN	NOUN	_	2	dobj	_	_
+2	chod	_	VERB	VERB	_	4	advcl	_	_
+3	ke	_	ADP	ADP	_	2	mark	_	_
+4	aate	_	VERB	VERB	_	0	root	_	_
+5	hain	_	AUX	AUX	_	4	aux	_	_
+6	hum	_	DET	DET	_	7	det	_	_
+7	log	_	NOUN	NOUN	_	4	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Akele	_	ADJ	ADJ	_	3	nmod	_	_
+2	nahin	_	PART	PART	_	3	neg	_	_
+3	jaana	_	VERB	VERB	_	0	root	_	_
+4	itti	_	DET	DET	_	5	det	_	_
+5	raat	_	NOUN	NOUN	_	0	root	_	_
+6	mein	_	ADP	ADP	_	5	case	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Wahin	_	ADV	ADV	_	5	nmod	_	_
+2	flat	_	NOUN	NOUN	_	5	dobj	_	_
+3	mein	_	PRON	PRON	_	5	nsubj	_	_
+4	intejaam	_	NOUN	NOUN	_	5	compound	_	_
+5	kar	_	VERB	VERB	_	0	root	_	_
+6	diya	_	AUX	AUX	_	5	aux	_	_
+7	hai	_	AUX	AUX	_	6	auxpass	_	_
+8	usne	_	PRON	PRON	_	5	dobj	_	_
+9	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Mummy	_	NOUN	NOUN	_	4	nsubj	_	_
+2	ghar	_	NOUN	NOUN	_	4	nmod	_	_
+3	pe	_	ADP	ADP	_	2	case	_	_
+4	rehti	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	pura	_	ADJ	ADJ	_	7	amod	_	_
+7	samay	_	NOUN	NOUN	_	4	nsubj	_	_
+8	,	_	PUNCT	PUNCT	_	7	punct	_	_
+9	bhai	_	NOUN	NOUN	_	10	nmod	_	_
+10	behen	_	NOUN	NOUN	_	4	nsubj	_	_
+11	hai	_	PART	PART	_	10	dep	_	_
+12	nahi	_	PART	PART	_	13	mark	_	_
+13	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Laxmi	_	PROPN	PROPN	_	2	nmod	_	_
+2	aagayi	_	VERB	VERB	_	0	root	_	_
+3	ab	_	PRON	PRON	_	0	root	_	_
+4	toh	_	PART	PART	_	3	dep	_	_
+5	ghar	_	NOUN	NOUN	_	0	root	_	_
+6	mein	_	ADP	ADP	_	5	case	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Kal	_	NOUN	NOUN	_	5	nmod	_	_
+2	toh	_	PART	PART	_	1	dep	_	_
+3	barah	_	NUM	NUM	_	4	nummod	_	_
+4	baje	_	NOUN	NOUN	_	5	nmod	_	_
+5	hue	_	VERB	VERB	_	0	root	_	_
+6	the	_	AUX	AUX	_	5	aux	_	_
+7	tumhare	_	PRON	PRON	_	5	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Kya	_	PRON	PRON	_	2	advmod	_	_
+2	kar	_	VERB	VERB	_	0	root	_	_
+3	rahe	_	AUX	AUX	_	2	aux	_	_
+4	ho	_	AUX	AUX	_	3	auxpass	_	_
+5	tum	_	DET	DET	_	6	det	_	_
+6	log	_	NOUN	NOUN	_	2	nsubj	_	_
+7	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Ma	_	NOUN	NOUN	_	4	nsubj	_	_
+2	baap	_	NOUN	NOUN	_	4	dobj	_	_
+3	kuch	_	PRON	PRON	_	4	dobj	_	_
+4	kehtey	_	VERB	VERB	_	0	root	_	_
+5	nahin	_	PART	PART	_	6	dep	_	_
+6	uskey	_	PRON	PRON	_	4	dobj	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Chinta	_	NOUN	NOUN	_	3	compound	_	_
+2	na	_	PART	PART	_	3	neg	_	_
+3	karo	_	VERB	VERB	_	7	advcl	_	_
+4	,	_	PUNCT	PUNCT	_	3	punct	_	_
+5	maine	_	PRON	PRON	_	7	nsubj	_	_
+6	mail	_	NOUN	NOUN	_	7	compound	_	_
+7	daal	_	VERB	VERB	_	0	root	_	_
+8	di	_	AUX	AUX	_	7	aux	_	_
+9	hai	_	AUX	AUX	_	8	auxpass	_	_
+10	wakeel	_	NOUN	NOUN	_	12	root	_	_
+11	ko	_	ADP	ADP	_	10	case	_	_
+12	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Tune	_	VERB	VERB	_	0	root	_	_
+2	kyon	_	PRON	PRON	_	6	advmod	_	_
+3	mujhse	_	PRON	PRON	_	6	nmod	_	_
+4	shaadi	_	NOUN	NOUN	_	6	nmod	_	_
+5	ki	_	ADP	ADP	_	4	case	_	_
+6	fir	_	ADV	ADV	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Yaad	_	NOUN	NOUN	_	8	nmod	_	_
+2	hai	_	VERB	VERB	_	1	cop	_	_
+3	pehli	_	ADJ	ADJ	_	4	amod	_	_
+4	baar	_	NOUN	NOUN	_	8	nmod	_	_
+5	jab	_	PRON	PRON	_	8	nmod	_	_
+6	tu	_	NOUN	NOUN	_	8	nsubj	_	_
+7	ghar	_	NOUN	NOUN	_	8	nmod	_	_
+8	aaya	_	VERB	VERB	_	12	advcl	_	_
+9	tha	_	AUX	AUX	_	8	aux	_	_
+10	,	_	PUNCT	PUNCT	_	8	punct	_	_
+11	kya	_	PRON	PRON	_	12	advmod	_	_
+12	khilaya	_	VERB	VERB	_	0	root	_	_
+13	tha	_	AUX	AUX	_	12	aux	_	_
+14	tujhe	_	PRON	PRON	_	12	nsubj	_	_
+15	?	_	PUNCT	PUNCT	_	12	punct	_	_
+
+1	Arzee	_	NOUN	NOUN	_	4	dobj	_	_
+2	aapne	_	PRON	PRON	_	4	nmod	_	_
+3	jama	_	ADJ	ADJ	_	4	compound	_	_
+4	ki	_	VERB	VERB	_	0	root	_	_
+5	hai	_	AUX	AUX	_	4	aux	_	_
+6	court	_	NOUN	NOUN	_	4	dobj	_	_
+7	mein	_	ADP	ADP	_	6	case	_	_
+8	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Apni	_	PRON	PRON	_	2	nmod	_	_
+2	aankhon	_	NOUN	NOUN	_	4	nmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	dekhi	_	VERB	VERB	_	6	acl:relcl	_	_
+5	theen	_	AUX	AUX	_	4	aux	_	_
+6	maine	_	PRON	PRON	_	12	nsubj	_	_
+7	sharaab	_	NOUN	NOUN	_	9	nmod	_	_
+8	ki	_	ADP	ADP	_	7	case	_	_
+9	botlein	_	NOUN	NOUN	_	12	nmod	_	_
+10	Khempal	_	PROPN	PROPN	_	12	nmod	_	_
+11	ke	_	ADP	ADP	_	10	case	_	_
+12	kamre	_	NOUN	NOUN	_	0	root	_	_
+13	mein	_	ADP	ADP	_	12	case	_	_
+14	.	_	PUNCT	PUNCT	_	12	punct	_	_
+
+1	Galti	_	NOUN	NOUN	_	2	compound	_	_
+2	ho	_	VERB	VERB	_	4	acl	_	_
+3	gayi	_	AUX	AUX	_	2	aux	_	_
+4	tumse	_	PRON	PRON	_	7	nmod	_	_
+5	toh	_	PART	PART	_	4	dep	_	_
+6	khud	_	PRON	PRON	_	7	nsubj	_	_
+7	bhugto	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Char	_	NUM	NUM	_	2	nummod	_	_
+2	saal	_	NOUN	NOUN	_	8	nmod	_	_
+3	ka	_	ADP	ADP	_	2	case	_	_
+4	tha	_	VERB	VERB	_	2	cop	_	_
+5	ye	_	PRON	PRON	_	8	nsubj	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	Mummy	_	NOUN	NOUN	_	8	nsubj	_	_
+8	guzar	_	VERB	VERB	_	0	root	_	_
+9	gayi	_	AUX	AUX	_	8	aux	_	_
+10	hamari	_	PRON	PRON	_	8	nsubj	_	_
+11	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Ek	_	NUM	NUM	_	2	nummod	_	_
+2	danda	_	NOUN	NOUN	_	0	root	_	_
+3	tha	_	VERB	VERB	_	2	cop	_	_
+4	yahan	_	PRON	PRON	_	6	nmod	_	_
+5	kahan	_	PRON	PRON	_	6	nmod	_	_
+6	gaya	_	VERB	VERB	_	2	acl:relcl	_	_
+7	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Sahi	_	ADJ	ADJ	_	2	compound	_	_
+2	kiya	_	VERB	VERB	_	3	advcl	_	_
+3	nikal	_	VERB	VERB	_	5	acl	_	_
+4	aaya	_	AUX	AUX	_	3	aux	_	_
+5	gatar	_	NOUN	NOUN	_	7	nmod	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	tu	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Aap	_	PRON	PRON	_	10	nsubj	_	_
+2	logon	_	NOUN	NOUN	_	10	nsubj	_	_
+3	ne	_	ADP	ADP	_	2	case	_	_
+4	davaiyoon	_	NOUN	NOUN	_	6	nmod	_	_
+5	ke	_	ADP	ADP	_	4	case	_	_
+6	nashe	_	NOUN	NOUN	_	10	nmod	_	_
+7	mein	_	ADP	ADP	_	6	case	_	_
+8	jo	_	PRON	PRON	_	9	dobj	_	_
+9	chaha	_	VERB	VERB	_	10	dobj	_	_
+10	bulwa	_	VERB	VERB	_	0	root	_	_
+11	liya	_	AUX	AUX	_	10	aux	_	_
+12	mujhse	_	PRON	PRON	_	10	dobj	_	_
+13	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Uss	_	DET	DET	_	2	det	_	_
+2	raat	_	NOUN	NOUN	_	9	nmod	_	_
+3	tum	_	PRON	PRON	_	9	nsubj	_	_
+4	der	_	NOUN	NOUN	_	9	nmod	_	_
+5	tak	_	ADP	ADP	_	4	case	_	_
+6	laptop	_	NOUN	NOUN	_	9	nmod	_	_
+7	pe	_	ADP	ADP	_	6	case	_	_
+8	kam	_	NOUN	NOUN	_	9	dobj	_	_
+9	kar	_	VERB	VERB	_	0	root	_	_
+10	rahe	_	AUX	AUX	_	9	aux	_	_
+11	thhe	_	AUX	AUX	_	10	auxpass	_	_
+12	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	Kya	_	PRON	PRON	_	3	advmod	_	_
+2	nahi	_	PART	PART	_	3	neg	_	_
+3	samajh	_	VERB	VERB	_	0	root	_	_
+4	raha	_	AUX	AUX	_	3	aux	_	_
+5	hoon	_	AUX	AUX	_	4	auxpass	_	_
+6	main	_	PRON	PRON	_	3	nsubj	_	_
+7	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Main	_	ADP	ADP	_	0	root	_	_
+2	asthiyaan	_	NOUN	NOUN	_	3	dobj	_	_
+3	lekar	_	VERB	VERB	_	7	advcl	_	_
+4	ghar	_	NOUN	NOUN	_	7	nmod	_	_
+5	mein	_	ADP	ADP	_	4	case	_	_
+6	nahin	_	PART	PART	_	7	neg	_	_
+7	aasakti	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Aamdani	_	NOUN	NOUN	_	4	nmod	_	_
+2	ka	_	ADP	ADP	_	1	case	_	_
+3	kuch	_	DET	DET	_	4	det	_	_
+4	jariya	_	NOUN	NOUN	_	0	root	_	_
+5	hai	_	VERB	VERB	_	4	cop	_	_
+6	tera	_	PRON	PRON	_	4	nmod	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Jo	_	PRON	PRON	_	7	nsubj	_	_
+2	mann	_	NOUN	NOUN	_	3	compound	_	_
+3	kare	_	VERB	VERB	_	7	advcl	_	_
+4	tera	_	NOUN	NOUN	_	7	nmod	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	kaam	_	NOUN	NOUN	_	7	dobj	_	_
+7	kar	_	VERB	VERB	_	0	root	_	_
+8	liyo	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Court	_	NOUN	NOUN	_	3	nmod	_	_
+2	mein	_	ADP	ADP	_	1	case	_	_
+3	jama	_	ADJ	ADJ	_	12	nmod	_	_
+4	hain	_	VERB	VERB	_	3	cop	_	_
+5	kagaj	_	NOUN	NOUN	_	12	nsubj	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	teen	_	NUM	NUM	_	8	punct	_	_
+8	chaar	_	NUM	NUM	_	9	nummod	_	_
+9	mahine	_	NOUN	NOUN	_	11	nmod	_	_
+10	mein	_	ADP	ADP	_	9	case	_	_
+11	hojaega	_	VERB	VERB	_	12	advcl	_	_
+12	talaq	_	VERB	VERB	_	0	root	_	_
+13	.	_	PUNCT	PUNCT	_	12	punct	_	_
+
+1	Meri	_	PRON	PRON	_	3	nmod	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	voh	_	PRON	PRON	_	7	nsubj	_	_
+4	waisey	_	PRON	PRON	_	7	nmod	_	_
+5	bhi	_	PART	PART	_	4	dep	_	_
+6	kahan	_	PRON	PRON	_	7	nmod	_	_
+7	sunti	_	VERB	VERB	_	11	advcl	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+9	jo	_	PRON	PRON	_	11	nsubj	_	_
+10	aaj	_	NOUN	NOUN	_	11	nmod	_	_
+11	sunn	_	VERB	VERB	_	0	root	_	_
+12	legi	_	AUX	AUX	_	11	aux	_	_
+
+1	Tera	_	PRON	PRON	_	2	dobj	_	_
+2	daala	_	VERB	VERB	_	3	advcl	_	_
+3	panga	_	VERB	VERB	_	0	root	_	_
+4	hai	_	AUX	AUX	_	3	aux	_	_
+5	saara	_	PRON	PRON	_	3	nsubj	_	_
+6	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Humne	_	PRON	PRON	_	5	nsubj	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	kal	_	NOUN	NOUN	_	5	nmod	_	_
+4	hi	_	PART	PART	_	3	dep	_	_
+5	dikhaye	_	VERB	VERB	_	0	root	_	_
+6	the	_	AUX	AUX	_	5	aux	_	_
+7	khoon	_	NOUN	NOUN	_	9	nmod	_	_
+8	ke	_	ADP	ADP	_	7	case	_	_
+9	nishaan	_	NOUN	NOUN	_	12	root	_	_
+10	taale	_	ADP	ADP	_	9	case	_	_
+11	par	_	ADP	ADP	_	9	case	_	_
+12	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Kal	_	NOUN	NOUN	_	13	nmod	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	tere	_	PRON	PRON	_	13	nmod	_	_
+4	saath	_	ADP	ADP	_	3	case	_	_
+5	kuchh	_	DET	DET	_	7	det	_	_
+6	oonch	_	ADJ	ADJ	_	7	amod	_	_
+7	neech	_	NOUN	NOUN	_	8	compound	_	_
+8	kar	_	VERB	VERB	_	10	nmod	_	_
+9	ke	_	ADP	ADP	_	8	mark	_	_
+10	maar	_	VERB	VERB	_	12	nmod	_	_
+11	ke	_	ADP	ADP	_	10	mark	_	_
+12	tujhe	_	PRON	PRON	_	13	nsubj	_	_
+13	phenk	_	VERB	VERB	_	0	root	_	_
+14	dega	_	AUX	AUX	_	13	aux	_	_
+15	jamuna	_	PROPN	PROPN	_	13	nsubj	_	_
+16	ji	_	PART	PART	_	15	dep	_	_
+17	mein	_	ADP	ADP	_	15	case	_	_
+18	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+1	Aap	_	PRON	PRON	_	2	nsubj	_	_
+2	khelte	_	VERB	VERB	_	0	root	_	_
+3	ho	_	AUX	AUX	_	2	aux	_	_
+4	teen	_	NUM	NUM	_	5	nummod	_	_
+5	patti	_	NOUN	NOUN	_	2	nsubj	_	_
+6	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Ek	_	NUM	NUM	_	2	nummod	_	_
+2	raat	_	NOUN	NOUN	_	3	advmod	_	_
+3	aur	_	ADJ	ADJ	_	6	nmod	_	_
+4	hai	_	VERB	VERB	_	3	cop	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	kaat	_	VERB	VERB	_	0	root	_	_
+7	le	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Teri	_	PRON	PRON	_	3	nmod	_	_
+2	meri	_	PRON	PRON	_	3	nmod	_	_
+3	life	_	NOUN	NOUN	_	4	nsubj	_	_
+4	judi	_	VERB	VERB	_	0	root	_	_
+5	hui	_	AUX	AUX	_	4	aux	_	_
+6	hai	_	AUX	AUX	_	5	auxpass	_	_
+7	ab	_	PRON	PRON	_	4	nsubj	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Cake	_	NOUN	NOUN	_	3	dobj	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	kha	_	VERB	VERB	_	0	root	_	_
+4	ke	_	ADP	ADP	_	3	mark	_	_
+5	jao	_	AUX	AUX	_	3	mark	_	_
+6	,	_	PUNCT	PUNCT	_	3	punct	_	_
+7	inke	_	PRON	PRON	_	8	nmod	_	_
+8	janamdin	_	NOUN	NOUN	_	3	nsubj	_	_
+9	ka	_	ADP	ADP	_	8	case	_	_
+10	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Le	_	VERB	VERB	_	0	root	_	_
+2	bhi	_	PART	PART	_	1	dep	_	_
+3	liye	_	AUX	AUX	_	1	aux	_	_
+4	toh	_	SCONJ	SCONJ	_	9	mark	_	_
+5	de	_	VERB	VERB	_	7	acl	_	_
+6	denge	_	AUX	AUX	_	5	aux	_	_
+7	paise	_	NOUN	NOUN	_	9	root	_	_
+8	wapas	_	ADJ	ADJ	_	9	root	_	_
+9	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Subah	_	NOUN	NOUN	_	3	nmod	_	_
+2	se	_	ADP	ADP	_	1	case	_	_
+3	lagi	_	VERB	VERB	_	0	root	_	_
+4	hui	_	AUX	AUX	_	3	aux	_	_
+5	hain	_	AUX	AUX	_	4	auxpass	_	_
+6	mummy	_	NOUN	NOUN	_	7	nsubj	_	_
+7	rasoi	_	NOUN	NOUN	_	3	nsubj	_	_
+8	mein	_	ADP	ADP	_	7	case	_	_
+9	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	mera	_	PROPN	PROPN	_	9	nsubj	_	_
+2	na	_	ADP	ADP	_	1	case	_	_
+3	bada	_	ADV	ADV	_	4	advmod	_	_
+4	tez	_	ADJ	ADJ	_	5	amod	_	_
+5	dimaag	_	NOUN	NOUN	_	9	nmod	_	_
+6	hai	_	PART	PART	_	5	dep	_	_
+7	paison	_	NOUN	NOUN	_	9	nmod	_	_
+8	ke	_	ADP	ADP	_	7	case	_	_
+9	maamley	_	NOUN	NOUN	_	0	root	_	_
+10	mein	_	ADP	ADP	_	9	case	_	_
+
+1	Pichle	_	ADJ	ADJ	_	3	amod	_	_
+2	3	_	NUM	NUM	_	3	nummod	_	_
+3	saal	_	NOUN	NOUN	_	8	nmod	_	_
+4	mein	_	ADP	ADP	_	3	case	_	_
+5	4	_	NUM	NUM	_	6	nummod	_	_
+6	baar	_	NOUN	NOUN	_	8	nmod	_	_
+7	report	_	NOUN	NOUN	_	8	nsubj	_	_
+8	badal	_	VERB	VERB	_	11	acl:relcl	_	_
+9	chuka	_	AUX	AUX	_	8	aux	_	_
+10	hai	_	AUX	AUX	_	9	auxpass	_	_
+11	wo	_	PRON	PRON	_	0	root	_	_
+12	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	Kursi	_	NOUN	NOUN	_	7	nmod	_	_
+2	pe	_	ADP	ADP	_	1	case	_	_
+3	kapda	_	NOUN	NOUN	_	7	nsubj	_	_
+4	kaunse	_	PRON	PRON	_	5	nmod	_	_
+5	rang	_	NOUN	NOUN	_	7	nmod	_	_
+6	ka	_	ADP	ADP	_	5	case	_	_
+7	chadaya	_	VERB	VERB	_	0	root	_	_
+8	hai	_	AUX	AUX	_	7	aux	_	_
+9	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Hamara	_	PRON	PRON	_	4	nmod	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	zyada	_	DET	DET	_	4	det	_	_
+4	matlab	_	NOUN	NOUN	_	6	nsubj	_	_
+5	nahin	_	PART	PART	_	6	neg	_	_
+6	padta	_	VERB	VERB	_	0	root	_	_
+7	tha	_	AUX	AUX	_	6	aux	_	_
+8	Tandon	_	PROPN	PROPN	_	9	nsubj	_	_
+9	saab	_	PRON	PRON	_	6	nsubj	_	_
+10	se	_	ADP	ADP	_	9	case	_	_
+11	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Aaye	_	VERB	VERB	_	0	root	_	_
+2	nahi	_	PART	PART	_	1	dep	_	_
+3	aap	_	PRON	PRON	_	7	root	_	_
+4	teen	_	NUM	NUM	_	5	nummod	_	_
+5	din	_	NOUN	NOUN	_	7	root	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Fail	_	X	X	_	2	compound	_	_
+2	kara	_	VERB	VERB	_	0	root	_	_
+3	dia	_	AUX	AUX	_	2	aux	_	_
+4	aapne	_	PRON	PRON	_	5	nsubj	_	_
+5	ladke	_	NOUN	NOUN	_	2	nsubj	_	_
+6	ko	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Main	_	PRON	PRON	_	8	nsubj	_	_
+2	neeche	_	ADV	ADV	_	8	nmod	_	_
+3	khanduri	_	PROPN	PROPN	_	8	nsubj	_	_
+4	saab	_	PRON	PRON	_	8	nmod	_	_
+5	se	_	ADP	ADP	_	4	case	_	_
+6	kagaj	_	NOUN	NOUN	_	8	dobj	_	_
+7	poore	_	ADJ	ADJ	_	8	compound	_	_
+8	karata	_	VERB	VERB	_	0	root	_	_
+9	hun	_	AUX	AUX	_	8	aux	_	_
+10	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Pyar	_	NOUN	NOUN	_	2	compound	_	_
+2	karti	_	VERB	VERB	_	0	root	_	_
+3	hai	_	AUX	AUX	_	2	aux	_	_
+4	na	_	ADP	ADP	_	2	dep	_	_
+5	Prince	_	PROPN	PROPN	_	7	root	_	_
+6	se	_	ADP	ADP	_	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Jee	_	PART	PART	_	3	dep	_	_
+2	bhar	_	PART	PART	_	1	dep	_	_
+3	ke	_	ADP	ADP	_	4	dep	_	_
+4	ro	_	NOUN	NOUN	_	9	nmod	_	_
+5	bhee	_	PART	PART	_	4	dep	_	_
+6	nahi	_	PART	PART	_	7	neg	_	_
+7	sake	_	AUX	AUX	_	4	aux	_	_
+8	hum	_	DET	DET	_	9	det	_	_
+9	log	_	NOUN	NOUN	_	10	nsubj	_	_
+10	uske	_	PRON	PRON	_	0	root	_	_
+11	liye	_	ADP	ADP	_	10	case	_	_
+12	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Sab	_	PRON	PRON	_	2	punct	_	_
+2	soch	_	NOUN	NOUN	_	4	nmod	_	_
+3	ke	_	ADP	ADP	_	2	case	_	_
+4	bolra	_	NOUN	NOUN	_	0	root	_	_
+5	hun	_	VERB	VERB	_	4	cop	_	_
+6	main	_	PRON	PRON	_	4	nmod	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Tere	_	PRON	PRON	_	6	dobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	samajh	_	NOUN	NOUN	_	6	nmod	_	_
+4	mein	_	ADP	ADP	_	3	case	_	_
+5	nahi	_	PART	PART	_	6	neg	_	_
+6	aata	_	VERB	VERB	_	0	root	_	_
+7	kya	_	PRON	PRON	_	8	advmod	_	_
+8	kuchh	_	PRON	PRON	_	6	nsubj	_	_
+9	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Beti	_	NOUN	NOUN	_	3	nmod	_	_
+2	ki	_	ADP	ADP	_	1	case	_	_
+3	shaadi	_	NOUN	NOUN	_	0	root	_	_
+4	hai	_	VERB	VERB	_	3	cop	_	_
+5	Kitna	_	DET	DET	_	6	det	_	_
+6	kharcha	_	NOUN	NOUN	_	7	compound	_	_
+7	hoga	_	VERB	VERB	_	0	root	_	_
+8	pata	_	NOUN	NOUN	_	0	root	_	_
+9	nahi	_	PART	PART	_	10	neg	_	_
+10	hai	_	VERB	VERB	_	8	cop	_	_
+11	tumhe	_	PRON	PRON	_	0	root	_	_
+12	?	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	tu	_	NOUN	NOUN	_	6	nsubj	_	_
+2	waisey	_	PRON	PRON	_	6	nmod	_	_
+3	paris	_	PROPN	PROPN	_	6	nmod	_	_
+4	mein	_	ADP	ADP	_	3	case	_	_
+5	kya	_	PRON	PRON	_	6	advmod	_	_
+6	kar	_	VERB	VERB	_	0	root	_	_
+7	rahi	_	AUX	AUX	_	6	aux	_	_
+8	hai	_	AUX	AUX	_	7	auxpass	_	_
+9	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Tere	_	PRON	PRON	_	5	nmod	_	_
+2	paas	_	ADP	ADP	_	1	case	_	_
+3	kahan	_	PRON	PRON	_	5	nmod	_	_
+4	se	_	ADP	ADP	_	3	case	_	_
+5	aagaye	_	VERB	VERB	_	0	root	_	_
+6	teen	_	NUM	NUM	_	0	root	_	_
+7	lakh	_	NUM	NUM	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Shruti	_	PROPN	PROPN	_	4	iobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	pata	_	NOUN	NOUN	_	4	compound	_	_
+4	chal	_	VERB	VERB	_	7	acl:relcl	_	_
+5	gaya	_	AUX	AUX	_	4	aux	_	_
+6	tha	_	AUX	AUX	_	5	auxpass	_	_
+7	tum	_	PRON	PRON	_	8	nsubj	_	_
+8	dono	_	NOUN	NOUN	_	0	root	_	_
+9	ke	_	ADP	ADP	_	8	case	_	_
+10	baare	_	ADP	ADP	_	8	case	_	_
+11	mein	_	ADP	ADP	_	8	case	_	_
+12	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Toh	_	SCONJ	SCONJ	_	6	mark	_	_
+2	phir	_	ADV	ADV	_	3	advmod	_	_
+3	bol	_	VERB	VERB	_	6	advcl	_	_
+4	kyun	_	PRON	PRON	_	6	advmod	_	_
+5	nahi	_	PART	PART	_	6	neg	_	_
+6	rahe	_	VERB	VERB	_	0	root	_	_
+7	ho	_	AUX	AUX	_	6	aux	_	_
+8	kuchh	_	PRON	PRON	_	6	nsubj	_	_
+9	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Aapse	_	PRON	PRON	_	3	nmod	_	_
+2	request	_	PROPN	PROPN	_	3	nsubj	_	_
+3	karni	_	VERB	VERB	_	5	acl:relcl	_	_
+4	thi	_	AUX	AUX	_	3	aux	_	_
+5	wo	_	PRON	PRON	_	11	nsubj	_	_
+6	ek	_	NUM	NUM	_	7	nummod	_	_
+7	mahine	_	NOUN	NOUN	_	9	nmod	_	_
+8	ki	_	ADP	ADP	_	7	case	_	_
+9	mohlat	_	NOUN	NOUN	_	11	nmod	_	_
+10	thodi	_	ADJ	ADJ	_	11	advmod	_	_
+11	badha	_	VERB	VERB	_	0	root	_	_
+12	do	_	NUM	NUM	_	13	root	_	_
+13	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	Chhatis	_	NUM	NUM	_	2	nummod	_	_
+2	logon	_	NOUN	NOUN	_	6	nmod	_	_
+3	se	_	ADP	ADP	_	2	case	_	_
+4	aage	_	ADP	ADP	_	2	case	_	_
+5	baat	_	NOUN	NOUN	_	6	compound	_	_
+6	karli	_	VERB	VERB	_	7	acl:relcl	_	_
+7	maine	_	PRON	PRON	_	8	nsubj	_	_
+8	puri	_	ADJ	ADJ	_	0	root	_	_
+9	!	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Thode	_	DET	DET	_	2	det	_	_
+2	din	_	NOUN	NOUN	_	4	nmod	_	_
+3	sabar	_	NOUN	NOUN	_	4	compound	_	_
+4	karle	_	VERB	VERB	_	0	root	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	theek	_	ADJ	ADJ	_	7	amod	_	_
+7	hojega	_	NOUN	NOUN	_	8	nsubj	_	_
+8	sab	_	PRON	PRON	_	4	conj	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Rail	_	NOUN	NOUN	_	2	compound	_	_
+2	phatak	_	NOUN	NOUN	_	5	nmod	_	_
+3	ki	_	ADP	ADP	_	2	case	_	_
+4	taraf	_	ADP	ADP	_	2	case	_	_
+5	chal	_	VERB	VERB	_	0	root	_	_
+6	fatafat	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Baap	_	NOUN	NOUN	_	4	iobj	_	_
+2	ko	_	ADP	ADP	_	1	case	_	_
+3	pata	_	NOUN	NOUN	_	4	compound	_	_
+4	chala	_	VERB	VERB	_	0	root	_	_
+5	uske	_	PRON	PRON	_	7	nmod	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	marwa	_	VERB	VERB	_	12	root	_	_
+8	dega	_	AUX	AUX	_	7	aux	_	_
+9	tum	_	PRON	PRON	_	10	nsubj	_	_
+10	dono	_	NOUN	NOUN	_	12	root	_	_
+11	ko	_	ADP	ADP	_	10	case	_	_
+12	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Mehnat	_	NOUN	NOUN	_	7	dobj	_	_
+2	aapne	_	PRON	PRON	_	7	nsubj	_	_
+3	bhee	_	PART	PART	_	2	dep	_	_
+4	kuch	_	DET	DET	_	5	det	_	_
+5	kam	_	ADJ	ADJ	_	7	acl	_	_
+6	thodi	_	ADJ	ADJ	_	7	compound	_	_
+7	kii	_	VERB	VERB	_	0	root	_	_
+8	thee	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Main	_	PRON	PRON	_	2	nsubj	_	_
+2	mar	_	VERB	VERB	_	4	acl	_	_
+3	lunga	_	AUX	AUX	_	2	aux	_	_
+4	kalank	_	NOUN	NOUN	_	6	dobj	_	_
+5	apne	_	PRON	PRON	_	6	nsubj	_	_
+6	sar	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Dekhiye	_	VERB	VERB	_	0	root	_	_
+2	aap	_	PRON	PRON	_	7	nsubj	_	_
+3	logon	_	NOUN	NOUN	_	7	nmod	_	_
+4	ke	_	ADP	ADP	_	3	case	_	_
+5	beech	_	ADP	ADP	_	3	case	_	_
+6	mein	_	ADP	ADP	_	3	case	_	_
+7	jo	_	PRON	PRON	_	15	root	_	_
+8	hai	_	VERB	VERB	_	7	cop	_	_
+9	,	_	PUNCT	PUNCT	_	8	punct	_	_
+10	woh	_	PRON	PRON	_	14	nsubj	_	_
+11	toh	_	PART	PART	_	10	dep	_	_
+12	aap	_	PRON	PRON	_	14	nsubj	_	_
+13	hi	_	PART	PART	_	12	dep	_	_
+14	janein	_	VERB	VERB	_	7	acl:relcl	_	_
+15	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Kuch	_	PRON	PRON	_	3	dobj	_	_
+2	to	_	PART	PART	_	1	dep	_	_
+3	lo	_	VERB	VERB	_	0	root	_	_
+4	ji	_	AUX	AUX	_	3	aux	_	_
+5	,	_	PUNCT	PUNCT	_	3	punct	_	_
+6	pehli	_	ADJ	ADJ	_	7	amod	_	_
+7	baar	_	NOUN	NOUN	_	8	nmod	_	_
+8	aaye	_	VERB	VERB	_	3	advcl	_	_
+9	ho	_	AUX	AUX	_	8	aux	_	_
+10	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Sabko	_	PRON	PRON	_	2	dobj	_	_
+2	bol	_	VERB	VERB	_	5	acl	_	_
+3	dungi	_	AUX	AUX	_	2	aux	_	_
+4	tum	_	DET	DET	_	5	det	_	_
+5	log	_	NOUN	NOUN	_	7	nsubj	_	_
+6	kya	_	PRON	PRON	_	7	advmod	_	_
+7	karte	_	VERB	VERB	_	0	root	_	_
+8	ho	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Aap	_	PRON	PRON	_	5	nsubj	_	_
+2	jaake	_	VERB	VERB	_	5	nsubj	_	_
+3	ek	_	NUM	NUM	_	4	nummod	_	_
+4	baar	_	NOUN	NOUN	_	5	advmod	_	_
+5	mill	_	VERB	VERB	_	13	advcl	_	_
+6	aaoge	_	AUX	AUX	_	5	aux	_	_
+7	toh	_	SCONJ	SCONJ	_	13	mark	_	_
+8	naak	_	NOUN	NOUN	_	10	compound	_	_
+9	nahi	_	PART	PART	_	10	neg	_	_
+10	cut	_	VERB	VERB	_	12	acl	_	_
+11	jaayegi	_	AUX	AUX	_	10	aux	_	_
+12	aap	_	PRON	PRON	_	13	nsubj	_	_
+13	ki	_	VERB	VERB	_	0	root	_	_
+14	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+1	Tu	_	NOUN	NOUN	_	3	nsubj	_	_
+2	toh	_	SCONJ	SCONJ	_	3	mark	_	_
+3	bol	_	VERB	VERB	_	11	advcl	_	_
+4	raha	_	AUX	AUX	_	3	aux	_	_
+5	tha	_	AUX	AUX	_	4	auxpass	_	_
+6	teri	_	PRON	PRON	_	7	nmod	_	_
+7	patti	_	NOUN	NOUN	_	11	nsubj	_	_
+8	hai	_	PART	PART	_	7	dep	_	_
+9	bhabhi	_	PROPN	PROPN	_	11	dobj	_	_
+10	se	_	ADP	ADP	_	9	case	_	_
+11	badi	_	VERB	VERB	_	0	root	_	_
+12	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	Bhai	_	NOUN	NOUN	_	4	nsubj	_	_
+2	meri	_	PRON	PRON	_	3	nmod	_	_
+3	samajh	_	NOUN	NOUN	_	4	nsubj	_	_
+4	kam	_	ADJ	ADJ	_	0	root	_	_
+5	hi	_	PART	PART	_	4	dep	_	_
+6	hai	_	VERB	VERB	_	4	cop	_	_
+7	thodi	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Ghar	_	NOUN	NOUN	_	4	nmod	_	_
+2	ke	_	ADP	ADP	_	1	case	_	_
+3	bade	_	ADJ	ADJ	_	4	amod	_	_
+4	boodhon	_	NOUN	NOUN	_	7	nmod	_	_
+5	ka	_	ADP	ADP	_	4	case	_	_
+6	yeh	_	DET	DET	_	7	det	_	_
+7	haal	_	NOUN	NOUN	_	16	nmod	_	_
+8	hai	_	VERB	VERB	_	7	cop	_	_
+9	to	_	SCONJ	SCONJ	_	16	mark	_	_
+10	kya	_	DET	DET	_	11	det	_	_
+11	asar	_	NOUN	NOUN	_	12	nsubj	_	_
+12	padega	_	VERB	VERB	_	16	nsubj	_	_
+13	bachcho	_	NOUN	NOUN	_	16	nmod	_	_
+14	pe	_	ADP	ADP	_	13	case	_	_
+15	,	_	PUNCT	PUNCT	_	13	punct	_	_
+16	socha	_	VERB	VERB	_	0	root	_	_
+17	hai	_	AUX	AUX	_	16	aux	_	_
+18	?	_	PUNCT	PUNCT	_	16	punct	_	_
+
+1	Nahi	_	PART	PART	_	2	dep	_	_
+2	unka	_	PRON	PRON	_	4	nmod	_	_
+3	toh	_	PART	PART	_	2	dep	_	_
+4	office	_	NOUN	NOUN	_	11	nmod	_	_
+5	mein	_	ADP	ADP	_	4	case	_	_
+6	he	_	PART	PART	_	4	dep	_	_
+7	der	_	NOUN	NOUN	_	8	nmod	_	_
+8	der	_	NOUN	NOUN	_	11	nmod	_	_
+9	tak	_	ADP	ADP	_	8	case	_	_
+10	kaam	_	NOUN	NOUN	_	11	nsubj	_	_
+11	chal	_	VERB	VERB	_	0	root	_	_
+12	raha	_	AUX	AUX	_	11	aux	_	_
+13	hai	_	AUX	AUX	_	12	auxpass	_	_
+14	aajkal	_	NOUN	NOUN	_	11	nsubj	_	_
+15	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	Galti	_	NOUN	NOUN	_	7	advmod	_	_
+2	meri	_	PRON	PRON	_	4	nmod	_	_
+3	hai	_	PART	PART	_	2	dep	_	_
+4	gaadi	_	NOUN	NOUN	_	7	nsubj	_	_
+5	inke	_	PRON	PRON	_	6	nmod	_	_
+6	hatthe	_	NOUN	NOUN	_	7	dobj	_	_
+7	chodi	_	VERB	VERB	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
