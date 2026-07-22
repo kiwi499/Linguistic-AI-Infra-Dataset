@@ -1,6 +1,27 @@
 # Linguistic-AI-Infra-Dataset
 本项目用于构建一个面向大模型语言学能力评测的标准数据库。当前版本以 Universal Dependencies 的 CoNLL-U 测试集为基础，将多语言、多树库的标注数据整理为统一 JSONL 格式，方便后续用于在线评测、Prompt 评测、模型对比和错误分析。
 
+> [!WARNING]
+> 当前仓库及其 UD 来源数据是公开的，不能视为严格保密的隐藏题库。它们适合开发、教学和公开基准评测；需要严格防作弊时，应使用未公开、经人工审核的独立标注集，并仅在后端保存黄金答案。
+
+平台 MVP 的架构、安全边界和开发阶段见：
+
+- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)
+- [`docs/ROADMAP.md`](docs/ROADMAP.md)
+
+## 本地开发
+
+项目的确定性评分核心使用 Python 3.11 或更高版本：
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -e ".[dev]"
+.\.venv\Scripts\python.exe -m pytest
+.\.venv\Scripts\ruff.exe check .
+```
+
+所有正式评分由代码完成，不使用第二个大模型充当裁判。
+
 ## 项目目标
 
 这个仓库的目标不是简单保存原始语料，而是把不同语言、不同树库、不同标注习惯的数据整理成可复用、可追踪、可自动评分的标准数据库。
