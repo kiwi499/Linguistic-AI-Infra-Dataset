@@ -11,9 +11,8 @@ import argparse
 import json
 import re
 from collections import Counter, defaultdict
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
-
 
 MISSING = "_"
 
@@ -263,15 +262,13 @@ def build_dataset(input_dir: Path, output_dir: Path, treebanks_dir: Path | None)
         write_jsonl(by_language_dir / f"{language_dir_name}.jsonl", samples)
 
     by_language_counts = {key: len(value) for key, value in sorted(samples_by_language.items())}
-    by_task_counts = Counter(
-        task for sample in all_samples for task in sample["tasks_available"]
-    )
+    by_task_counts = Counter(task for sample in all_samples for task in sample["tasks_available"])
     by_treebank_counts = Counter(
         f"{sample['language']}_{sample['treebank']}" for sample in all_samples
     )
 
     metadata = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": datetime.now(UTC).isoformat(),
         "input_dir": str(input_dir),
         "total_samples": len(all_samples),
         "total_languages": len(samples_by_language),
@@ -286,8 +283,14 @@ def build_dataset(input_dir: Path, output_dir: Path, treebanks_dir: Path | None)
                 "head_form",
                 "deprel",
             ],
-            "xpos_policy": "answers.xpos is included only when every token in the sentence has a non-empty XPOS value.",
-            "transliteration_policy": "answers.transliteration is included only when every token in the sentence has MISC.Translit.",
+            "xpos_policy": (
+                "answers.xpos is included only when every token in the sentence has a "
+                "non-empty XPOS value."
+            ),
+            "transliteration_policy": (
+                "answers.transliteration is included only when every token in the sentence "
+                "has MISC.Translit."
+            ),
         },
     }
     (output_dir / "metadata.json").write_text(
